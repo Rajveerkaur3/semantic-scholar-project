@@ -1,85 +1,108 @@
 paper_id,author_id,title,year
-c50a69d2cde2cb8915bf024cbe25918c5421d09f,48426429,Modèles de la variabilité géométrique du rachis scoliotique,2008
-ba2a3f0264a196ea1b2d1b948ca6cf786ab54eff,48426429,Estimation régionale de l’humidité du sol par télédétection,1996
-587ed2f5dfbf4274d6bf2569c212425d047346da,48426429,Comparaison de techniques statistiques utilisées dans l'élaboration de modéles prévisionnels phénoclimatiques,1984
-a98f880e33588116781aa5059564a80c9ad66c8d,48426429,Méthodologie analytique pour déterminer la spéciation de l'aluminium dans les eaux lacustres en voie d'acidification.,1982
-1f152c16f976fba65941d5ac6b35ff112e8f08f4,48426429,Comparaison de méthodes de simulation de la loi Pearson 3.,1981
-4ca3ecca6ae28b97f224719d399ae4d93654a3cb,48426429,Étude des meilleurs ajustements du modèle de Michaelis-Menten: Application a la biodégradation du phénol.,1981
-a73f01cdce2a5d4df32ca7d80b884c8de60a6a26,48426429,"Neurofibromatose: hypertension rénovasculaire, sténose de l'aorte abdominale, de l'artère hépatique et de l'artère mésentérique supĕrieure",1974
-3424ae1868cf2f13add2984e61748008ee964d56,2237141740,Clustering and Profiling Student Study Behaviors and Interactions with an AI Coding Assistant,2025
-5c0d98278373937929702d853e9070f96eeb8ebc,2237141740,Individual tree detection and classification from RGB satellite imagery with applications to wildfire fuel mapping and exposure assessments,2024
-437b1b9f22a68a97004defa81312be459d5a595c,2237141740,Three-dimensional human shape inference from silhouettes: reconstruction and validation,2011
-f4632002cbdce866ac5d5b4264675c2760bfcc77,2237141740,du CNRC ( NPArC ) Fast 3 D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model,2011
-cefdd81ac2120b034101eb03d10b870f1567d56c,2237141740,Fast 3D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model,2009
-8090faaba022250f0ba5cbce2837c40240ea7aec,2237141740,NRC Publications Archive Archives des publications du CNRC,
-9138abb890f915a3753e38bca553d09aaadf9542,2237141740,NRC Publications Archive Archives des publications du CNRC,
-fce537c0f736e786f906127d95c36354e742c420,2237141740,ScholarWorks@UMass Amherst ScholarWorks@UMass Amherst,
-4a54089322be6806e6895ddab476969c3a0d0f8d,144608597,Enhanced tomographic printing via 3D ray-tracing dose optimization,2023
-70c36d8ee28b70c72cfe9154e901420d4901a659,144608597,Controlling light dose in tomographic volumetric additive manufacturing,2023
-8979e5f938c0512cc4012e14f080088783e6d95b,144608597,Deconvolution volumetric additive manufacturing,2023
-768f39b90016ac36e0c4ca50da7f1dbc38a97846,144608597,Ray-based distortion correction in tomographic additive manufacturing,2022
-a21d07d6801f5eb81858134b878cb06b0fc59df8,144608597,On-the-fly 3D metrology of volumetric additive manufacturing,2022
-b8a445e92a7d720ed31969a9e376b77439ea446a,144608597,Optical Scattering Tomography for Volumetric Additive Manufacturing,2022
-f73e0bb87c128f060d0e4103a5d65e8e0abf5dc3,144608597,Frequency Shift Method: A Technique for 3-D Shape Acquisition in the Presence of Strong Interreflections,2022
-fb259697abc78cedce881701b5be08adbd2263b7,144608597,Versatile volumetric additive manufacturing with 3D ray tracing.,2022
-812e0b59076dfa73fec1cc198013ed0c74b9aa22,144608597,Correcting ray distortion in tomographic additive manufacturing.,2021
-47dfe5c02ef01ab233a0490e94ccb2127d4218cd,144608597,"Augmented reality, 3D measurement, and thermal imagery for computer-assisted manufacturing",2020
-4c239f810fc42a9a94fc9c23a6ff6ca0f96db888,144608597,Dimensional Analysis and Laser-Ultrasonic Inspection of Cold Spray Additive Manufacturing Components,2020
-7e9d1561713412e2023d3e4ccc79b2c8341e6ba8,144608597,Structured-light systems using a programmable quasi-analogue projection subsystem,2020
-94b5cd35f09e88c599a58a34fc0b8f96c7611d0d,144608597,Projector-based augmented reality with simultaneous 3D inspection using a single DMD,2020
-d58f113569e2fee186b566515ea406b017c588bc,144608597,Modeling and Simulation Framework for Airborne Camera Systems,2020
-7d2850514cc260a2cd798389628dd52779ac421b,144608597,Frequency Shift Triangulation: A Robust Fringe Projection Technique for 3D Shape Acquisition in the Presence of Strong Interreflections,2019
-83096508c88344f43004161d39094174cf6a77fb,144608597,"Comparison of laser triangulation, phase shift triangulation and swept source optical coherence Tomography for nondestructive inspection of objects with micrometric accuracy",2019
-9cc30b699ac5c0057ce278b497d64a9f9877a474,144608597,Training a CNN to robustly segment the human body parts in range image sequences,2019
-78fe9bebeee37ef61f8385436e345b2bd7e4fa8b,144608597,Increasing the Robustness of CNN-Based Human Body Segmentation in Range Images by Modeling Sensor-Specific Artifacts,2018
-984cc389d3b3f87713b36a866dc6718b770c068c,144608597,Real-Time Large-Scale Fusion of High Resolution 3D Scans with Details Preservation,2018
-174d1c799d69b0fe0d6839b4b3b8f5d0d0f185da,144608597,Motion Compensation for Phase-Shift Structured-Light Systems Based on a Total-Variation Framework,2017
-90a8945aa214a37518eebd591bcb5f7b927f10b4,144608597,Characterizing the impact of optically induced blurring of a high-resolution phase-shift 3D scanner,2017
-f627bc42d7bef74e3baa240265d39477e9249d5f,144608597,Characterizing the impact of optically induced blurring of a high-resolution phase-shift 3D scanner,2017
-f69885248d17bac47cc3469715fbb93aa7a4aabe,144608597,"Predicting task from eye movements: On the importance of spatial distribution, dynamics, and image features",2016
-099fbf0ff9dafe6be7d99dc67b4456cf47c09cd6,144608597,"High-speed transition patterns for video projection, 3D reconstruction, and copyright protection",2015
-8767849b3d87af5722fce8c4358b1175aca44c40,144608597,The eyes as a window to the mind: inferring cognitive state from gaze patterns,2015
-a029157057b8528c27ed99c033efde51388e7deb,144608597,Articulated Statistical Shape Models of the Spine,2015
-34adb0bc64181e11811baac8079fac99487e0eff,144608597,Real-Time Blood Circulation and Bleeding Model for Surgical Training,2013
-f3ec6426db907809f8f12851ef43b79625c129c2,144608597,Three-Dimensional Spine Model Reconstruction Using One-Class SVM Regularization,2013
-01130ff65bb8f7636c52e71da0aa941241fc6c8e,144608597,Fast 3D Spine Reconstruction of Postoperative Patients Using a Multilevel Statistical Model,2012
-716389183827656d2b1e9f9e7ffd9b335cb5e605,144608597,Multilevel statistical shape models: A new framework for modeling hierarchical structures,2012
-df93f8a6976e7dfb4b9a853a28abf041a740ea45,144608597,Biomechanically constrained groupwise ultrasound to CT registration of the lumbar spine,2012
-2d76d1276cbae4cfbae4861294993c9bea18db43,144608597,Interactive 3D reconstruction of the spine from radiographs using a statistical shape model and second-order cone programming,2011
-3e26d9a780442727df71def6d7003b8e3167ca09,144608597,Fast 3D reconstruction of the spine from biplanar radiographs using a deformable articulated model.,2011
-e50a4fef20e93f3181e7bb33373aa77dcb4c378e,144608597,GPU accelerated registration of a statistical shape model of the lumbar spine to 3D ultrasound images,2011
-9cb2dca5d3c1f7beb0322556258c4fe89428d55b,144608597,Fast 3D reconstruction of the spine by non-expert users using a statistical articulated model,2010
-d989a46d5edeb3d18e80c199bb53735abf3edc1c,144608597,Registration of a Statistical Shape Model of the Lumbar Spine to 3D Ultrasound Images,2010
-31022cdda5bbdf31bfcd8db714e068051a945cc6,144608597,Biomechanically Constrained Groupwise US to CT Registration of the Lumbar Spine,2009
-a092e05be91994bc161aad7b56775990ea048724,144608597,3D reconstruction of the human spine from radiograph(s) using a multi-body statistical model,2009
-a2aca398dc1da74d0b60f19a0f45e444ccc91f13,144608597,An open-source real-time ultrasound reconstruction system for four-dimensional imaging of moving organs,2009
-f36569b3eece025e2c499baf4f11c86059212006,144608597,Bending invariant meshes and application to groupwise correspondences,2009
-460a1604632854ee2f30077eeb1902d5e18ce581,144608597,"An Open-Source Solution for Interactive Acquisition, Processing and Transfer of Interventional Ultrasound Images",2008
-4be93b5523cabe757dae7fd825c9f5ebfd7459d7,144608597,Geometric Variability of the Scoliotic Spine Using Statistics on Articulated Shape Models,2008
-8bda4668d6c4c0b154da9d6878ed02f582b97efc,144608597,Articulated Spine Models for 3-D Reconstruction From Partial Radiographic Data,2008
-80ef041f4691c3b4d869b26afbb284dfade6690c,144608597,Estimation of the pressing force in blade forming application,2007
-dcc26cf4a1ea54a671a40cf2b43b4a4aeded2cd1,144608597,Detection and correction of specular reflections for automatic surgical tool segmentation in thoracoscopic images,2007
-1baa9681ac5ac72f2bc3554a6c8c97f014605246,144608597,Simulation and optimisation of a reconfigurable discrete die for the hot forming of thick steel plates in hydro power industry,2006
-20b5196b0af691fe04e4207800a65b79c18783b4,144608597,Assessment of brace local action on vertebrae relative poses.,2006
-3da065574d270635a4b24cc69171200d4d95a1ba,144608597,3D anatomical variability assessment of the scoliotic spine using statistics on Lie groups,2006
-942770062d50f677c9d589da6cc1d1835b220133,144608597,New Results - Computational Anatomy,2006
-ad5cef2c1b05a2b72e50ac666dc89b6dc4a06bf6,144608597,Print depth prediction in hot forming process with a reconfigurable die,2006
-ce3074e2aff24ee536e19de78b660be145fcd32b,144608597,A novel framework for the 3D analysis of spine deformation modes.,2006
-ceba4d2184c103b790eb2b5de35a9982d874b435,144608597,Analysis and Simulation of Biomedical Images,2006
-efc46d72ce73fb84283dbb07480a87f90b333cf5,144608597,Principal Spine Shape Deformation Modes Using Riemannian Geometry and Articulated Models,2006
-aafff5bc57026518cd79a32652e92d03c0b68f6f,144608597,Segmentation of Laparoscopic Images for Computer Assisted Surgery,2003
-1d5470c71f4d5934af610911fbb3362093c42c8f,144608597,"3 , 726 on State Clerk List ; 500 Jobs Now Being Filled",
-3ed309dbb6180841dc5b5e31ee83277f4af2c585,146717821,"眼球運動からの作業の予測:空間分布,動力学と画像特徴の重要性について【Powered by NICT】",2016
-9cce03eb07c2cdc5db711109a6ce0003671ab168,146717821,ウェアラブルエレクトロニクスのを可能にするスケーラブル3D製造への導電性マイクロ流体相互接続【Powered by NICT】,2016
-78281b3d4f71ed0ee3105ee7d5d068ffb5b2ee44,2326656480,A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations,2025
-739d5214a78ec40d6de40e7d31d0af86ea8969c2,2326656480,Multi-Frequency Nonlinear Methods for 3D Shape Measurement of Semi-Transparent Surfaces Using Projector-Camera Systems,2024
-8b0697cddce7f10a680e0bc948f573f815beb2bb,2274943414,Most azole resistance mutations in the Candida albicans drug target confer cross-resistance without intrinsic fitness cost,2024
-8fb33d6f2533f4e59a412dd13e19420718a10637,2274943414,The putative error prone polymerase REV1 mediates DNA damage and drug resistance in Candida albicans,2024
-982f42bb904cf75cd58d13ca4c05caf350f86243,2274943414,A role for the putative error-prone polymerase REV1 in DNA damage and antifungal drug resistance in Candida albicans,2024
-f3cbd1bc44b2ac414ca94e24c7cedf3a37a9515d,2274943414,Most azole antifungal resistance mutations in the drug target provide cross-resistance and carry no intrinsic fitness cost,2024
-dcd576408fedbfb871f11eaebd53675b0f675af3,2279753241,Automatic Exposure Volumetric Additive Manufacturing,2025
-3aaf0bcb7580073f39f1aea88a942e98a48e14e9,2279753241,Progress in volumetric additive manufacturing at the National Research Council of Canada,2024
-5a30bc2dc67dfbbcdfa99950b5901ba89a29baa4,2279753241,Micro-optics fabrication using blurred tomography,2024
-729fb97c3baf89552fc8ee2500adaac6c8c2b1c3,2279753241,Printing of low-viscosity materials using tomographic additive manufacturing,2024
-1a5ff334e97d7fe1e3ca6bba615ce6c6a02813d5,2351185141,Lock-in amplitude-phase correlations in coherent Raman microscopy: application to lithium ores,2025
-b96b2f42c5c0d0d50929ab6b191508eae1ce7bc4,2351185141,Lock-in amplitude-phase correlations for enhanced imaging and segmentation in stimulated Raman scattering microscopy.,2025
+0b01b83c5cd7d4d04dd193c94c2234b35aa76bce,2275193055,Synthesis and study of structural and electrical transport properties of Ni and Zr doped Y-type Ba-Co hexa-ferrite,2023
+0c5b757acf874f00c5b669d514eb3f2548482f8d,2275193055,Enhancement of photocatalytic activity in SrTiO3 with doping of MgO nanoparticles,2023
+0ce1b2c143f6409cbd9d3c18c52a2d37eb084208,3043571,"Effectiveness of Structure Teaching Programme on Premenstrual Syndrome and Its Management among Nursing Students in Selected Nursing College, Faridkot (Punjab)",2025
+4d7698d7c987685fb0dbc121e596541a6620656a,3043571,A COMPARATIVE STUDY OF TEACHING APTITUDE AMONG B.ED AND NON B.ED TEACHERS IN BATHINDA DISTRICT,2025
+ab8633aaf1ec1f1851bf219af3029a57e4393bda,3043571,Comparative Analysis of different Area Network Types,2018
+df677772cef538651eb1e2edd002f77019394937,3043571,Load balanced clustering protocol for enhancing the lifetime of wireless sensor network,2018
+21bb09c7b64bead04f38bac840fc1f0be3756197,3043571,A REVIEW ON RESOURCE ALLOCATION MECHANISM IN CLOUD ENVIORNMENT,2017
+300bc1fb230a860c629e589c1cc225f30127885a,3043571,Source Identification of CCTV Videos Based on Wavelet and Wiener Filtering Method,2017
+c6e2ed109357d5841b7c749db23e3c189c7b5e51,3043571,AN IMPROVED RESOURCE ALLOCATION STRATEGY BASED ON PACKAGE LEVEL ACCESS IN CLOUD ENVIRONMENT,2017
+c8b96c614d1bd168d8fcf39333e90fb2ee1808ee,3043571,An Acknowledgment Approach for Detection and Prevention of Packet Dropping Misbehavior in MANETs,2017
+01bbd1e702d77265619babbb9e577cd8662527bc,3043571,Fast Sensor Fingerprint Extraction Method Using,2016
+d5fbeb800bf529ffeae10c381fb2e7bbc6066e1d,3043571,Semi-Automatic Domain Ontology Graph Generation System in Punjabi,2016
+48f931c395e1a33318ace54132face35da54b178,3043571,Medical Image Fusion Using Redundant Wavelet Based ICA Co-Variance Analysis,2015
+d607d4c4ceadb9942d53cffe4c8260455070eafb,3043571,Techniques of Ontology and its Usage in Indian Languages - A Review,2015
+fd065a821f30e7e578f91646b676070e326db1b4,3043571,A comparative study of Feature Selection techniques for Intrusion Detection,2015
+2dca30d17b272503e4bab8eab785acd746800160,3043571,Enhanced Genetic Algorithm based Task Scheduling in Cloud Computing,2014
+d34de2c224080739120e93033f2a03822de4fe1f,3043571,Pre-processing of Domain Ontology Graph Generation System in Punjabi,2014
+e013ecf33f804898ee5b7bb0f51962ad8eef3138,3043571,Analysis of Job Scheduling Algorithms in Cloud Computing,2014
+18b9b8fe9c9bd7d4576c66c96e943a8eccc90b23,3043571,Review of Acknowledgment Based Techniques for Detection of Black Hole/Gray Hole Attacks in MANETs,2013
+653f206a7535f8aa690255e5076080b6f7fd18c5,3043571,Design of the HL7 messaging RIM-based sharing components for HIS,2013
+d15b93d0266d02346ae327a765ef11e4a2911e0c,3043571,An Enhanced Low Bit Rate Audio Codec Using Discrete Wavelet Transform,2013
+d2e958d945791fdac9f82a906e67b8ef8cef03e4,3043571,Enhancing Bluetooth Authentication using Diffie Hellman Algorithm,2013
+d7973f9e7503b9c9b69502d7c83f648a8cb49c9b,3043571,Linear Image Fusion With Using Gabor Filter,2013
+ebf3e52be5323aa27e5ef06537acb3e4312a097b,3043571,Various Attacks and their Countermeasure on all Layers of RFID System,2013
+d992641a2efa72ee598065e8d632e5c928cd55c8,3043571,A Study on Fuzzy Shortest Path Problems,2012
+14678759aea85bf28470513c50dc40710fb54eb4,3043571,Detection and Prevention of Black Hole Attacks in AODV Based Mobile Ad Hoc Networks,2011
+3280b9a1f8af978c9f7c7ffe1c28d28f9738354a,3043571,Study of Various Issues of Internet Protocol Version 6,2010
+8e8db51144310da8af6e3506944377f09d752aa9,3043571,A study on Parent-Adolescent’s relationship on the basis of gender differences,
+f2ae12721638b118636d2c6f5414be5ec40a96ee,2056121619,Study on warped product of screen real lightlike submanifolds of a Golden semi-Riemannian manifold,2022
+31f56063dc11e4ca221dd44b4d559df6a2321ca6,2056121619,Semi-invariant lightlike submanifolds of a metallic semi-Riemannian manifold,2021
+c655c30e792615bf2004f42ce884fb6c0a6a7c7b,2056121619,An investigation on the existence of totally contact umbilical screen-slant lightlike submanifolds of indeﬁnite Sasakian manifolds,2021
+446c0e523c458d93bd3038dc074fc1ac44eac76a,2056121619,Fixed Point Results for Multivalued Operator in G-metric Space,2019
+7f5cb9e57f0731a8e79256f9cee771ca63417e1f,2119152141,Recent developments in the mechanochemical mediated innovative approaches for cycloaddition reactions,2025
+be766cb46278f7da6f31dc560a8e49b86843d528,2119152141,DIFFERENTIAL RESPONSES OF EDIBLE COATINGS ON SHELF LIFE AND FRUIT QUALITY OF KINNOW MANDARIN,2025
+c956b5219408f13ee49f32d450673a87900da270,2119152141,Probing the irradiation-induced phase evolution and structural modifications in Zirconolite,2025
+d5a59cf256e6d1478ce18774163452f9e334beb8,2119152141,"STRUCTURAL EQUATION MODELLING (SEM) BASED ASSESSMENT OF STUDENTS' M-LEARNING BEHAVIOURAL ADOPTION USING
+ AN EXTENDED-SIMPLIFIED TAM",2024
+1530d5d549c4acaadc49302119f942fcb3c934dd,2119152141,Reliability Analysis of a System Operating at Reduced Capacity with Repair Priority to Boiler,2022
+1e727eecfadeee0c4b139ddf04049ec676a8d191,2119152141,A review on spectral indices for built-up area extraction using remote sensing technology,2022
+2915a2c4d758ab42b616282eab2152b8259532b0,2119152141,Structural and electronic behavior of yttrium doped zirconolite ceramic; a potential waste form for burning minor actinides,2022
+d785733515654e43a6a9a287b804108c3ce27c96,2119152141,Evaluation of growth and yield in wheat (Triticum aestivum L.) under heat stress conditions,2022
+1c2da1480763626c58a9e8b7b7f95c7f69821a5d,2119152141,"Analysis and Study of the Socio Economic and Nutritional Status of Farmers Selected Under DST- SARTHI Project of District Hoshiarpur, Punjab",2021
+1d9344a2e15b5d7266013a6d6b53e31c9f065dcd,2119152141,"Magnetoelectric multiferroic, y-type hexaferrites – A review",2021
+3304c526211be5dea41f7fe8e62e10ebd95ae2cc,2119152141,Waste loading capability of zirconolite — A review,2021
+5462b7cf87d773fa3dc403bac3697ddc297c10e3,2119152141,"Air Pollution, Climate Change, and Human Health in Indian Cities: A Brief Review",2021
+62d36a9a0c2fc32c1dcc838ce6172e823902c59b,2119152141,ROLE OF ANGANWADIS IN CHILD DEVELOPMENT: SOCIAL IMPACT ASSESSMENT OF ANGANWADI CENTERS OF PUNJAB .,2021
+0063b087c60ac4d5f7cb0e5fad33ae64e140f451,2119152141,"Monitoring and spatio-temporal analysis of UHI effect for Mansa district of Punjab, India",2020
+44a15523589bd0b381c749775e6eb4c0418018ed,2119152141,Consumer Awareness about Green marketing concept An Indian Scenario,2020
+a3ae86810dbc73a371948bfd3853daa02f416ac8,2119152141,Molecular mechanism of selective substrate engagement and inhibitor disengagement of cysteine synthase,2020
+1c587600a5a277b0171e07951d5a12b18d16ec2f,2119152141,Therapeutics of premature hair graying: A long journey ahead,2019
+3a8a586598224e52bba0ca3a5ff6da761cf6e5aa,2119152141,Phase analysis and reduction behaviour of Ce dopant in zirconolite,2019
+3fb4bd0b9e961903c1d98502bc43d4a044ef8849,2119152141,Bioremediation of Sludge using Pseudomonas aeruginosa,2019
+454ad8eb717d4e99e35c8236fd18758180c6ca9e,2119152141,Assessment of Urban Heat Island in India using Geospatial Technology- A Review,2019
+6fa346763d4691b2a53ef6dd64a7f1d40a77c3a8,2119152141,Preparation and Evaluation of Hydrogel Nanoparticles as Drug Delivery System,2019
+a01c6594ea8615a5959ddf4ac768838b8dd6e0e6,2119152141,Removal of heavy metal from industrial sludge by inorganic acid,2019
+aacdec31b14b6fff7f9101d6be20e4f0fe501d52,2119152141,Pesticides Classification and its Impact on Environment,2019
+c95645f464b36385533ce8acc7dbfeae2715ba1d,2119152141,EXPERIMENTAL STUDY ON PHYSICAL PROPERTIES OF CEMENT WHEN PARTIALLY REPLACED WITH GLASS POWDER & GROUND GRANULATED BLAST FURNACE SLAG,2019
+fbcc1456c4e13724582f26696f1cf94432962049,2119152141,Biochemical evaluation in wheat (Triticum aestivum L.) under heat stress conditions.,2018
+e9c0edc3b1a408124fd400567d9d35612a000bd3,2119152141,Performance of dry direct seeded rice in relation to irrigation and nitrogen regimes,2016
+bc6124fcee40549b28c298cd54bd8d792d7fba05,2119152141,Detection of pathogenic strains of E. coli in milk products sold in and around Chandigarh,2015
+e93a04767f952481491db94ca696225d702e9358,2119152141,Blood transfusion safety: A study of adverse reactions at the blood bank of a tertiary care center,2015
+f0cca225cfc593c244ce7013726b11c26cdc5d7b,2119152141,Genetic variability studies in wheat under timely and late sown irrigated conditions.,2008
+eb5b789dff5e87f3e8f7dd69ff6c8be669c5ad86,2397962377,ਡਾ. ਜਗਤਾਰ ਕਾਵਿ ਵਿਚ ਪੇਸ਼ ਮਾਨਵੀ ਸੰਤਾਪ,2025
+8b568f5abd359205a141b9d53acf551a56140d2f,2219163713,Techniques to Expand the Exit Pupil of Maxwellian Display: A Review,2023
+7231c26c3cbdaa580cf5fdc37be3fa74a410c90b,2008272271,Double Maxwellian foveated display,2025
+90589d167c0252083d6a9e83a04192bc5e65dc28,2008272271,Improved color uniformity in monochrome holographic waveguide based near eye displays.,2025
+b57a7c8f15fad88250137f8505800bf0215cf072,2008272271,Polarization-based real-time diffraction efficiency measurement of reflection volume holographic gratings,2025
+dc1f93aa34080bdea7a1c392e2906abe397024d0,2008272271,Exit-pupil expansion in Maxwellian-type holographic-based waveguide near-eye displays,2024
+f859537ad049016107d79d5e85e1abe4b3a2f0e3,2008272271,Prism-free fabrication of multiplexed holographic waveguide couplers for full-color near-eye displays,2024
+11f548af1ba941b33f05387082fde6c441be3844,2008272271,Bragg degenerate model for fabrication of holographic waveguide-based near-eye displays.,2023
+437a7a03338f9953a3a3f787e7281854f4e74650,2008272271,Role of bandwidth of display source on information transmission in holographic waveguide based near-eye displays,2023
+6ade46d70cacef1087a85c754e25e378fdc11e78,2008272271,Effect of shrinkage in photopolymer film on the information transmitted through the holographic waveguide for near eye displays.,2023
+aa1e932799e2097772755268b587fa7968f4d879,2008272271,Pre-compensation model for shrinkage effect in photopolymer materials for holographic near eye displays,2023
+7671c31cdfd2e396846f59be30701b8710be8134,2008272271,Study of wavelength dependency on diffraction efficiency of volume holographic gratings based couplers in waveguide displays,2022
+b453e1b8a5f17f43f6524d4ec958fb3feb883e7b,2008272271,Comparative Study of Single and Double Gate All Around Cylindrical FET Structures for High-K Dielectric Materials,2020
+4c58e46b962c66af5e5fcabd4f9b69fcd3413fdd,2393498654,Exploring novel green synthetic pathways and recent advances in pyrrole and its derivatives.,2025
+f0a69ba777c156bf5083991167b255ae35313453,2393498654,Validating Large Language Models (LLMs) for Economic and Inflation Forecasting in Aotearoa New Zealand’s Public Sector,2025
+167a9311a7bfaa4aed7aa1b54aef2133c253b0f8,2393498654,"A CORRELATIONAL STUDY TO ASSESS SLEEP QUALITY AND ACADEMIC PERFORMANCE AMONG NURSING STUDENTS IN A SELECTED COLLEGE OF NURSING, JALANDHAR, PUNJAB",2024
+0f0f0d5f8dc7910284ea0f786f09ed4fa2a789ee,2239878152,Towards resilient agriculture: impact of climate change on agriculture value-added and cereal production in BRICS world,2026
+5458dfc35704cd28925c6897fec75293f4a923ac,2239878152,Dissecting socioeconomic inequalities in antenatal care utilization in India: a Blinder–Oaxaca decomposition approach,2025
+428aebba8050a30be42f0c8923baaa42f7297cb2,2239878152,"Deciphering the nexus of climate change, agriculture, and migration: perspectives from African and Asian realms",2024
+8d1720371972179083f62989f5fde0f2da3d0b6e,2239878152,Unraveling consumer behavioral intentions to adopt solar water heaters in India using UTAUT model,2024
+b6839e348904a40e8d5f68a94fd07acff1e4d44f,2239878152,Testing the agriculture-induced Environmental Kuznets Curve with moderation effect of human capital and renewable energy: insights from BRICS economies,2024
+bd680ec386504f12d0e70d49e2d8ce53d9099ffe,2239878152,Unveiling Indian farmers’ adoption of climate information services for informed decision-making: a path to agricultural resilience,2024
+86ca2275948ec593e0a0bd46cd178753cda89a72,2239878152,Examining the consumption of oil on total factor productivity and CO2 emissions: an analysis of highly oil-consuming countries,2023
+9c1926eb82e1da1d6248098c63bf212b372a9d40,2239878152,"Towards environmental sustainability: nexus of ecological footprint, human capital, economic growth and energy consumption in India",2023
+6f45a12181ce7333b374984b5772b0439a8d4fc3,2067804195,A Study to Assess the Effectiveness of Educational Package on Knowledge Regarding Breast Milk Expression and Its Storage among Working Lactating Mothers,2020
+0fa6447c110cfd9955263551cdb25ea2a2e93a81,2096014028,An Approach for Improved Virtual Gridding in WSN,2018
+e8be1d684f024a04744c03e3f52489e462760d10,2096014028,Various Energy Efficient Schemes in WSNS: A Survey,2017
+bdd5c6c0961dd87a6207e9397e293b542a670514,1475527220,Guar Gum Micro-particles for Targeted Co-delivery of Doxorubicin and Metformin HCL for Improved Specificity and Efficacy Against Colon Cancer: In Vitro and In Vivo Studies,2020
+5d3b0c0cbf9497a8ac070af2c20ad8a67685909c,1393400573,An Improved DEEHC to Extend Lifetime of WSN,2018
+85ba44af08af9bfdde232638538339a7e0a70f48,2374510883,TouchFusion: Multimodal Wristband Sensing for Ubiquitous Touch Interactions,2026
+012b26c02a85b73604dd7d5fccd48ebadcba7ab2,2374510883,Stillbirth Without Viability: An Intrapartum Diagnosis of Twin Reversed Arterial Perfusion (TRAP) Sequence in Monochorionic Twin Pregnancy,2025
+2aeba460dc95bc7dfe86e91760e78cc47e7fca2b,2374510883,Use of TUTIVIA in the Early Post-Transplant Period for Distinction of Rejection from Quiescence Among Kidney Transplant Recipients - A Single Center Experience,2025
+927c965e676df71d61ccea42491b99cb6e5e4215,2374510883,Comparison of Gene Expression Profiling with Histopathology and Molecular Pathology in Detection of Acute Rejection in Kidney Transplant Recipients,2025
+9d063d5e7bdc9b772ac6687734f341922fc66702,2374510883,Addition of Belatacept to Tacrolimus-Mycophenolate-Prednisone (Quadruple Immunosuppression) in Kidney Transplant Recipients with Donor Specific Antibodies and/or Antibody Mediated Rejection,2025
+ae94bb354069449d7c6735e7b375fdb6f7e1e9e6,2374510883,Successful pregnancy outcome in a woman with malignant bilateral ovarian germ cell tumor,2025
+60dc09b4be0fc9347a3c1151f5e1649f98dffc7a,2374510883,Frailty Assessments and Changes in Frailty over time in Elderly Veteran Kidney Transplant Candidates: Effects on Transplant Evaluations,2024
+66769a6fae7789af03bd53aacd2306035ed8bf8c,2374510883,Comparison of Unencumbered Interaction Technique for Head-Mounted Displays,2024
+45734ec7de9bd56072530e178d2adb19c7479dc8,2374510883,Utilization of Broad-Panel Genetic Testing for Collagen Disorders of the Basement Membrane Disorders in Patients Requiring Kidney Transplantation,2021
+b8ce85ea3e073e9b91ce170040ebc0e9e575dd01,2374510883,Why?,2019
+6e49f2efea3a62a67a02ae9116e41ed26ef518c4,2374510883,"Iodine-mediated one-pot intramolecular decarboxylation domino reaction for accessing functionalised 2-(1,3,4-oxadiazol-2-yl)anilines with carbonic anhydrase inhibitory action",2018
+f0c28d29eef785e20856ca1ae3a9a6424753584d,2374510883,BOILER DRUM LEVEL CONTROL USING PLC,2016
+fca5183a4affb9bcd1f2800307b7affa55953e79,2374510883,Accrediting Processes and Institutional Effectiveness at a California Community College,2016
+d3031f520afbfd106b613d9af6b29467eae31ad2,2374510883,Correspondence: The Alarming Need for formal Podiatry Education in Developing Countries,2008
+bfa354ff31f0f5b43c10de514ce9d56054b67f83,2374510883,Impact of industrialisation on an agrarian society a case study of asron industrial complex in Nawanshahar district of Punjab,2005
+bd58d7c7026a06d69ed78af7f165452e8c64e0da,2374510883,"Retrospective validation of a surveillance system for unexplained illness and death: New Haven County, Connecticut.",2001

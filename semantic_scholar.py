@@ -4,7 +4,7 @@ import json
 url = "https://api.semanticscholar.org/graph/v1/author/search"
 
 params = {
-    "query": "Jonathan Boisvert",
+    "query": "Rajveer Kaur",
     "fields": (
         "authorId,"
         "name,"
@@ -24,7 +24,7 @@ params = {
 response = requests.get(url, params=params)
 data = response.json()
 
-with open("Jonathan_Boisvert_authors.json", "w", encoding="utf-8") as f:
+with open("Rajveer_Kaur_authors.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2)
 
-print("Saved Jonathan_Boisvert_authors.json")
+print("Saved Rajveer_Kaur_authors.json")

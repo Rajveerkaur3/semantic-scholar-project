@@ -1,0 +1,2318 @@
+{
+  "total": 16,
+  "offset": 0,
+  "data": [
+    {
+      "authorId": "2275193055",
+      "url": "https://www.semanticscholar.org/author/2275193055",
+      "name": "R. Kaur",
+      "paperCount": 2,
+      "citationCount": 1,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "0b01b83c5cd7d4d04dd193c94c2234b35aa76bce",
+          "title": "Synthesis and study of structural and electrical transport properties of Ni and Zr doped Y-type Ba-Co hexa-ferrite",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2273615206",
+              "name": "G. Singh"
+            },
+            {
+              "authorId": "2275193055",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "0c5b757acf874f00c5b669d514eb3f2548482f8d",
+          "title": "Enhancement of photocatalytic activity in SrTiO3 with doping of MgO nanoparticles",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2275190211",
+              "name": "A. Maurya"
+            },
+            {
+              "authorId": "2275193055",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "3043571",
+      "url": "https://www.semanticscholar.org/author/3043571",
+      "name": "R. Kaur",
+      "paperCount": 26,
+      "citationCount": 127,
+      "hIndex": 5,
+      "papers": [
+        {
+          "paperId": "0ce1b2c143f6409cbd9d3c18c52a2d37eb084208",
+          "title": "Effectiveness of Structure Teaching Programme on Premenstrual Syndrome and Its Management among Nursing Students in Selected Nursing College, Faridkot (Punjab)",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2373808393",
+              "name": "Dr Manpreet Kaur"
+            },
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2289678093",
+              "name": "Ramandeep Kaur"
+            },
+            {
+              "authorId": "2328741626",
+              "name": "Ramanpreet Kaur"
+            },
+            {
+              "authorId": "2340648593",
+              "name": "Satwinder Kaur"
+            },
+            {
+              "authorId": "2108384497",
+              "name": "Satveer Singh"
+            },
+            {
+              "authorId": "2307644142",
+              "name": "Sharanjeet Kaur"
+            },
+            {
+              "authorId": "2285855047",
+              "name": "Sukhvir Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "4d7698d7c987685fb0dbc121e596541a6620656a",
+          "title": "A COMPARATIVE STUDY OF TEACHING APTITUDE AMONG B.ED AND NON B.ED TEACHERS IN BATHINDA DISTRICT",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "ab8633aaf1ec1f1851bf219af3029a57e4393bda",
+          "title": "Comparative Analysis of different Area Network Types",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "df677772cef538651eb1e2edd002f77019394937",
+          "title": "Load balanced clustering protocol for enhancing the lifetime of wireless sensor network",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "47913406",
+              "name": "Gurjinder Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "21bb09c7b64bead04f38bac840fc1f0be3756197",
+          "title": "A REVIEW ON RESOURCE ALLOCATION MECHANISM IN CLOUD ENVIORNMENT",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "9199196",
+              "name": "Navtej S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "300bc1fb230a860c629e589c1cc225f30127885a",
+          "title": "Source Identification of CCTV Videos Based on Wavelet and Wiener Filtering Method",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "40018840",
+              "name": "I. Singh"
+            }
+          ]
+        },
+        {
+          "paperId": "c6e2ed109357d5841b7c749db23e3c189c7b5e51",
+          "title": "AN IMPROVED RESOURCE ALLOCATION STRATEGY BASED ON PACKAGE LEVEL ACCESS IN CLOUD ENVIRONMENT",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "9199196",
+              "name": "Navtej S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "c8b96c614d1bd168d8fcf39333e90fb2ee1808ee",
+          "title": "An Acknowledgment Approach for Detection and Prevention of Packet Dropping Misbehavior in MANETs",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "37408808",
+              "name": "S. Rani"
+            },
+            {
+              "authorId": "46591966",
+              "name": "Paramjeet Singh"
+            }
+          ]
+        },
+        {
+          "paperId": "01bbd1e702d77265619babbb9e577cd8662527bc",
+          "title": "Fast Sensor Fingerprint Extraction Method Using",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2339244481",
+              "name": "Sukhwinder Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "d5fbeb800bf529ffeae10c381fb2e7bbc6066e1d",
+          "title": "Semi-Automatic Domain Ontology Graph Generation System in Punjabi",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2146391087",
+              "name": "Saurabh Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "48f931c395e1a33318ace54132face35da54b178",
+          "title": "Medical Image Fusion Using Redundant Wavelet Based ICA Co-Variance Analysis",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "73830065",
+              "name": "E. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "d607d4c4ceadb9942d53cffe4c8260455070eafb",
+          "title": "Techniques of Ontology and its Usage in Indian Languages - A Review",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2146391087",
+              "name": "Saurabh Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "fd065a821f30e7e578f91646b676070e326db1b4",
+          "title": "A comparative study of Feature Selection techniques for Intrusion Detection",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "144923429",
+              "name": "G. Kumar"
+            },
+            {
+              "authorId": "2110731188",
+              "name": "Krishan Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "2dca30d17b272503e4bab8eab785acd746800160",
+          "title": "Enhanced Genetic Algorithm based Task Scheduling in Cloud Computing",
+          "year": 2014,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2152852",
+              "name": "Supriya Kinger"
+            }
+          ]
+        },
+        {
+          "paperId": "d34de2c224080739120e93033f2a03822de4fe1f",
+          "title": "Pre-processing of Domain Ontology Graph Generation System in Punjabi",
+          "year": 2014,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "1956589",
+              "name": "Saurabh Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "e013ecf33f804898ee5b7bb0f51962ad8eef3138",
+          "title": "Analysis of Job Scheduling Algorithms in Cloud Computing",
+          "year": 2014,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2152852",
+              "name": "Supriya Kinger"
+            }
+          ]
+        },
+        {
+          "paperId": "18b9b8fe9c9bd7d4576c66c96e943a8eccc90b23",
+          "title": "Review of Acknowledgment Based Techniques for Detection of Black Hole/Gray Hole Attacks in MANETs",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "37408808",
+              "name": "S. Rani"
+            },
+            {
+              "authorId": "46591966",
+              "name": "Paramjeet Singh"
+            }
+          ]
+        },
+        {
+          "paperId": "653f206a7535f8aa690255e5076080b6f7fd18c5",
+          "title": "Design of the HL7 messaging RIM-based sharing components for HIS",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "39583513",
+              "name": "K. Mann"
+            }
+          ]
+        },
+        {
+          "paperId": "d15b93d0266d02346ae327a765ef11e4a2911e0c",
+          "title": "An Enhanced Low Bit Rate Audio Codec Using Discrete Wavelet Transform",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "2110370664",
+              "name": "N. Singh"
+            },
+            {
+              "authorId": "49651015",
+              "name": "M. Kaur"
+            },
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "d2e958d945791fdac9f82a906e67b8ef8cef03e4",
+          "title": "Enhancing Bluetooth Authentication using Diffie Hellman Algorithm",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "35096437",
+              "name": "R. Cheema"
+            }
+          ]
+        },
+        {
+          "paperId": "d7973f9e7503b9c9b69502d7c83f648a8cb49c9b",
+          "title": "Linear Image Fusion With Using Gabor Filter",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "49651015",
+              "name": "M. Kaur"
+            },
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "97904744",
+              "name": "Guru Kashi"
+            }
+          ]
+        },
+        {
+          "paperId": "ebf3e52be5323aa27e5ef06537acb3e4312a097b",
+          "title": "Various Attacks and their Countermeasure on all Layers of RFID System",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "47141118",
+              "name": "Gursewak Singh"
+            },
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2065485873",
+              "name": "Himanshu Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "d992641a2efa72ee598065e8d632e5c928cd55c8",
+          "title": "A Study on Fuzzy Shortest Path Problems",
+          "year": 2012,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "118013697",
+              "name": "Amit Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "14678759aea85bf28470513c50dc40710fb54eb4",
+          "title": "Detection and Prevention of Black Hole Attacks in AODV Based Mobile Ad Hoc Networks",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "37408808",
+              "name": "S. Rani"
+            },
+            {
+              "authorId": "2157806127",
+              "name": "P. Singh"
+            }
+          ]
+        },
+        {
+          "paperId": "3280b9a1f8af978c9f7c7ffe1c28d28f9738354a",
+          "title": "Study of Various Issues of Internet Protocol Version 6",
+          "year": 2010,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2050722",
+              "name": "R. Maini"
+            }
+          ]
+        },
+        {
+          "paperId": "8e8db51144310da8af6e3506944377f09d752aa9",
+          "title": "A study on Parent-Adolescent\u2019s relationship on the basis of gender differences",
+          "year": null,
+          "authors": [
+            {
+              "authorId": "3043571",
+              "name": "R. Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2056121619",
+      "url": "https://www.semanticscholar.org/author/2056121619",
+      "name": "R. Kaur",
+      "paperCount": 4,
+      "citationCount": 8,
+      "hIndex": 2,
+      "papers": [
+        {
+          "paperId": "f2ae12721638b118636d2c6f5414be5ec40a96ee",
+          "title": "Study on warped product of screen real lightlike submanifolds of a Golden semi-Riemannian manifold",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "144791814",
+              "name": "G. Shanker"
+            },
+            {
+              "authorId": "2056121619",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2036451980",
+              "name": "A. Yadav"
+            }
+          ]
+        },
+        {
+          "paperId": "31f56063dc11e4ca221dd44b4d559df6a2321ca6",
+          "title": "Semi-invariant lightlike submanifolds of a metallic semi-Riemannian manifold",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2056121619",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "144791814",
+              "name": "G. Shanker"
+            },
+            {
+              "authorId": "2036451980",
+              "name": "A. Yadav"
+            }
+          ]
+        },
+        {
+          "paperId": "c655c30e792615bf2004f42ce884fb6c0a6a7c7b",
+          "title": "An investigation on the existence of totally contact umbilical screen-slant lightlike submanifolds of inde\ufb01nite Sasakian manifolds",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2036451980",
+              "name": "A. Yadav"
+            },
+            {
+              "authorId": "144791814",
+              "name": "G. Shanker"
+            },
+            {
+              "authorId": "2056121619",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "446c0e523c458d93bd3038dc074fc1ac44eac76a",
+          "title": "Fixed Point Results for Multivalued Operator in G-metric Space",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "1848483",
+              "name": "S. Manro"
+            },
+            {
+              "authorId": "5019401",
+              "name": "T. Singh"
+            },
+            {
+              "authorId": "2110760066",
+              "name": "Animesh Gupta"
+            },
+            {
+              "authorId": "2056121619",
+              "name": "R. Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "123366512",
+      "url": "https://www.semanticscholar.org/author/123366512",
+      "name": "R. Kaur",
+      "paperCount": 8,
+      "citationCount": 2,
+      "hIndex": 1,
+      "papers": []
+    },
+    {
+      "authorId": "2119152141",
+      "url": "https://www.semanticscholar.org/author/2119152141",
+      "name": "R. Kaur",
+      "paperCount": 29,
+      "citationCount": 529,
+      "hIndex": 7,
+      "papers": [
+        {
+          "paperId": "7f5cb9e57f0731a8e79256f9cee771ca63417e1f",
+          "title": "Recent developments in the mechanochemical mediated innovative approaches for cycloaddition reactions",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2139407746",
+              "name": "S. K. Wahan"
+            },
+            {
+              "authorId": "2240126328",
+              "name": "Pooja A. Chawla"
+            },
+            {
+              "authorId": "2338715970",
+              "name": "Smile"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2240140177",
+              "name": "Gaurav Bhargava"
+            }
+          ]
+        },
+        {
+          "paperId": "be766cb46278f7da6f31dc560a8e49b86843d528",
+          "title": "DIFFERENTIAL RESPONSES OF EDIBLE COATINGS ON SHELF LIFE AND FRUIT QUALITY OF KINNOW MANDARIN",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2326390388",
+              "name": "Suman Suman"
+            },
+            {
+              "authorId": "2323201302",
+              "name": "Rohit Sharma"
+            },
+            {
+              "authorId": "2323296695",
+              "name": "Nikesh Chandra"
+            },
+            {
+              "authorId": "2364553233",
+              "name": "Jujhar Singh"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2390540444",
+              "name": "Heena Sharma"
+            }
+          ]
+        },
+        {
+          "paperId": "c956b5219408f13ee49f32d450673a87900da270",
+          "title": "Probing the irradiation-induced phase evolution and structural modifications in Zirconolite",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2387067146",
+              "name": "Swetha Rachamalla"
+            },
+            {
+              "authorId": "2294046508",
+              "name": "Yogendar Singh"
+            },
+            {
+              "authorId": "144728009",
+              "name": "M. Gupta"
+            },
+            {
+              "authorId": "2338091213",
+              "name": "Sanjay Kedia"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2387211396",
+              "name": "A.D.P. Rao"
+            }
+          ]
+        },
+        {
+          "paperId": "d5a59cf256e6d1478ce18774163452f9e334beb8",
+          "title": "STRUCTURAL EQUATION MODELLING (SEM) BASED ASSESSMENT OF STUDENTS' M-LEARNING BEHAVIOURAL ADOPTION USING\n AN EXTENDED-SIMPLIFIED TAM",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2336889806",
+              "name": "Parveen Singh Kalsi"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "1530d5d549c4acaadc49302119f942fcb3c934dd",
+          "title": "Reliability Analysis of a System Operating at Reduced Capacity with Repair Priority to Boiler",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "50049680",
+              "name": "Upasana Sharma"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "1e727eecfadeee0c4b139ddf04049ec676a8d191",
+          "title": "A review on spectral indices for built-up area extraction using remote sensing technology",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2154016007",
+              "name": "Puneeta Pandey"
+            }
+          ]
+        },
+        {
+          "paperId": "2915a2c4d758ab42b616282eab2152b8259532b0",
+          "title": "Structural and electronic behavior of yttrium doped zirconolite ceramic; a potential waste form for burning minor actinides",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "144728009",
+              "name": "M. Gupta"
+            },
+            {
+              "authorId": "11992382",
+              "name": "P. Kulriya"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "d785733515654e43a6a9a287b804108c3ce27c96",
+          "title": "Evaluation of growth and yield in wheat (Triticum aestivum L.) under heat stress conditions",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "30601736",
+              "name": "S. Bedi"
+            },
+            {
+              "authorId": "40806666",
+              "name": "P. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "1c2da1480763626c58a9e8b7b7f95c7f69821a5d",
+          "title": "Analysis and Study of the Socio Economic and Nutritional Status of Farmers Selected Under DST- SARTHI Project of District Hoshiarpur, Punjab",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "21239374",
+              "name": "R. K. Dubey"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2248541368",
+              "name": "R. Deepika"
+            },
+            {
+              "authorId": "119128908",
+              "name": "T. S. Dhillon"
+            }
+          ]
+        },
+        {
+          "paperId": "1d9344a2e15b5d7266013a6d6b53e31c9f065dcd",
+          "title": "Magnetoelectric multiferroic, y-type hexaferrites \u2013 A review",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2132322069",
+              "name": "Pralekh Dubey"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "3304c526211be5dea41f7fe8e62e10ebd95ae2cc",
+          "title": "Waste loading capability of zirconolite \u2014 A review",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2107202389",
+              "name": "M. Gupta"
+            },
+            {
+              "authorId": "11992382",
+              "name": "P. Kulriya"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "5462b7cf87d773fa3dc403bac3697ddc297c10e3",
+          "title": "Air Pollution, Climate Change, and Human Health in Indian Cities: A Brief Review",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "145695593",
+              "name": "P. Pandey"
+            }
+          ]
+        },
+        {
+          "paperId": "62d36a9a0c2fc32c1dcc838ce6172e823902c59b",
+          "title": "ROLE OF ANGANWADIS IN CHILD DEVELOPMENT: SOCIAL IMPACT ASSESSMENT OF ANGANWADI CENTERS OF PUNJAB\u00a0.",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "0063b087c60ac4d5f7cb0e5fad33ae64e140f451",
+          "title": "Monitoring and spatio-temporal analysis of UHI effect for Mansa district of Punjab, India",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "145695593",
+              "name": "P. Pandey"
+            }
+          ]
+        },
+        {
+          "paperId": "44a15523589bd0b381c749775e6eb4c0418018ed",
+          "title": "Consumer Awareness about Green marketing concept An Indian Scenario",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "119918759",
+              "name": "Taranjit Singh Vij"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "34578130",
+              "name": "V. Garg"
+            }
+          ]
+        },
+        {
+          "paperId": "a3ae86810dbc73a371948bfd3853daa02f416ac8",
+          "title": "Molecular mechanism of selective substrate engagement and inhibitor disengagement of cysteine synthase",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "146101616",
+              "name": "A. Kaushik"
+            },
+            {
+              "authorId": "2006168794",
+              "name": "R. Rahisuddin"
+            },
+            {
+              "authorId": "21607473",
+              "name": "N. Saini"
+            },
+            {
+              "authorId": "2143546961",
+              "name": "R. P. Singh"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2008211803",
+              "name": "Sukirte Kaul"
+            },
+            {
+              "authorId": "145081371",
+              "name": "S. Kumaran"
+            }
+          ]
+        },
+        {
+          "paperId": "1c587600a5a277b0171e07951d5a12b18d16ec2f",
+          "title": "Therapeutics of premature hair graying: A long journey ahead",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "35120788",
+              "name": "K. Kaur"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "46873830",
+              "name": "I. Bala"
+            }
+          ]
+        },
+        {
+          "paperId": "3a8a586598224e52bba0ca3a5ff6da761cf6e5aa",
+          "title": "Phase analysis and reduction behaviour of Ce dopant in zirconolite",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2107201876",
+              "name": "M. Gupta"
+            },
+            {
+              "authorId": "11992382",
+              "name": "P. Kulriya"
+            },
+            {
+              "authorId": "49339918",
+              "name": "S. Ghumman"
+            }
+          ]
+        },
+        {
+          "paperId": "3fb4bd0b9e961903c1d98502bc43d4a044ef8849",
+          "title": "Bioremediation of Sludge using Pseudomonas aeruginosa",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "79343116",
+              "name": "G. Mavi"
+            },
+            {
+              "authorId": "145901874",
+              "name": "Shweta Raghav"
+            }
+          ]
+        },
+        {
+          "paperId": "454ad8eb717d4e99e35c8236fd18758180c6ca9e",
+          "title": "Assessment of Urban Heat Island in India using Geospatial Technology- A Review",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "145695593",
+              "name": "P. Pandey"
+            }
+          ]
+        },
+        {
+          "paperId": "6fa346763d4691b2a53ef6dd64a7f1d40a77c3a8",
+          "title": "Preparation and Evaluation of Hydrogel Nanoparticles as Drug Delivery System",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "2110651616",
+              "name": "Vishal K. Gupta"
+            },
+            {
+              "authorId": "2060113477",
+              "name": "S. Ch"
+            },
+            {
+              "authorId": "1446680387",
+              "name": "P. ra"
+            },
+            {
+              "authorId": "2059254495",
+              "name": "ey"
+            }
+          ]
+        },
+        {
+          "paperId": "a01c6594ea8615a5959ddf4ac768838b8dd6e0e6",
+          "title": "Removal of heavy metal from industrial sludge by inorganic acid",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "79343116",
+              "name": "G. Mavi"
+            }
+          ]
+        },
+        {
+          "paperId": "aacdec31b14b6fff7f9101d6be20e4f0fe501d52",
+          "title": "Pesticides Classification and its Impact on Environment",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "79343116",
+              "name": "G. Mavi"
+            },
+            {
+              "authorId": "145901874",
+              "name": "Shweta Raghav"
+            },
+            {
+              "authorId": "89096999",
+              "name": "Injeela Khan"
+            }
+          ]
+        },
+        {
+          "paperId": "c95645f464b36385533ce8acc7dbfeae2715ba1d",
+          "title": "EXPERIMENTAL STUDY ON PHYSICAL PROPERTIES OF CEMENT WHEN PARTIALLY REPLACED WITH GLASS POWDER & GROUND GRANULATED BLAST FURNACE SLAG",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "2090894762",
+              "name": "Slag"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "47975182",
+              "name": "Varinder Singh"
+            }
+          ]
+        },
+        {
+          "paperId": "fbcc1456c4e13724582f26696f1cf94432962049",
+          "title": "Biochemical evaluation in wheat (Triticum aestivum L.) under heat stress conditions.",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "30601736",
+              "name": "S. Bedi"
+            },
+            {
+              "authorId": "40806666",
+              "name": "P. Kaur"
+            },
+            {
+              "authorId": "6690489",
+              "name": "B. Asthir"
+            }
+          ]
+        },
+        {
+          "paperId": "e9c0edc3b1a408124fd400567d9d35612a000bd3",
+          "title": "Performance of dry direct seeded rice in relation to irrigation and nitrogen regimes",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "bc6124fcee40549b28c298cd54bd8d792d7fba05",
+          "title": "Detection of pathogenic strains of E. coli in milk products sold in and around Chandigarh",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "46854491",
+              "name": "S. Kaur"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "1780964797",
+              "name": "Aparna Singh"
+            },
+            {
+              "authorId": "144386648",
+              "name": "J. Gill"
+            }
+          ]
+        },
+        {
+          "paperId": "e93a04767f952481491db94ca696225d702e9358",
+          "title": "Blood transfusion safety: A study of adverse reactions at the blood bank of a tertiary care center",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "80622717",
+              "name": "G. Negi"
+            },
+            {
+              "authorId": "39858669",
+              "name": "D. Gaur"
+            },
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "f0cca225cfc593c244ce7013726b11c26cdc5d7b",
+          "title": "Genetic variability studies in wheat under timely and late sown irrigated conditions.",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "2119152141",
+              "name": "R. Kaur"
+            },
+            {
+              "authorId": "70173049",
+              "name": "D. Saini"
+            },
+            {
+              "authorId": "90357613",
+              "name": "J. Jaiswal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2397962377",
+      "url": "https://www.semanticscholar.org/author/2397962377",
+      "name": "Rajveer Kaur",
+      "paperCount": 1,
+      "citationCount": 0,
+      "hIndex": 0,
+      "papers": [
+        {
+          "paperId": "eb5b789dff5e87f3e8f7dd69ff6c8be669c5ad86",
+          "title": "\u0a21\u0a3e. \u0a1c\u0a17\u0a24\u0a3e\u0a30 \u0a15\u0a3e\u0a35\u0a3f \u0a35\u0a3f\u0a1a \u0a2a\u0a47\u0a38\u0a3c \u0a2e\u0a3e\u0a28\u0a35\u0a40 \u0a38\u0a70\u0a24\u0a3e\u0a2a",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2397962377",
+              "name": "Rajveer Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2219163713",
+      "url": "https://www.semanticscholar.org/author/2219163713",
+      "name": "Kaur Rajveer",
+      "paperCount": 1,
+      "citationCount": 5,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "8b568f5abd359205a141b9d53acf551a56140d2f",
+          "title": "Techniques to Expand the Exit Pupil of Maxwellian Display: A Review",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2219163713",
+              "name": "Kaur Rajveer"
+            },
+            {
+              "authorId": "2056763183",
+              "name": "K. Raj"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2008272271",
+      "url": "https://www.semanticscholar.org/author/2008272271",
+      "name": "Rajveer Kaur",
+      "paperCount": 11,
+      "citationCount": 24,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "7231c26c3cbdaa580cf5fdc37be3fa74a410c90b",
+          "title": "Double Maxwellian foveated display",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            },
+            {
+              "authorId": "9312519",
+              "name": "Myeong-Ho Choi"
+            },
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269755410",
+              "name": "Jae-Hyeung Park"
+            }
+          ]
+        },
+        {
+          "paperId": "90589d167c0252083d6a9e83a04192bc5e65dc28",
+          "title": "Improved color uniformity in monochrome holographic waveguide based near eye displays.",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2268541987",
+              "name": "Bhargab Das"
+            },
+            {
+              "authorId": "2269755410",
+              "name": "Jae-Hyeung Park"
+            },
+            {
+              "authorId": "2318657756",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "b57a7c8f15fad88250137f8505800bf0215cf072",
+          "title": "Polarization-based real-time diffraction efficiency measurement of reflection volume holographic gratings",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2268547098",
+              "name": "Komal Sharma"
+            },
+            {
+              "authorId": "47836990",
+              "name": "Saikat Saha"
+            },
+            {
+              "authorId": "2218789456",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "dc1f93aa34080bdea7a1c392e2906abe397024d0",
+          "title": "Exit-pupil expansion in Maxwellian-type holographic-based waveguide near-eye displays",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "f859537ad049016107d79d5e85e1abe4b3a2f0e3",
+          "title": "Prism-free fabrication of multiplexed holographic waveguide couplers for full-color near-eye displays",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "11f548af1ba941b33f05387082fde6c441be3844",
+          "title": "Bragg degenerate model for fabrication of holographic waveguide-based near-eye displays.",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2006761815",
+              "name": "Lavlesh Pensia"
+            },
+            {
+              "authorId": "2018836228",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "437a7a03338f9953a3a3f787e7281854f4e74650",
+          "title": "Role of bandwidth of display source on information transmission in holographic waveguide based near-eye displays",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "6ade46d70cacef1087a85c754e25e378fdc11e78",
+          "title": "Effect of shrinkage in photopolymer film on the information transmitted through the holographic waveguide for near eye displays.",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269755410",
+              "name": "Jae-Hyeung Park"
+            },
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "aa1e932799e2097772755268b587fa7968f4d879",
+          "title": "Pre-compensation model for shrinkage effect in photopolymer materials for holographic near eye displays",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2269755410",
+              "name": "Jae-Hyeung Park"
+            },
+            {
+              "authorId": "2269704034",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "7671c31cdfd2e396846f59be30701b8710be8134",
+          "title": "Study of wavelength dependency on diffraction efficiency of volume holographic gratings based couplers in waveguide displays",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2006761815",
+              "name": "Lavlesh Pensia"
+            },
+            {
+              "authorId": "2060194563",
+              "name": "O. Singh"
+            },
+            {
+              "authorId": "4118668",
+              "name": "Bhargab Das"
+            },
+            {
+              "authorId": "2018836228",
+              "name": "Raj Kumar"
+            }
+          ]
+        },
+        {
+          "paperId": "b453e1b8a5f17f43f6524d4ec958fb3feb883e7b",
+          "title": "Comparative Study of Single and Double Gate All Around Cylindrical FET Structures for High-K Dielectric Materials",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2008272271",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2111281179",
+              "name": "Balwinder Singh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2393498654",
+      "url": "https://www.semanticscholar.org/author/2393498654",
+      "name": "Rajveer Kaur",
+      "paperCount": 3,
+      "citationCount": 1,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "4c58e46b962c66af5e5fcabd4f9b69fcd3413fdd",
+          "title": "Exploring novel green synthetic pathways and recent advances in pyrrole and its derivatives.",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2393498654",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2293169885",
+              "name": "Poonam Sharma"
+            },
+            {
+              "authorId": "2303214723",
+              "name": "Suman Lata"
+            },
+            {
+              "authorId": "2293055788",
+              "name": "Ankita Bharwal"
+            },
+            {
+              "authorId": "4857338",
+              "name": "Vikrant Abbot"
+            }
+          ]
+        },
+        {
+          "paperId": "f0a69ba777c156bf5083991167b255ae35313453",
+          "title": "Validating Large Language Models (LLMs) for Economic and Inflation Forecasting in Aotearoa New Zealand\u2019s Public Sector",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2393498654",
+              "name": "Rajveer Kaur"
+            },
+            {
+              "authorId": "2353426133",
+              "name": "Jinyu Liu"
+            },
+            {
+              "authorId": "2393564698",
+              "name": "Chien Sim"
+            }
+          ]
+        },
+        {
+          "paperId": "167a9311a7bfaa4aed7aa1b54aef2133c253b0f8",
+          "title": "A CORRELATIONAL STUDY TO ASSESS SLEEP QUALITY AND ACADEMIC PERFORMANCE AMONG NURSING STUDENTS IN A SELECTED COLLEGE OF NURSING, JALANDHAR, PUNJAB",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2335468495",
+              "name": "Sukhmeet Kaur"
+            },
+            {
+              "authorId": "2335464184",
+              "name": "Suniana Suniana"
+            },
+            {
+              "authorId": "2335467840",
+              "name": "Sajjal Thakur"
+            },
+            {
+              "authorId": "2375917389",
+              "name": "Pawandeep Kaur"
+            },
+            {
+              "authorId": "2275885764",
+              "name": "S. Sonia"
+            },
+            {
+              "authorId": "2335464894",
+              "name": "Ruhi Kundal"
+            },
+            {
+              "authorId": "2297523154",
+              "name": "Priya Sharma"
+            },
+            {
+              "authorId": "118951573",
+              "name": "Sumneet Kaur"
+            },
+            {
+              "authorId": "2393498654",
+              "name": "Rajveer Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2239878152",
+      "url": "https://www.semanticscholar.org/author/2239878152",
+      "name": "Rajveer Kaur Ritu",
+      "paperCount": 8,
+      "citationCount": 36,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "0f0f0d5f8dc7910284ea0f786f09ed4fa2a789ee",
+          "title": "Towards resilient agriculture: impact of climate change on agriculture value-added and cereal production in\u00a0BRICS world",
+          "year": 2026,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "5458dfc35704cd28925c6897fec75293f4a923ac",
+          "title": "Dissecting socioeconomic inequalities\u00a0in antenatal care utilization in India: a\u00a0Blinder\u2013Oaxaca decomposition approach",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "145445768",
+              "name": "P. Rani"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            },
+            {
+              "authorId": "2355309934",
+              "name": "Harmandeep Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "428aebba8050a30be42f0c8923baaa42f7297cb2",
+          "title": "Deciphering the nexus of climate change, agriculture, and migration: perspectives from African and Asian realms",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244015187",
+              "name": "Prabhjot Kaur"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "8d1720371972179083f62989f5fde0f2da3d0b6e",
+          "title": "Unraveling consumer behavioral intentions to adopt solar water heaters in India using UTAUT model",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2244015187",
+              "name": "Prabhjot Kaur"
+            },
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "b6839e348904a40e8d5f68a94fd07acff1e4d44f",
+          "title": "Testing the agriculture-induced Environmental Kuznets Curve with moderation effect of human capital and renewable energy: insights from BRICS economies",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "bd680ec386504f12d0e70d49e2d8ce53d9099ffe",
+          "title": "Unveiling Indian farmers\u2019 adoption of climate information services for informed decision-making: a path to agricultural resilience",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        },
+        {
+          "paperId": "86ca2275948ec593e0a0bd46cd178753cda89a72",
+          "title": "Examining the consumption of oil on total factor productivity and CO2 emissions: an analysis of highly oil-consuming countries",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "122999915",
+              "name": "Mohd Arshad Ansari"
+            },
+            {
+              "authorId": "2368697824",
+              "name": "M. R. Ahmad"
+            },
+            {
+              "authorId": "2276753645",
+              "name": "Pushp Kumar"
+            },
+            {
+              "authorId": "2147252655",
+              "name": "A. Yadav"
+            },
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            }
+          ]
+        },
+        {
+          "paperId": "9c1926eb82e1da1d6248098c63bf212b372a9d40",
+          "title": "Towards environmental sustainability: nexus of ecological footprint, human capital, economic\u00a0growth and energy consumption in India",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2239878152",
+              "name": "Rajveer Kaur Ritu"
+            },
+            {
+              "authorId": "2244004510",
+              "name": "Amanpreet Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2067804195",
+      "url": "https://www.semanticscholar.org/author/2067804195",
+      "name": "Mrs. Rajveer Kaur",
+      "paperCount": 1,
+      "citationCount": 2,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "6f45a12181ce7333b374984b5772b0439a8d4fc3",
+          "title": "A Study to Assess the Effectiveness of Educational Package on Knowledge Regarding Breast Milk Expression and Its Storage among Working Lactating Mothers",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2067804195",
+              "name": "Mrs. Rajveer Kaur"
+            },
+            {
+              "authorId": "90572876",
+              "name": "M. Packia"
+            },
+            {
+              "authorId": "2067804191",
+              "name": "Miss. Anoop Kaur"
+            },
+            {
+              "authorId": "2067803807",
+              "name": "M. Kaur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2096014028",
+      "url": "https://www.semanticscholar.org/author/2096014028",
+      "name": "Rajveer Kaur Khosa",
+      "paperCount": 2,
+      "citationCount": 0,
+      "hIndex": 0,
+      "papers": [
+        {
+          "paperId": "0fa6447c110cfd9955263551cdb25ea2a2e93a81",
+          "title": "An Approach for Improved Virtual Gridding in WSN",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "2096014028",
+              "name": "Rajveer Kaur Khosa"
+            },
+            {
+              "authorId": "3099631",
+              "name": "Pawan Luthra"
+            },
+            {
+              "authorId": "2383324",
+              "name": "G. Deep"
+            }
+          ]
+        },
+        {
+          "paperId": "e8be1d684f024a04744c03e3f52489e462760d10",
+          "title": "Various Energy Efficient Schemes in WSNS: A Survey",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "2096014028",
+              "name": "Rajveer Kaur Khosa"
+            },
+            {
+              "authorId": "3099631",
+              "name": "Pawan Luthra"
+            },
+            {
+              "authorId": "95680937",
+              "name": "G. Luthra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "1475527220",
+      "url": "https://www.semanticscholar.org/author/1475527220",
+      "name": "Rajveer Kaur Kang",
+      "paperCount": 1,
+      "citationCount": 38,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "bdd5c6c0961dd87a6207e9397e293b542a670514",
+          "title": "Guar Gum Micro-particles for Targeted Co-delivery of Doxorubicin and Metformin HCL for Improved Specificity and Efficacy Against Colon Cancer: In Vitro and In Vivo Studies",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "1475527220",
+              "name": "Rajveer Kaur Kang"
+            },
+            {
+              "authorId": "1475525453",
+              "name": "Neeraj Mishr"
+            },
+            {
+              "authorId": "36107227",
+              "name": "V. K. Rai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "1393400573",
+      "url": "https://www.semanticscholar.org/author/1393400573",
+      "name": "Rajveer Kaur Hyher",
+      "paperCount": 1,
+      "citationCount": 1,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "5d3b0c0cbf9497a8ac070af2c20ad8a67685909c",
+          "title": "An Improved DEEHC to Extend Lifetime of WSN",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "1393400573",
+              "name": "Rajveer Kaur Hyher"
+            },
+            {
+              "authorId": "9105980",
+              "name": "Goldendeep Kaur"
+            },
+            {
+              "authorId": "1381042061",
+              "name": "P. Dikshit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2374510883",
+      "url": "https://www.semanticscholar.org/author/2374510883",
+      "name": "R. Sodhi",
+      "paperCount": 16,
+      "citationCount": 17,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "85ba44af08af9bfdde232638538339a7e0a70f48",
+          "title": "TouchFusion: Multimodal Wristband Sensing for Ubiquitous Touch Interactions",
+          "year": 2026,
+          "authors": [
+            {
+              "authorId": "2257351363",
+              "name": "Eric Whitmire"
+            },
+            {
+              "authorId": "2280135970",
+              "name": "Evan Strasnick"
+            },
+            {
+              "authorId": "1887727",
+              "name": "Roger Boldu"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2411008597",
+              "name": "Nathan Godwin"
+            },
+            {
+              "authorId": "2284546822",
+              "name": "S.P. Ng"
+            },
+            {
+              "authorId": "2411009088",
+              "name": "Andre Levi"
+            },
+            {
+              "authorId": "2280137110",
+              "name": "Amy Karlson"
+            },
+            {
+              "authorId": "2280136532",
+              "name": "Ran Tan"
+            },
+            {
+              "authorId": "38373738",
+              "name": "J. Faller"
+            },
+            {
+              "authorId": "2033751",
+              "name": "Emrah Adamey"
+            },
+            {
+              "authorId": "38817702",
+              "name": "Hanchuan Li"
+            },
+            {
+              "authorId": "2190503874",
+              "name": "Wolf Kienzle"
+            },
+            {
+              "authorId": "2254220035",
+              "name": "Hrvoje Benko"
+            }
+          ]
+        },
+        {
+          "paperId": "012b26c02a85b73604dd7d5fccd48ebadcba7ab2",
+          "title": "Stillbirth Without Viability: An Intrapartum Diagnosis of Twin Reversed Arterial Perfusion (TRAP) Sequence in Monochorionic Twin Pregnancy",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2320221256",
+              "name": "S. Siwatch"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2293155960",
+              "name": "Gaurav Khastgir"
+            },
+            {
+              "authorId": "2294659000",
+              "name": "P. Sikka"
+            }
+          ]
+        },
+        {
+          "paperId": "2aeba460dc95bc7dfe86e91760e78cc47e7fca2b",
+          "title": "Use of TUTIVIA in the Early Post-Transplant Period for Distinction of Rejection from Quiescence Among Kidney Transplant Recipients - A Single Center Experience",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2374511938",
+              "name": "V. Peev"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2374511215",
+              "name": "S. Metwally"
+            },
+            {
+              "authorId": "2374486245",
+              "name": "D. Jain"
+            },
+            {
+              "authorId": "2374510247",
+              "name": "S. Akkina"
+            }
+          ]
+        },
+        {
+          "paperId": "927c965e676df71d61ccea42491b99cb6e5e4215",
+          "title": "Comparison of Gene Expression Profiling with Histopathology and Molecular Pathology in Detection of Acute Rejection in Kidney Transplant Recipients",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2374511215",
+              "name": "S. Metwally"
+            },
+            {
+              "authorId": "2374511938",
+              "name": "V. Peev"
+            },
+            {
+              "authorId": "2374486245",
+              "name": "D. Jain"
+            },
+            {
+              "authorId": "2375321561",
+              "name": "M. Ansari"
+            },
+            {
+              "authorId": "2374501727",
+              "name": "Z. Hajjiri"
+            },
+            {
+              "authorId": "2374510247",
+              "name": "S. Akkina"
+            }
+          ]
+        },
+        {
+          "paperId": "9d063d5e7bdc9b772ac6687734f341922fc66702",
+          "title": "Addition of Belatacept to Tacrolimus-Mycophenolate-Prednisone (Quadruple Immunosuppression) in Kidney Transplant Recipients with Donor Specific Antibodies and/or Antibody Mediated Rejection",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2375541698",
+              "name": "L. Cotiguala"
+            },
+            {
+              "authorId": "2374710776",
+              "name": "A. Przybylski"
+            },
+            {
+              "authorId": "2376157975",
+              "name": "T. Yu"
+            },
+            {
+              "authorId": "2374511003",
+              "name": "R. Lopez-Soler"
+            },
+            {
+              "authorId": "2374813846",
+              "name": "C. Trotter"
+            },
+            {
+              "authorId": "2291793887",
+              "name": "E. Mahoney"
+            },
+            {
+              "authorId": "2375661238",
+              "name": "D. Mattes"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "ae94bb354069449d7c6735e7b375fdb6f7e1e9e6",
+          "title": "Successful pregnancy outcome in a woman with malignant bilateral ovarian germ cell tumor",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2352653931",
+              "name": "Aashima Arora"
+            },
+            {
+              "authorId": "2352600090",
+              "name": "Parikshaa Gupta"
+            },
+            {
+              "authorId": "2351932176",
+              "name": "B. Rai"
+            },
+            {
+              "authorId": "2358680536",
+              "name": "G. Prasad"
+            },
+            {
+              "authorId": "2305916339",
+              "name": "Nidhi Prabhakar"
+            },
+            {
+              "authorId": "2338489223",
+              "name": "Plaksha Goel"
+            }
+          ]
+        },
+        {
+          "paperId": "60dc09b4be0fc9347a3c1151f5e1649f98dffc7a",
+          "title": "Frailty Assessments and Changes in Frailty over time in Elderly Veteran Kidney Transplant Candidates: Effects on Transplant Evaluations",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2302663543",
+              "name": "C. Cederberg"
+            },
+            {
+              "authorId": "2302145886",
+              "name": "Cara Joyce"
+            },
+            {
+              "authorId": "2266984295",
+              "name": "Manpreet Samra"
+            },
+            {
+              "authorId": "6919996",
+              "name": "Anuradha Wadhwa"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2266984335",
+              "name": "Oswaldo Aguirre"
+            },
+            {
+              "authorId": "1402422146",
+              "name": "R. Lopez-Soler"
+            }
+          ]
+        },
+        {
+          "paperId": "66769a6fae7789af03bd53aacd2306035ed8bf8c",
+          "title": "Comparison of Unencumbered Interaction Technique for Head-Mounted Displays",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "1720843232",
+              "name": "Shariff A. M. Faleel"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "1773923",
+              "name": "Pourang Irani"
+            }
+          ]
+        },
+        {
+          "paperId": "45734ec7de9bd56072530e178d2adb19c7479dc8",
+          "title": "Utilization of Broad-Panel Genetic Testing for Collagen Disorders of the Basement Membrane Disorders in Patients Requiring Kidney Transplantation",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2301866203",
+              "name": "Amishi S. Desai"
+            },
+            {
+              "authorId": "11854859",
+              "name": "Jongwon Yoo"
+            },
+            {
+              "authorId": "3897598",
+              "name": "D. Arwindekar"
+            },
+            {
+              "authorId": "2158782373",
+              "name": "Katya Brossart"
+            },
+            {
+              "authorId": "2301874373",
+              "name": "Hossein Tabriziani"
+            },
+            {
+              "authorId": "2301996685",
+              "name": "Sanjeev K. Akkina"
+            }
+          ]
+        },
+        {
+          "paperId": "b8ce85ea3e073e9b91ce170040ebc0e9e575dd01",
+          "title": "Why?",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "144074931",
+              "name": "Ke Ridley"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "6e49f2efea3a62a67a02ae9116e41ed26ef518c4",
+          "title": "Iodine-mediated one-pot intramolecular decarboxylation domino reaction for accessing functionalised 2-(1,3,4-oxadiazol-2-yl)anilines with carbonic anhydrase inhibitory action",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "14017787",
+              "name": "Srinivas Angapelly"
+            },
+            {
+              "authorId": "89878654",
+              "name": "P. Ramya"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "145008750",
+              "name": "A. Angeli"
+            },
+            {
+              "authorId": "9424307",
+              "name": "Krishnan Rangan"
+            },
+            {
+              "authorId": "47929447",
+              "name": "N. Nagesh"
+            },
+            {
+              "authorId": "145807922",
+              "name": "C. Supuran"
+            },
+            {
+              "authorId": "40630320",
+              "name": "Mohammed Arifuddin"
+            }
+          ]
+        },
+        {
+          "paperId": "f0c28d29eef785e20856ca1ae3a9a6424753584d",
+          "title": "BOILER DRUM LEVEL CONTROL USING PLC",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "fca5183a4affb9bcd1f2800307b7affa55953e79",
+          "title": "Accrediting Processes and Institutional Effectiveness at a California Community College",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "d3031f520afbfd106b613d9af6b29467eae31ad2",
+          "title": "Correspondence: The Alarming Need for formal Podiatry Education in Developing Countries",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "bfa354ff31f0f5b43c10de514ce9d56054b67f83",
+          "title": "Impact of industrialisation on an agrarian society a case study of asron industrial complex in Nawanshahar district of Punjab",
+          "year": 2005,
+          "authors": [
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            }
+          ]
+        },
+        {
+          "paperId": "bd58d7c7026a06d69ed78af7f165452e8c64e0da",
+          "title": "Retrospective validation of a surveillance system for unexplained illness and death: New Haven County, Connecticut.",
+          "year": 2001,
+          "authors": [
+            {
+              "authorId": "2278206708",
+              "name": "Michael Kluger"
+            },
+            {
+              "authorId": "6343510",
+              "name": "A. Sofair"
+            },
+            {
+              "authorId": "122858443",
+              "name": "C. Heye"
+            },
+            {
+              "authorId": "2239719292",
+              "name": "James I. Meek"
+            },
+            {
+              "authorId": "2374510883",
+              "name": "R. Sodhi"
+            },
+            {
+              "authorId": "2239731738",
+              "name": "James L. Hadler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "9420789",
+      "url": "https://www.semanticscholar.org/author/9420789",
+      "name": "R. Singh",
+      "paperCount": 48,
+      "citationCount": 220,
+      "hIndex": 8,
+      "papers": []
+    }
+  ]
+}

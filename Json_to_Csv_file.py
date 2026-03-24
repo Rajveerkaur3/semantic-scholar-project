@@ -2,7 +2,7 @@ import json
 import csv
 
 # Load JSON
-with open("Jonathan_Boisvert_authors.json", "r", encoding="utf-8") as f:
+with open("Rajveer_Kaur_authors.json", "r", encoding="utf-8") as f:
     json_data = json.load(f)["data"]
 
 # ---------- authors.csv ----------
