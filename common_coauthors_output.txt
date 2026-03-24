@@ -1,0 +1,206 @@
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: Kathleen L. Sampson (2091876348)
+Jonathan 1 Papers:
+ - Micro-optics fabrication using blurred tomography
+ - Printing of low-viscosity materials using tomographic additive manufacturing
+ - Progress in volumetric additive manufacturing at the National Research Council of Canada
+
+Jonathan 2 Papers:
+ - Correcting ray distortion in tomographic additive manufacturing.
+ - Deconvolution volumetric additive manufacturing
+ - On-the-fly 3D metrology of volumetric additive manufacturing
+ - Optical Scattering Tomography for Volumetric Additive Manufacturing
+ - Ray-based distortion correction in tomographic additive manufacturing
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: T. Lacelle (16276224)
+Jonathan 1 Papers:
+ - Micro-optics fabrication using blurred tomography
+ - Printing of low-viscosity materials using tomographic additive manufacturing
+ - Progress in volumetric additive manufacturing at the National Research Council of Canada
+
+Jonathan 2 Papers:
+ - Deconvolution volumetric additive manufacturing
+ - On-the-fly 3D metrology of volumetric additive manufacturing
+ - Optical Scattering Tomography for Volumetric Additive Manufacturing
+ - Ray-based distortion correction in tomographic additive manufacturing
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: C. Paquet (38981692)
+Jonathan 1 Papers:
+ - Micro-optics fabrication using blurred tomography
+
+Jonathan 2 Papers:
+ - Controlling light dose in tomographic volumetric additive manufacturing
+ - Correcting ray distortion in tomographic additive manufacturing.
+ - Deconvolution volumetric additive manufacturing
+ - Enhanced tomographic printing via 3D ray-tracing dose optimization
+ - On-the-fly 3D metrology of volumetric additive manufacturing
+ - Optical Scattering Tomography for Volumetric Additive Manufacturing
+ - Ray-based distortion correction in tomographic additive manufacturing
+ - Versatile volumetric additive manufacturing with 3D ray tracing.
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: Derek Aranguren van Egmond (2131863767)
+Jonathan 1 Papers:
+ - Automatic Exposure Volumetric Additive Manufacturing
+
+Jonathan 2 Papers:
+ - On-the-fly 3D metrology of volumetric additive manufacturing
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (2326656480)
+Common Co-author: Michel Picard (2285403447)
+Jonathan 1 Papers:
+ - Printing of low-viscosity materials using tomographic additive manufacturing
+
+Jonathan 2 Papers:
+ - Multi-Frequency Nonlinear Methods for 3D Shape Measurement of Semi-Transparent Surfaces Using Projector-Camera Systems
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: Yujie Zhang (2145064725)
+Jonathan 1 Papers:
+ - Automatic Exposure Volumetric Additive Manufacturing
+ - Micro-optics fabrication using blurred tomography
+ - Printing of low-viscosity materials using tomographic additive manufacturing
+ - Progress in volumetric additive manufacturing at the National Research Council of Canada
+
+Jonathan 2 Papers:
+ - Controlling light dose in tomographic volumetric additive manufacturing
+ - Deconvolution volumetric additive manufacturing
+ - Enhanced tomographic printing via 3D ray-tracing dose optimization
+ - On-the-fly 3D metrology of volumetric additive manufacturing
+ - Optical Scattering Tomography for Volumetric Additive Manufacturing
+ - Versatile volumetric additive manufacturing with 3D ray tracing.
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (2279753241)
+Jonathan 2: Jonathan Boisvert (144608597)
+Common Co-author: Dan Webber (2074266007)
+Jonathan 1 Papers:
+ - Automatic Exposure Volumetric Additive Manufacturing
+ - Micro-optics fabrication using blurred tomography
+ - Printing of low-viscosity materials using tomographic additive manufacturing
+ - Progress in volumetric additive manufacturing at the National Research Council of Canada
+
+Jonathan 2 Papers:
+ - Controlling light dose in tomographic volumetric additive manufacturing
+ - Deconvolution volumetric additive manufacturing
+ - Enhanced tomographic printing via 3D ray-tracing dose optimization
+ - Optical Scattering Tomography for Volumetric Additive Manufacturing
+ - Ray-based distortion correction in tomographic additive manufacturing
+ - Versatile volumetric additive manufacturing with 3D ray tracing.
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (144608597)
+Jonathan 2: Jonathan Boisvert (2326656480)
+Common Co-author: M. Drouin (2573886)
+Jonathan 1 Papers:
+ - Augmented reality, 3D measurement, and thermal imagery for computer-assisted manufacturing
+ - Characterizing the impact of optically induced blurring of a high-resolution phase-shift 3D scanner
+ - Frequency Shift Method: A Technique for 3-D Shape Acquisition in the Presence of Strong Interreflections
+ - Frequency Shift Triangulation: A Robust Fringe Projection Technique for 3D Shape Acquisition in the Presence of Strong Interreflections
+ - High-speed transition patterns for video projection, 3D reconstruction, and copyright protection
+ - Increasing the Robustness of CNN-Based Human Body Segmentation in Range Images by Modeling Sensor-Specific Artifacts
+ - Modeling and Simulation Framework for Airborne Camera Systems
+ - Motion Compensation for Phase-Shift Structured-Light Systems Based on a Total-Variation Framework
+ - Projector-based augmented reality with simultaneous 3D inspection using a single DMD
+ - Structured-light systems using a programmable quasi-analogue projection subsystem
+ - Training a CNN to robustly segment the human body parts in range image sequences
+
+Jonathan 2 Papers:
+ - A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations
+ - Multi-Frequency Nonlinear Methods for 3D Shape Measurement of Semi-Transparent Surfaces Using Projector-Camera Systems
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (144608597)
+Jonathan 2: J. Boisvert (2237141740)
+Common Co-author: Pengcheng Xi (3111197)
+Jonathan 1 Papers:
+ - Bending invariant meshes and application to groupwise correspondences
+
+Jonathan 2 Papers:
+ - Three-dimensional human shape inference from silhouettes: reconstruction and validation
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (144608597)
+Jonathan 2: J. Boisvert (2237141740)
+Common Co-author: Stefanie Wuhrer (1792200)
+Jonathan 1 Papers:
+ - Bending invariant meshes and application to groupwise correspondences
+
+Jonathan 2 Papers:
+ - Three-dimensional human shape inference from silhouettes: reconstruction and validation
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (144608597)
+Jonathan 2: Jonathan Boisvert (2326656480)
+Common Co-author: F. B. D. Dizeu (3412981)
+Jonathan 1 Papers:
+ - Comparison of laser triangulation, phase shift triangulation and swept source optical coherence Tomography for nondestructive inspection of objects with micrometric accuracy
+ - Frequency Shift Method: A Technique for 3-D Shape Acquisition in the Presence of Strong Interreflections
+ - Frequency Shift Triangulation: A Robust Fringe Projection Technique for 3D Shape Acquisition in the Presence of Strong Interreflections
+
+Jonathan 2 Papers:
+ - Multi-Frequency Nonlinear Methods for 3D Shape Measurement of Semi-Transparent Surfaces Using Projector-Camera Systems
+
+Shared Papers:
+ - None
+
+--------------------------------------
+Jonathan 1: Jonathan Boisvert (144608597)
+Jonathan 2: J. Boisvert (2237141740)
+Common Co-author: Jorge G. Barbosa (49166577)
+Jonathan 1 Papers:
+ - Fast 3D reconstruction of the spine by non-expert users using a statistical articulated model
+ - Fast 3D reconstruction of the spine from biplanar radiographs using a deformable articulated model.
+
+Jonathan 2 Papers:
+ - du CNRC ( NPArC ) Fast 3 D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model
+ - Fast 3D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model
+ - NRC Publications Archive Archives des publications du CNRC
+
+Shared Papers:
+ - None

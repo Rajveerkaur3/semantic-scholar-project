@@ -1,0 +1,472 @@
+{
+  "authorId": "2185364605",
+  "url": "https://www.semanticscholar.org/author/2185364605",
+  "name": "Camille B\u00e9dard",
+  "affiliations": [],
+  "paperCount": 7,
+  "citationCount": 81,
+  "hIndex": 4,
+  "papers": [
+    {
+      "paperId": "6cc4ae175421b30cd16e637849616d40a2bec582",
+      "title": "FungAMR: a comprehensive database for investigating fungal mutations associated with antimicrobial resistance",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "2086982169",
+          "name": "Alicia Pageau"
+        },
+        {
+          "authorId": "6866916",
+          "name": "A. Fijarczyk"
+        },
+        {
+          "authorId": "2352860290",
+          "name": "David Mendoza-Salido"
+        },
+        {
+          "authorId": "2325143021",
+          "name": "Alejandro J. Alca\u00f1iz"
+        },
+        {
+          "authorId": "153617460",
+          "name": "Philippe C. Despr\u00e9s"
+        },
+        {
+          "authorId": "40338846",
+          "name": "Romain Durand"
+        },
+        {
+          "authorId": "39478178",
+          "name": "Samuel Plante"
+        },
+        {
+          "authorId": "2142690585",
+          "name": "E. M. Alexander"
+        },
+        {
+          "authorId": "39542734",
+          "name": "Fran\u00e7ois D. Rouleau"
+        },
+        {
+          "authorId": "2301460236",
+          "name": "David F. Jordan"
+        },
+        {
+          "authorId": "2338983361",
+          "name": "Adarsh Jay"
+        },
+        {
+          "authorId": "2312378241",
+          "name": "Mathieu Gigu\u00e8re"
+        },
+        {
+          "authorId": "2325144086",
+          "name": "M\u00e9gane Bernier"
+        },
+        {
+          "authorId": "80824040",
+          "name": "Jehoshua Sharma"
+        },
+        {
+          "authorId": "1395581750",
+          "name": "Laetitia Maroc"
+        },
+        {
+          "authorId": "147668428",
+          "name": "Nicholas C. Gervais"
+        },
+        {
+          "authorId": "2318789760",
+          "name": "A. C. Menon"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "2325151577",
+          "name": "Sibbe Bakker"
+        },
+        {
+          "authorId": "2292192447",
+          "name": "Johanna Rhodes"
+        },
+        {
+          "authorId": "6291553",
+          "name": "P. Dufresne"
+        },
+        {
+          "authorId": "5089759",
+          "name": "A. Bharat"
+        },
+        {
+          "authorId": "3389934",
+          "name": "Adnane Sellam"
+        },
+        {
+          "authorId": "2145468227",
+          "name": "Domenica G. De Luca"
+        },
+        {
+          "authorId": "4484406",
+          "name": "A. Gerstein"
+        },
+        {
+          "authorId": "40225867",
+          "name": "Rebecca S. Shapiro"
+        },
+        {
+          "authorId": "7618810",
+          "name": "N. Quijada"
+        },
+        {
+          "authorId": "2301995080",
+          "name": "Christian R. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "82f47e6d238842622e0ea3022005ebaba84439bf",
+      "title": "FungAMR: A comprehensive portrait of antimicrobial resistance mutations in fungi",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "2086982169",
+          "name": "Alicia Pageau"
+        },
+        {
+          "authorId": "6866916",
+          "name": "A. Fijarczyk"
+        },
+        {
+          "authorId": "2352860290",
+          "name": "David Mendoza-Salido"
+        },
+        {
+          "authorId": "2325143021",
+          "name": "Alejandro J. Alca\u00f1iz"
+        },
+        {
+          "authorId": "153617460",
+          "name": "Philippe C. Despr\u00e9s"
+        },
+        {
+          "authorId": "40338846",
+          "name": "Romain Durand"
+        },
+        {
+          "authorId": "39478178",
+          "name": "Samuel Plante"
+        },
+        {
+          "authorId": "2142690585",
+          "name": "E. M. Alexander"
+        },
+        {
+          "authorId": "39542734",
+          "name": "Fran\u00e7ois D. Rouleau"
+        },
+        {
+          "authorId": "2301460236",
+          "name": "David F. Jordan"
+        },
+        {
+          "authorId": "2338983361",
+          "name": "Adarsh Jay"
+        },
+        {
+          "authorId": "2312378241",
+          "name": "Mathieu Gigu\u00e8re"
+        },
+        {
+          "authorId": "2325144086",
+          "name": "M\u00e9gane Bernier"
+        },
+        {
+          "authorId": "80824040",
+          "name": "Jehoshua Sharma"
+        },
+        {
+          "authorId": "1395581750",
+          "name": "Laetitia Maroc"
+        },
+        {
+          "authorId": "147668428",
+          "name": "Nicholas C. Gervais"
+        },
+        {
+          "authorId": "2318789760",
+          "name": "A. C. Menon"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "2325151577",
+          "name": "Sibbe Bakker"
+        },
+        {
+          "authorId": "37542705",
+          "name": "J. Rhodes"
+        },
+        {
+          "authorId": "6291553",
+          "name": "P. Dufresne"
+        },
+        {
+          "authorId": "5089759",
+          "name": "A. Bharat"
+        },
+        {
+          "authorId": "3389934",
+          "name": "Adnane Sellam"
+        },
+        {
+          "authorId": "2145468227",
+          "name": "Domenica G. De Luca"
+        },
+        {
+          "authorId": "4484406",
+          "name": "A. Gerstein"
+        },
+        {
+          "authorId": "40225867",
+          "name": "Rebecca S. Shapiro"
+        },
+        {
+          "authorId": "7618810",
+          "name": "N. Quijada"
+        },
+        {
+          "authorId": "2112373",
+          "name": "C. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "8b0697cddce7f10a680e0bc948f573f815beb2bb",
+      "title": "Most azole resistance mutations in the Candida albicans drug target confer cross-resistance without intrinsic fitness cost",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "2274943414",
+          "name": "Jonathan Boisvert"
+        },
+        {
+          "authorId": "39478178",
+          "name": "Samuel Plante"
+        },
+        {
+          "authorId": "4055834",
+          "name": "A. K. Dub\u00e9"
+        },
+        {
+          "authorId": "2086982169",
+          "name": "Alicia Pageau"
+        },
+        {
+          "authorId": "6866916",
+          "name": "A. Fijarczyk"
+        },
+        {
+          "authorId": "80824040",
+          "name": "Jehoshua Sharma"
+        },
+        {
+          "authorId": "1395581750",
+          "name": "Laetitia Maroc"
+        },
+        {
+          "authorId": "40225867",
+          "name": "Rebecca S. Shapiro"
+        },
+        {
+          "authorId": "2112373",
+          "name": "C. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "f3cbd1bc44b2ac414ca94e24c7cedf3a37a9515d",
+      "title": "Most azole antifungal resistance mutations in the drug target provide cross-resistance and carry no intrinsic fitness cost",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "2274943414",
+          "name": "Jonathan Boisvert"
+        },
+        {
+          "authorId": "39478178",
+          "name": "Samuel Plante"
+        },
+        {
+          "authorId": "4055834",
+          "name": "A. K. Dub\u00e9"
+        },
+        {
+          "authorId": "2086982169",
+          "name": "Alicia Pageau"
+        },
+        {
+          "authorId": "6866916",
+          "name": "A. Fijarczyk"
+        },
+        {
+          "authorId": "80824040",
+          "name": "Jehoshua Sharma"
+        },
+        {
+          "authorId": "1395581750",
+          "name": "Laetitia Maroc"
+        },
+        {
+          "authorId": "40225867",
+          "name": "Rebecca S. Shapiro"
+        },
+        {
+          "authorId": "2112373",
+          "name": "C. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "e1f960cc8e60723c496301265e605a3d7775a478",
+      "title": "Evolutionary Trajectories are Contingent on Mitonuclear Interactions",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "1402718464",
+          "name": "Damien Biot-Pelletier"
+        },
+        {
+          "authorId": "3782980",
+          "name": "S. Bettinazzi"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "4055834",
+          "name": "A. K. Dub\u00e9"
+        },
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "2157789578",
+          "name": "Tuc H. M. Nguyen"
+        },
+        {
+          "authorId": "4107047",
+          "name": "Heather L. Fiumera"
+        },
+        {
+          "authorId": "6596881",
+          "name": "S. Breton"
+        },
+        {
+          "authorId": "2112373",
+          "name": "C. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "6310a0f1f53645991872e966a86ca390ad577f7c",
+      "title": "Evolutionary trajectories are contingent on mitonuclear interactions 2 3",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "1402718464",
+          "name": "Damien Biot-Pelletier"
+        },
+        {
+          "authorId": "3782980",
+          "name": "S. Bettinazzi"
+        },
+        {
+          "authorId": "1401599067",
+          "name": "Isabelle Gagnon-Arsenault"
+        },
+        {
+          "authorId": "4055834",
+          "name": "A. K. Dub\u00e9"
+        },
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "2157789578",
+          "name": "Tuc H. M. Nguyen"
+        },
+        {
+          "authorId": "2359388489",
+          "name": "5. HeatherL."
+        },
+        {
+          "authorId": "1599872229",
+          "name": "Fiumera"
+        },
+        {
+          "authorId": "2243377235",
+          "name": "S. Breton"
+        },
+        {
+          "authorId": "2333141893",
+          "name": "Christian R. Landry"
+        }
+      ]
+    },
+    {
+      "paperId": "bacd5444b6abcb6be42a9395575d6fec7577f0f0",
+      "title": "Correlation between protein abundance and sequence conservation: what do recent experiments say?",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "2185364605",
+          "name": "Camille B\u00e9dard"
+        },
+        {
+          "authorId": "153063764",
+          "name": "Angel F. Cisneros"
+        },
+        {
+          "authorId": "2282288052",
+          "name": "David Jordan"
+        },
+        {
+          "authorId": "2112373",
+          "name": "C. Landry"
+        }
+      ]
+    }
+  ]
+}

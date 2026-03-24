@@ -1,0 +1,611 @@
+{
+  "authorId": "2765458",
+  "url": "https://www.semanticscholar.org/author/2765458",
+  "name": "Raghav V. Sampangi",
+  "affiliations": [],
+  "paperCount": 32,
+  "citationCount": 163,
+  "hIndex": 6,
+  "papers": [
+    {
+      "paperId": "3424ae1868cf2f13add2984e61748008ee964d56",
+      "title": "Clustering and Profiling Student Study Behaviors and Interactions with an AI Coding Assistant",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "2413126289",
+          "name": "Jeffry Paul Suresh Durai"
+        },
+        {
+          "authorId": "2237141740",
+          "name": "J. Boisvert"
+        },
+        {
+          "authorId": "2413127608",
+          "name": "Keaton Doucette"
+        },
+        {
+          "authorId": "2365270602",
+          "name": "M. Lin"
+        },
+        {
+          "authorId": "2413110333",
+          "name": "Marta Kryven"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "f5fe6b23bd2924fb79ca5235b52514f772c775c7",
+      "title": "Rewind and Recover: A Comparative Study of Resumption Aids for 3D Model Tasks",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "1666219252",
+          "name": "R. Almangush"
+        },
+        {
+          "authorId": "2333666487",
+          "name": "Muhammad Raza"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2321268848",
+          "name": "Derek F. Reilly"
+        }
+      ]
+    },
+    {
+      "paperId": "2776e5d8e4a3de0057756cfda423b1d7b032892a",
+      "title": "Risk-Aware Mobile App Security Testing: Safeguarding Sensitive User Inputs",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2284350803",
+          "name": "Trishla Shah"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2179228299",
+          "name": "Angela A. Siegel"
+        }
+      ]
+    },
+    {
+      "paperId": "fb7194ee26bdbfd5f7fccdc7a0e3ca89ee7c6607",
+      "title": "Mobile Application Security Risk Score: A sensitive user input-based approach",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2284350803",
+          "name": "Trishla Shah"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2179228299",
+          "name": "Angela A. Siegel"
+        }
+      ]
+    },
+    {
+      "paperId": "fe95a13919d5b5a810af137f09e4c23302f4128f",
+      "title": "Programming Assignment Ungrading as a License to Learn: Implementing Specifications Grading in the Undergraduate Web Development Classroom",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "1666686658",
+          "name": "M. D. Barrera Machuca"
+        }
+      ]
+    },
+    {
+      "paperId": "9c41252904768bb88348e0566b34161c8bee8033",
+      "title": "Are your Sensitive Inputs Secure in Android Applications?",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "3479672",
+          "name": "Trishla Shah"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2179228299",
+          "name": "Angela A. Siegel"
+        }
+      ]
+    },
+    {
+      "paperId": "afdeb5a520b7a8d7a379966309b226e0b722c986",
+      "title": "Data Visualizations to Foster Self-regulated Learning with Intelligent Programming Tutors",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "2111399655",
+          "name": "Lingyun Huang"
+        },
+        {
+          "authorId": "3113869",
+          "name": "E. Poitras"
+        },
+        {
+          "authorId": "2179228299",
+          "name": "Angela A. Siegel"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2146125843",
+          "name": "Fernando Paulovich"
+        }
+      ]
+    },
+    {
+      "paperId": "69de251d56c857cedb9ae8436a9508fb07e7021e",
+      "title": "Designing Engaging Learning Experiences",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "31677150",
+          "name": "A. Siegel"
+        }
+      ]
+    },
+    {
+      "paperId": "a567d6b2a68d2f73de21946812279fc0e0cd1d54",
+      "title": "Personal Safety App Effectiveness",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "39732103",
+          "name": "Mike Just"
+        },
+        {
+          "authorId": "81664528",
+          "name": "Hasmeet Chandok"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "1771438",
+          "name": "K. Hawkey"
+        },
+        {
+          "authorId": "40053098",
+          "name": "A. Willis"
+        },
+        {
+          "authorId": "117417180",
+          "name": "JeyaBalaji Samuthiravelu"
+        },
+        {
+          "authorId": "117910745",
+          "name": "Dilpreet Gill"
+        },
+        {
+          "authorId": "117775317",
+          "name": "Michael Altair"
+        }
+      ]
+    },
+    {
+      "paperId": "4e2935aa60d0e6dc61a48963fdcfb94fda0dc2a7",
+      "title": "Metamorphic Framework for Key Management and Authentication in Resource-Constrained Wireless Networks",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "5337cd7b9802bb32a1a71be8a7f4e6bec799f625",
+      "title": "HiveSec: security in resource-constrained wireless networks inspired by beehives and bee swarms",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "5a416a3184c793d84fbf0b816684d638fa9ed552",
+      "title": "Secure Contexts : Context-Dependent , Dynamic , and Adaptive Security and Privacy",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "6e81b5701c632d97d7d8fa098ee2b868ac8f5848",
+      "title": "Who Are You? It Depends (On What You Ask Me!): Context-Dependent Dynamic User Authentication",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "1771438",
+          "name": "K. Hawkey"
+        }
+      ]
+    },
+    {
+      "paperId": "8145a674aef6cd32a1905512b2c93a606375476b",
+      "title": "HiveSec: security in resource-constrained wireless networks inspired by beehives and bee swarms",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "bf0b3e483d81d37356f3a0756fefda918cd6a992",
+      "title": "Grab This, Swipe That: Combining Tangible and Gestural Interaction in Multiple Display Collaborative Gameplay",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "3395930",
+          "name": "A. Waje"
+        },
+        {
+          "authorId": "3395997",
+          "name": "Khalid Tearo"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "1766376",
+          "name": "Derek F. Reilly"
+        }
+      ]
+    },
+    {
+      "paperId": "69a9ef7d0896f7206f984369500c089299c8355e",
+      "title": "HIDE: Hybrid symmetric key algorithm for integrity check, dynamic key generation and encryption",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2094383172",
+          "name": "J. Narayanaswamy"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "81fce727d66a134cc3cccf22f9b9d97d4ede7ce2",
+      "title": "Lightweight protocol for anonymity and mutual authentication in RFID systems",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2110108191",
+          "name": "Musfiq Rahman"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "a63f40e4b8eef9e260fa0be00f7876f73b0d1aba",
+      "title": "Butterfly Encryption Scheme for Resource-Constrained Wireless Networks",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "ccd33f01b7a6f6763d861b62a81ebe673cb4ab6d",
+      "title": "Biomimetic Metamorphic Framework for Security in Resource-Constrained Wireless Networks",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "443ccb442d7b25224525c4b6535722e5a4d64cbc",
+      "title": "HiveSign: dynamic message signatures for resource-constrained wireless networks",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "9c79addff2080167b2d233402e18000b9c73742c",
+      "title": "SCARS: Simplified cryptographic algorithm for RFID systems",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2094383172",
+          "name": "J. Narayanaswamy"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "a225b8826c9b219ee930c5b60c0bb6908c24bd3e",
+      "title": "1 ( Can \u2019 t ) Lie to ME : Using Micro Expressions for User Authentication",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "dc6bdfc5b2de62aeb3bb780b62450e836595da97",
+      "title": "RFID encryption scheme featuring pseudorandom numbers and Butterfly seed generation",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "b4857ab1e73ea6f9a214c33dd858be4eb4e500bf",
+      "title": "NFC-enabled smartphone application for drug interaction and drug allergy detection",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2248898575",
+          "name": "Maali Alabdulhafith"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "fb96cb4ad6539b4490af0f6ca461a0bd93b20277",
+      "title": "RFID Mutual Authentication Protocols based on Gene Mutation and Transfer",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "4de7491f688cca9a3f2c987ebc5a760af37096ba",
+      "title": "Tag-server mutual authentication scheme based on gene transfer and genetic mutation",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "6dd0ad0a2d0c05ec131d9049c13e2aeda11d2bce",
+      "title": "IAMKeys: Independent and Adaptive Management of Keys for Security in Wireless Body Area Networks",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2594927",
+          "name": "Saurabh Dey"
+        },
+        {
+          "authorId": "119772203",
+          "name": "Shalini R. Urs"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "c7da7739336149ac396df1dc270f21b8a4396fd5",
+      "title": "The knowledge city index: a case study of Mysore",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2058613850",
+          "name": "Waltraut Ritter"
+        },
+        {
+          "authorId": "2288750515",
+          "name": "N. V. Vighnesh"
+        },
+        {
+          "authorId": "108029901",
+          "name": "H. Ray"
+        }
+      ]
+    },
+    {
+      "paperId": "dade80e571115e0d8418a6b1761eacebadf23e4b",
+      "title": "A security suite for wireless body area networks",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2594927",
+          "name": "Saurabh Dey"
+        },
+        {
+          "authorId": "119772203",
+          "name": "Shalini R. Urs"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "de6b931f06aa9d1915c55c21579d4552293f7af4",
+      "title": "Knowledge Management in Inter-Societal AcademicR&D",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "c08f9e2e0f1d9401d4d317d18988a4ecfd6b7c4d",
+      "title": "A novel reliability scheme employing multiple sink nodes for Wireless Body Area Networks",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "119772203",
+          "name": "Shalini R. Urs"
+        },
+        {
+          "authorId": "2226573",
+          "name": "S. Sampalli"
+        }
+      ]
+    },
+    {
+      "paperId": "cb4b4230f73cd82d244bf80de60ea8769fc453d2",
+      "title": "The sneeze algorithm: A social network & biomimetic approach for intrusion detection in wireless networks",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2594927",
+          "name": "Saurabh Dey"
+        },
+        {
+          "authorId": "9236966",
+          "name": "V. Viswanath"
+        }
+      ]
+    }
+  ]
+}

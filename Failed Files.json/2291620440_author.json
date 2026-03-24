@@ -1,0 +1,173 @@
+{
+  "authorId": "2291620440",
+  "url": "https://www.semanticscholar.org/author/2291620440",
+  "name": "Eric Poitras",
+  "affiliations": [],
+  "paperCount": 6,
+  "citationCount": 35,
+  "hIndex": 2,
+  "papers": [
+    {
+      "paperId": "7366fee91f5d7ca81ca129d07cd12260a75aa786",
+      "title": "Open-Source Large Language Models in Education: A Narrative Review of Evidence, Pedagogical Roles, and Learning Outcomes",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2115913575",
+          "name": "M. P. Lin"
+        },
+        {
+          "authorId": "2145740923",
+          "name": "Jing Huang"
+        },
+        {
+          "authorId": "2243260262",
+          "name": "Daniel H. Chang"
+        },
+        {
+          "authorId": "2283682076",
+          "name": "Gerald Tembrevilla"
+        },
+        {
+          "authorId": "2329497261",
+          "name": "G. M. Bowen"
+        },
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "2018708",
+          "name": "V. Janarthanan"
+        },
+        {
+          "authorId": "2260517872",
+          "name": "Jeeho Ryoo"
+        }
+      ]
+    },
+    {
+      "paperId": "3424ae1868cf2f13add2984e61748008ee964d56",
+      "title": "Clustering and Profiling Student Study Behaviors and Interactions with an AI Coding Assistant",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "2413126289",
+          "name": "Jeffry Paul Suresh Durai"
+        },
+        {
+          "authorId": "2237141740",
+          "name": "J. Boisvert"
+        },
+        {
+          "authorId": "2413127608",
+          "name": "Keaton Doucette"
+        },
+        {
+          "authorId": "2365270602",
+          "name": "M. Lin"
+        },
+        {
+          "authorId": "2413110333",
+          "name": "Marta Kryven"
+        },
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        }
+      ]
+    },
+    {
+      "paperId": "506f6b7a361489e602a31c9413ddd3084c2d6ce1",
+      "title": "Bridging educational equity gaps: expanding the CHAT-ACTS framework for personalized GenAI chatbots in higher education",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2332279811",
+          "name": "Emily Ballantyne"
+        },
+        {
+          "authorId": "2115913575",
+          "name": "M. P. Lin"
+        },
+        {
+          "authorId": "2396835167",
+          "name": "Daniel H. Chang"
+        },
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        }
+      ]
+    },
+    {
+      "paperId": "0d219f01a2132f2dc9ecc19d494e62917c64187f",
+      "title": "An Exploratory Study on the Efficacy and Inclusivity of AI Technologies in Diverse Learning Environments",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2115913575",
+          "name": "M. P. Lin"
+        },
+        {
+          "authorId": "2326607533",
+          "name": "Arita Li Liu"
+        },
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "2302114859",
+          "name": "Maiga Chang"
+        },
+        {
+          "authorId": "2243260262",
+          "name": "Daniel H. Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "9aeaf3e605f8d258759d906fc9a944108b98ec90",
+      "title": "Generative AI in Introductory Programming Instruction: Examining the Assistance Dilemma with LLM-Based Code Generators",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "117735109",
+          "name": "Brent Crane"
+        },
+        {
+          "authorId": "2309488540",
+          "name": "Angela Siegel"
+        }
+      ]
+    },
+    {
+      "paperId": "fe95a13919d5b5a810af137f09e4c23302f4128f",
+      "title": "Programming Assignment Ungrading as a License to Learn: Implementing Specifications Grading in the Undergraduate Web Development Classroom",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2765458",
+          "name": "Raghav V. Sampangi"
+        },
+        {
+          "authorId": "2291620440",
+          "name": "Eric Poitras"
+        },
+        {
+          "authorId": "1666686658",
+          "name": "M. D. Barrera Machuca"
+        }
+      ]
+    }
+  ]
+}

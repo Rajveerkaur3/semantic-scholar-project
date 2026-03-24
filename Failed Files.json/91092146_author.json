@@ -1,0 +1,4838 @@
+{
+  "authorId": "91092146",
+  "url": "https://www.semanticscholar.org/author/91092146",
+  "name": "E. Irissou",
+  "affiliations": [],
+  "paperCount": 109,
+  "citationCount": 4129,
+  "hIndex": 36,
+  "papers": [
+    {
+      "paperId": "3cc1513611e7e9058b7791d6e8e9e75af11cab6b",
+      "title": "Wear behavior of eutectic high entropy alloy coatings made by cold spray and thermal spray",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2144047560",
+          "name": "S. S. Dash"
+        },
+        {
+          "authorId": "2325260146",
+          "name": "Cristian V. Cojocaru"
+        },
+        {
+          "authorId": "2346839992",
+          "name": "Hyun Suk Choi"
+        },
+        {
+          "authorId": "2369007710",
+          "name": "Nuo Qu"
+        },
+        {
+          "authorId": "2287886145",
+          "name": "Ruitian Chen"
+        },
+        {
+          "authorId": "2289849945",
+          "name": "Jingjie Wei"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2400493705",
+          "name": "Y. Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "5b3a03fa1190cfdbe4b448b06ee418df9a884f43",
+      "title": "Influence of Pulsed Laser Ablation Parameters on Adhesion of Cold Spray Al 6061 Coatings on Extruded Al 6061 Substrates",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "118527823",
+          "name": "J. Sripada"
+        },
+        {
+          "authorId": "2075277508",
+          "name": "Alexis Thibault"
+        },
+        {
+          "authorId": "2376683046",
+          "name": "Lucas A. Hof"
+        },
+        {
+          "authorId": "2244463927",
+          "name": "P. Bocher"
+        },
+        {
+          "authorId": "117683777",
+          "name": "J. B\u00e9land"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "2bc4f3a7cc8dfaf6b9e8e3aa4719e91eedf16aa2",
+      "title": "Influence of Pulsed Laser Ablation Parameters on Adhesion of Cold Spray Al6061 Coatings on Extruded Al6061 Substrates",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "118527823",
+          "name": "J. Sripada"
+        },
+        {
+          "authorId": "2075277508",
+          "name": "Alexis Thibault"
+        },
+        {
+          "authorId": "2244463927",
+          "name": "P. Bocher"
+        },
+        {
+          "authorId": "117683777",
+          "name": "J. B\u00e9land"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "155b611ca6db68e695d9b8bd6df342a80f0b940f",
+      "title": "Deposition, microstructure and hardness of AlCoCrFeNi2.1 eutectic high entropy alloy coatings by cold spray, HVOF, and plasma spray",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2289849945",
+          "name": "Jingjie Wei"
+        },
+        {
+          "authorId": "2325260146",
+          "name": "Cristian V. Cojocaru"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "2325259743",
+          "name": "Chenwei Shao"
+        },
+        {
+          "authorId": "2325441796",
+          "name": "Zehua Li"
+        },
+        {
+          "authorId": "2108294010",
+          "name": "Jiahui Zhang"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2353729334",
+          "name": "Yu Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "612bfc970d55b056e9f366ca8a31e666c9201d87",
+      "title": "Cold spray deposition and microstructure characterization of CuNi, CuSn, and CuNiSiCr coatings",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2289849945",
+          "name": "Jingjie Wei"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "2123507361",
+          "name": "Tianyi Lyu"
+        },
+        {
+          "authorId": "46270602",
+          "name": "Zhiying Liu"
+        },
+        {
+          "authorId": "2242179163",
+          "name": "Haoxiu Chen"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2153727503",
+          "name": "Yu Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "c7fc55d37ca6fecdcc56c5ab2ab48f3570c1131b",
+      "title": "Improvement of Tool Steel Powder Cold Sprayability Via Softening and Agglomeration Heat Treatments",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "153292424",
+          "name": "Y. Thomas"
+        },
+        {
+          "authorId": "48795184",
+          "name": "B. Guerreiro"
+        },
+        {
+          "authorId": "2218688762",
+          "name": "M. Martin"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "cbaabaa7c3d87e29d23513a68cc08ea1d812a3e3",
+      "title": "How to Unleash the Remarkable Potential of Cold Spray: A Perspective",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "2143106620",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "f0fdb3bce6d3badc3810fd4d1ba5b9b3f47c49e7",
+      "title": "NiCoCrAlX (X = Y, Hf and Si) Bond Coats by Cold Spray for High Temperature Applications",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "fe2dad85b6a12769ae049525a2fafc4141db682a",
+      "title": "Cold Spray and Laser-Assisted Cold Spray of CrMnCoFeNi High Entropy Alloy Using Nitrogen as the Propelling Gas",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "117483694",
+          "name": "R. Nikbakht"
+        },
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2143689378",
+          "name": "Taek-Soo Kim"
+        },
+        {
+          "authorId": "3207682",
+          "name": "Hyoung-Seop Kim"
+        },
+        {
+          "authorId": "95334298",
+          "name": "B. Jodoin"
+        }
+      ]
+    },
+    {
+      "paperId": "6284edb64d48c0e6053074312e590ac0bc0b8df8",
+      "title": "Novel Powder Modification Method for the Cold Spray of Hard Steels",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "2089981938",
+          "name": "Y. Thomas"
+        },
+        {
+          "authorId": "48795184",
+          "name": "B. Guerreiro"
+        },
+        {
+          "authorId": "2218688762",
+          "name": "M. Martin"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "7fc4851f4adbb5a17ac93e661825043fef9b5626",
+      "title": "Ensemble Methods for APS In-Flight Particle Temperature and Velocity Prediction Considering Torch Electrodes Ageing",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "2149442875",
+          "name": "K. Yu"
+        },
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "69430325",
+          "name": "F. Ilinca"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "b624890da372beab8a99bb79b1151cc617a691d0",
+      "title": "MCrAlX (X = Y, Hf and Si) Bond Coats by Cold Spray for High Temperature Applications",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "4c239f810fc42a9a94fc9c23a6ff6ca0f96db888",
+      "title": "Dimensional Analysis and Laser-Ultrasonic Inspection of Cold Spray Additive Manufacturing Components",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "49659406",
+          "name": "D. L\u00e9vesque"
+        },
+        {
+          "authorId": "13085091",
+          "name": "C. Bescond"
+        },
+        {
+          "authorId": "32115368",
+          "name": "M. Rivard"
+        },
+        {
+          "authorId": "144608597",
+          "name": "Jonathan Boisvert"
+        },
+        {
+          "authorId": "1981087",
+          "name": "G. Lamouche"
+        },
+        {
+          "authorId": "2218688762",
+          "name": "M. Martin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "4edd0c3a5ab8dabf5913282bc746692b59a7e145",
+      "title": "Prediction of heterogeneous microstructural evolution in cold sprayed copper coatings using local Zener-Hollomon parameter and strain",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "46270602",
+          "name": "Zhiying Liu"
+        },
+        {
+          "authorId": "7644172",
+          "name": "Hongze Wang"
+        },
+        {
+          "authorId": "1489344908",
+          "name": "M. Hach\u00e9"
+        },
+        {
+          "authorId": "47353369",
+          "name": "X. Chu"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "1406165552",
+          "name": "Y. Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "68e4b59b3ebe46dbcf9c3bfd3ed81155597fee4a",
+      "title": "Development and Validation of High-Performance SARS-CoV-2 Antiviral Coatings for High-Touch Surfaces",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "48795078",
+          "name": "B. Guerreiro"
+        },
+        {
+          "authorId": "113433401",
+          "name": "M. Aghasibeig"
+        },
+        {
+          "authorId": "145246874",
+          "name": "C. Liang"
+        },
+        {
+          "authorId": "2306568524",
+          "name": "Saina Beitari"
+        },
+        {
+          "authorId": "2143106620",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "118534198",
+          "name": "H. Che"
+        },
+        {
+          "authorId": "51182019",
+          "name": "A. Nobari"
+        },
+        {
+          "authorId": "49353662",
+          "name": "L. Pouliot"
+        },
+        {
+          "authorId": "2053222058",
+          "name": "M. Pearson"
+        },
+        {
+          "authorId": "2076751858",
+          "name": "K. Seow"
+        },
+        {
+          "authorId": "51994418",
+          "name": "J. Boulet"
+        }
+      ]
+    },
+    {
+      "paperId": "bc5aa314f291eb0c3b8e86993624ee52c3ba8321",
+      "title": "Formation of refined grains below 10\u202fnm in size and nanoscale interlocking in the particle\u2013particle interfacial regions of cold sprayed pure aluminum",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "46270602",
+          "name": "Zhiying Liu"
+        },
+        {
+          "authorId": "7644172",
+          "name": "Hongze Wang"
+        },
+        {
+          "authorId": "1489344908",
+          "name": "M. Hach\u00e9"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "1406165552",
+          "name": "Y. Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "df384d6a719bf07f4891f0a2a57fcb800b0b61a2",
+      "title": "Cold-Sprayed Cu-Ni-Fe Anodes for CO2-Free Aluminum Production",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "116341668",
+          "name": "Sylvain Jucken"
+        },
+        {
+          "authorId": "2110741124",
+          "name": "Manuel H. Martin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "153354892",
+          "name": "B. Davis"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        }
+      ]
+    },
+    {
+      "paperId": "ef2f349743064ebd8ea740a5b53461e1a9e4e05f",
+      "title": "PolyCSAM: Boosting Cold Spray Additive Manufacturing Into Full-Scale Production",
+      "year": 2020,
+      "authors": [
+        {
+          "authorId": "1423445652",
+          "name": "J. Oberste-Berghaus"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2110743573",
+          "name": "M. Martin"
+        },
+        {
+          "authorId": "2094199158",
+          "name": "L. Pouliot"
+        },
+        {
+          "authorId": "2083436842",
+          "name": "Fernanda Caio"
+        },
+        {
+          "authorId": "118151290",
+          "name": "Sylvain Desaulniers"
+        },
+        {
+          "authorId": "2343804",
+          "name": "B. Monsarrat"
+        }
+      ]
+    },
+    {
+      "paperId": "431d773ad146c56bd4114b1d48c537ce4bca3678",
+      "title": "Formation of Refined Grains Below 10 nm in Size and Nanoscale Interlocking in the Particle-Particle Interfacial Regions of Cold Sprayed Pure Aluminum",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "46270602",
+          "name": "Zhiying Liu"
+        },
+        {
+          "authorId": "7644172",
+          "name": "Hongze Wang"
+        },
+        {
+          "authorId": "1489344908",
+          "name": "M. Hach\u00e9"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "1406165552",
+          "name": "Y. Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "0adb58f5549f4ed8e0a5b1bfa9a86b0d46e77988",
+      "title": "Performance Assessment of Protective Thermal Spray Coatings for Lightweight Al Brake Rotor Disks",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40129362",
+          "name": "D. Gallant"
+        },
+        {
+          "authorId": "2158000913",
+          "name": "Jimmy Jiang"
+        },
+        {
+          "authorId": "46992916",
+          "name": "T. Potter"
+        },
+        {
+          "authorId": "47699912",
+          "name": "J. Boileau"
+        }
+      ]
+    },
+    {
+      "paperId": "0ff4cc195b7ac0ebd151da8749a2164049f8a950",
+      "title": "Cold Spray Additive Manufacturing Industrial R&D Group",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "899892221b9358b62dc2e4a3198a96e4451c73e8",
+      "title": "Cold Spray Simulation, Particle Impact, and Splat Formation",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "02caee90eb466b9d4910060bb038dda7829a7c1e",
+      "title": "Thanks to Our Guest Editors and Reviewers for Their Critical Contributions in 2016",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "48797326",
+          "name": "K. Balani"
+        },
+        {
+          "authorId": "4848112",
+          "name": "G. Bolelli"
+        },
+        {
+          "authorId": "145222976",
+          "name": "S. Kuroda"
+        },
+        {
+          "authorId": "145401021",
+          "name": "Y. Lau"
+        },
+        {
+          "authorId": "92125099",
+          "name": "Chang-jiu Li"
+        },
+        {
+          "authorId": "49500860",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "91403811",
+          "name": "F. Toma"
+        },
+        {
+          "authorId": "46773367",
+          "name": "E. Turunen"
+        },
+        {
+          "authorId": "96286901",
+          "name": "C. Widener"
+        },
+        {
+          "authorId": "100637681",
+          "name": "M. Abdulgader"
+        },
+        {
+          "authorId": "38041666",
+          "name": "A. Agarwal"
+        },
+        {
+          "authorId": "46558736",
+          "name": "R. Ahmed"
+        },
+        {
+          "authorId": "6961957",
+          "name": "L. Altomare"
+        },
+        {
+          "authorId": "31044684",
+          "name": "P. Ananthapadmanabhan"
+        },
+        {
+          "authorId": "35162254",
+          "name": "Y. Ando"
+        },
+        {
+          "authorId": "116799578",
+          "name": "A. Ansar"
+        },
+        {
+          "authorId": "2067441417",
+          "name": "Gordon S. Armstrong"
+        },
+        {
+          "authorId": "2089679279",
+          "name": "S. Ashour"
+        },
+        {
+          "authorId": "117498450",
+          "name": "Sayed Hossein Ashrafizadeh"
+        },
+        {
+          "authorId": "4572348",
+          "name": "F. Azarmi"
+        },
+        {
+          "authorId": "9777246",
+          "name": "S. R. Bakshi"
+        },
+        {
+          "authorId": "152430447",
+          "name": "N. Bala"
+        },
+        {
+          "authorId": "9104322",
+          "name": "U. Balachandran"
+        },
+        {
+          "authorId": "1392373463",
+          "name": "R. Balavenkatesh"
+        },
+        {
+          "authorId": "153479551",
+          "name": "A. Bandyopadhyay"
+        },
+        {
+          "authorId": "93771015",
+          "name": "I. Baumann"
+        },
+        {
+          "authorId": "83000684",
+          "name": "A. Bellucci"
+        },
+        {
+          "authorId": "145344184",
+          "name": "L. Berger"
+        },
+        {
+          "authorId": "144448733",
+          "name": "C. Berndt"
+        },
+        {
+          "authorId": "71731475",
+          "name": "G. Bertrand"
+        },
+        {
+          "authorId": "93287396",
+          "name": "L. Bianchi"
+        },
+        {
+          "authorId": "2511291",
+          "name": "K. Bobzin"
+        },
+        {
+          "authorId": "93989463",
+          "name": "H. Bonnefoy"
+        },
+        {
+          "authorId": "1520066344",
+          "name": "C. Borchers"
+        },
+        {
+          "authorId": "38085556",
+          "name": "F. Bozza"
+        },
+        {
+          "authorId": "1484224232",
+          "name": "R. Braun"
+        },
+        {
+          "authorId": "47433040",
+          "name": "D. Bucci"
+        },
+        {
+          "authorId": "82718206",
+          "name": "Xueqiang Cao"
+        },
+        {
+          "authorId": "47026898",
+          "name": "P. Cavaliere"
+        },
+        {
+          "authorId": "4013131",
+          "name": "V. Champagne"
+        },
+        {
+          "authorId": "12903054",
+          "name": "S. Chandra"
+        },
+        {
+          "authorId": "2407635280",
+          "name": "Hongfei Chen"
+        },
+        {
+          "authorId": "2157275635",
+          "name": "Weijie Chen"
+        },
+        {
+          "authorId": "9683563",
+          "name": "Sooseok Choi"
+        },
+        {
+          "authorId": "2052313045",
+          "name": "J. Chou"
+        },
+        {
+          "authorId": "49190726",
+          "name": "T. Chr\u00e1ska"
+        },
+        {
+          "authorId": "1748474",
+          "name": "P. Christofides"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "2523706",
+          "name": "J. \u010c\u00ed\u017eek"
+        },
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "15144829",
+          "name": "A. Concustell"
+        },
+        {
+          "authorId": "4292931",
+          "name": "S. Coulombe"
+        },
+        {
+          "authorId": "51134837",
+          "name": "P. Ctibor"
+        },
+        {
+          "authorId": "91074944",
+          "name": "G. Cubillos"
+        },
+        {
+          "authorId": "35455216",
+          "name": "N. Curry"
+        },
+        {
+          "authorId": "98817873",
+          "name": "E. Dalgaard"
+        },
+        {
+          "authorId": "46551592",
+          "name": "D. Damiani"
+        },
+        {
+          "authorId": "17785090",
+          "name": "F. Delloro"
+        },
+        {
+          "authorId": "145320756",
+          "name": "C. Dennison"
+        },
+        {
+          "authorId": "7574222",
+          "name": "R. Dhiman"
+        },
+        {
+          "authorId": "3016624",
+          "name": "A. Dinia"
+        },
+        {
+          "authorId": "7587031",
+          "name": "A. Dolatabadi"
+        },
+        {
+          "authorId": "92933730",
+          "name": "M. Dorfman"
+        },
+        {
+          "authorId": "38837109",
+          "name": "Julie M. Drexler"
+        },
+        {
+          "authorId": "30774240",
+          "name": "G. Dwivedi"
+        },
+        {
+          "authorId": "47846447",
+          "name": "T. Ebina"
+        },
+        {
+          "authorId": "47056279",
+          "name": "T. Eden"
+        },
+        {
+          "authorId": "78684763",
+          "name": "A. Edrisy"
+        },
+        {
+          "authorId": "15416193",
+          "name": "N. Espallargas"
+        },
+        {
+          "authorId": "46385386",
+          "name": "K. Faber"
+        },
+        {
+          "authorId": "50761922",
+          "name": "N. Faisal"
+        },
+        {
+          "authorId": "12586982",
+          "name": "P. Fauchais"
+        },
+        {
+          "authorId": "2115547084",
+          "name": "Javier Fern\u00e1ndez"
+        },
+        {
+          "authorId": "84009858",
+          "name": "R. Ferro"
+        },
+        {
+          "authorId": "2113895134",
+          "name": "G. Fisher"
+        },
+        {
+          "authorId": "49410638",
+          "name": "M. Fukumoto"
+        },
+        {
+          "authorId": "1573783574",
+          "name": "Frank G\u00e4ertner"
+        },
+        {
+          "authorId": "2064741569",
+          "name": "A. Gandhi"
+        },
+        {
+          "authorId": "145103982",
+          "name": "P. Gao"
+        },
+        {
+          "authorId": "49239432",
+          "name": "M. Gell"
+        },
+        {
+          "authorId": "46525312",
+          "name": "M. Gentleman"
+        },
+        {
+          "authorId": "5899037",
+          "name": "A. Gerlich"
+        },
+        {
+          "authorId": "101345804",
+          "name": "A. Ghabchi"
+        },
+        {
+          "authorId": "92486247",
+          "name": "F. Ghasripoor"
+        },
+        {
+          "authorId": "12800990",
+          "name": "R. Ghelichi"
+        },
+        {
+          "authorId": "91820956",
+          "name": "M. Gindrat"
+        },
+        {
+          "authorId": "30915611",
+          "name": "M. Girtan"
+        },
+        {
+          "authorId": "11834631",
+          "name": "F. Gitzhofer"
+        },
+        {
+          "authorId": "118517724",
+          "name": "M. Gi\u017cy\u0144ski"
+        },
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "34998707",
+          "name": "I. Golosnoy"
+        },
+        {
+          "authorId": "4250382",
+          "name": "S. Goutier"
+        },
+        {
+          "authorId": "4724518",
+          "name": "J. Grum"
+        },
+        {
+          "authorId": "3120572",
+          "name": "Thomas U. Grund"
+        },
+        {
+          "authorId": "15781170",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "108033940",
+          "name": "K. Hamashima"
+        },
+        {
+          "authorId": "92160440",
+          "name": "H. Hamatani"
+        },
+        {
+          "authorId": "1402834405",
+          "name": "M. Hassani-Gangaraj"
+        },
+        {
+          "authorId": "117294068",
+          "name": "P. He"
+        },
+        {
+          "authorId": "49675785",
+          "name": "R. Heimann"
+        },
+        {
+          "authorId": "6953059",
+          "name": "D. Helfritch"
+        },
+        {
+          "authorId": "103869840",
+          "name": "K. Hodder"
+        },
+        {
+          "authorId": "71947343",
+          "name": "A. Hospach"
+        },
+        {
+          "authorId": "11595383",
+          "name": "\u0160. Houdkov\u00e1"
+        },
+        {
+          "authorId": "79353915",
+          "name": "H. Howse"
+        },
+        {
+          "authorId": "2280936272",
+          "name": "Milan Hrabovsk\u00fd"
+        },
+        {
+          "authorId": "30898711",
+          "name": "Heji Huang"
+        },
+        {
+          "authorId": "47306228",
+          "name": "T. Hussain"
+        },
+        {
+          "authorId": "2748362",
+          "name": "B. Hussong"
+        },
+        {
+          "authorId": "50497974",
+          "name": "M. Hyland"
+        },
+        {
+          "authorId": "2062792789",
+          "name": "M. J. Ib\u00e1\u00f1ez"
+        },
+        {
+          "authorId": "2859048",
+          "name": "J. Ilavsky"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "15795786",
+          "name": "M. O. Jarligo"
+        },
+        {
+          "authorId": "95334298",
+          "name": "B. Jodoin"
+        },
+        {
+          "authorId": "91942713",
+          "name": "R. Johnsen"
+        },
+        {
+          "authorId": "26045741",
+          "name": "Lynsey Jones"
+        },
+        {
+          "authorId": "144773362",
+          "name": "E. Jordan"
+        },
+        {
+          "authorId": "47000985",
+          "name": "S. Joshi"
+        },
+        {
+          "authorId": "73042306",
+          "name": "Yeon\u2010Gil Jung"
+        },
+        {
+          "authorId": "134252743",
+          "name": "K. Kaneko"
+        },
+        {
+          "authorId": "2111626821",
+          "name": "Jia Kang"
+        },
+        {
+          "authorId": "97998765",
+          "name": "M. Karimi"
+        },
+        {
+          "authorId": "50234232",
+          "name": "J. Karthikeyan"
+        },
+        {
+          "authorId": "15740745",
+          "name": "H. Katanoda"
+        },
+        {
+          "authorId": "116425598",
+          "name": "R. Kaufold"
+        },
+        {
+          "authorId": "148396059",
+          "name": "Y. Kawahara"
+        },
+        {
+          "authorId": "47692746",
+          "name": "J. Kawakita"
+        },
+        {
+          "authorId": "2349917989",
+          "name": "Anup Keshri"
+        },
+        {
+          "authorId": "32432423",
+          "name": "T. Khan"
+        },
+        {
+          "authorId": "143890037",
+          "name": "K. Khor"
+        },
+        {
+          "authorId": "48710508",
+          "name": "A. Killinger"
+        },
+        {
+          "authorId": "91057608",
+          "name": "Keehyun Kim"
+        },
+        {
+          "authorId": "34979241",
+          "name": "J. Kitamura"
+        },
+        {
+          "authorId": "36651804",
+          "name": "T. Klassen"
+        },
+        {
+          "authorId": "14626916",
+          "name": "V. Klosek"
+        },
+        {
+          "authorId": "1954967",
+          "name": "B. Klusemann"
+        },
+        {
+          "authorId": "102896209",
+          "name": "H. Koivuluoto"
+        },
+        {
+          "authorId": "49159974",
+          "name": "Lingyan Kong"
+        },
+        {
+          "authorId": "153658350",
+          "name": "V. Kosarev"
+        },
+        {
+          "authorId": "32544296",
+          "name": "O. Kov\u00e1r\u00edk"
+        },
+        {
+          "authorId": "91825976",
+          "name": "J. Krowka"
+        },
+        {
+          "authorId": "46711488",
+          "name": "D. Lahiri"
+        },
+        {
+          "authorId": "145621773",
+          "name": "E. Lalik"
+        },
+        {
+          "authorId": "14849780",
+          "name": "T. Lampke"
+        },
+        {
+          "authorId": "11473319",
+          "name": "Carlos Lange"
+        },
+        {
+          "authorId": "145667319",
+          "name": "L. Leblanc"
+        },
+        {
+          "authorId": "79672947",
+          "name": "C. Lebot"
+        },
+        {
+          "authorId": "2257993499",
+          "name": "Changhee Lee"
+        },
+        {
+          "authorId": "48184252",
+          "name": "M. Leoni"
+        },
+        {
+          "authorId": "18170649",
+          "name": "V. Leshchynsky"
+        },
+        {
+          "authorId": "2145585510",
+          "name": "Cheng-xin Li"
+        },
+        {
+          "authorId": "2108840255",
+          "name": "Hua Li"
+        },
+        {
+          "authorId": "1391217407",
+          "name": "Hui Li"
+        },
+        {
+          "authorId": "2146262578",
+          "name": "Qiang Li"
+        },
+        {
+          "authorId": "2108694343",
+          "name": "Wen-ya Li"
+        },
+        {
+          "authorId": "2109252008",
+          "name": "Xin-hai Li"
+        },
+        {
+          "authorId": "47405594",
+          "name": "H. Liao"
+        },
+        {
+          "authorId": "1573783365",
+          "name": "Carlos Roberto Camello"
+        }
+      ]
+    },
+    {
+      "paperId": "6880a7822f6694aa66a306c0d5f4d3c17bdf2ffc",
+      "title": "5 Laser-Assisted Cold Spray ( LACS )",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "47529064",
+          "name": "W. Knapp"
+        }
+      ]
+    },
+    {
+      "paperId": "dff3dbfff9efa10b0e5a422af7ff9a5b1cbbe95d",
+      "title": "Erratum to: The 2016 Thermal Spray Roadmap",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "88351824",
+          "name": "A. Vardelle"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "2016299",
+          "name": "J. Akedo"
+        },
+        {
+          "authorId": "2299636459",
+          "name": "Hossein Ashrafizadeh"
+        },
+        {
+          "authorId": "144448733",
+          "name": "C. Berndt"
+        },
+        {
+          "authorId": "92789152",
+          "name": "J. O. Berghaus"
+        },
+        {
+          "authorId": "90798158",
+          "name": "M. Boulos"
+        },
+        {
+          "authorId": "2064698837",
+          "name": "J. Brogan"
+        },
+        {
+          "authorId": "2269233472",
+          "name": "Athanasios C. Bourtsalas"
+        },
+        {
+          "authorId": "7587031",
+          "name": "A. Dolatabadi"
+        },
+        {
+          "authorId": "92933730",
+          "name": "M. Dorfman"
+        },
+        {
+          "authorId": "47056279",
+          "name": "T. Eden"
+        },
+        {
+          "authorId": "12586982",
+          "name": "P. Fauchais"
+        },
+        {
+          "authorId": "2113895134",
+          "name": "G. Fisher"
+        },
+        {
+          "authorId": "94102465",
+          "name": "F. Gaertner"
+        },
+        {
+          "authorId": "91820956",
+          "name": "M. Gindrat"
+        },
+        {
+          "authorId": "88503248",
+          "name": "R. Henne"
+        },
+        {
+          "authorId": "50497974",
+          "name": "M. Hyland"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "95334298",
+          "name": "B. Jodoin"
+        },
+        {
+          "authorId": "144773362",
+          "name": "E. Jordan"
+        },
+        {
+          "authorId": "143890037",
+          "name": "K. Khor"
+        },
+        {
+          "authorId": "48710508",
+          "name": "A. Killinger"
+        },
+        {
+          "authorId": "145401021",
+          "name": "Y. Lau"
+        },
+        {
+          "authorId": "2145413831",
+          "name": "Chang-Jiu Li"
+        },
+        {
+          "authorId": "2156062873",
+          "name": "Li Li"
+        },
+        {
+          "authorId": "3085412",
+          "name": "J. Longtin"
+        },
+        {
+          "authorId": "4171474",
+          "name": "N. Markocsan"
+        },
+        {
+          "authorId": "2670184",
+          "name": "P. Masset"
+        },
+        {
+          "authorId": "12610965",
+          "name": "J. Mat\u011bj\u00ed\u010dek"
+        },
+        {
+          "authorId": "144992807",
+          "name": "G. Mauer"
+        },
+        {
+          "authorId": "49500860",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "48817530",
+          "name": "J. Mostaghimi"
+        },
+        {
+          "authorId": "152396200",
+          "name": "S. Sampath"
+        },
+        {
+          "authorId": "93995871",
+          "name": "G. Schiller"
+        },
+        {
+          "authorId": "32256046",
+          "name": "K. Shinoda"
+        },
+        {
+          "authorId": "2118904757",
+          "name": "Mark F. Smith"
+        },
+        {
+          "authorId": "101021291",
+          "name": "A. A. Syed"
+        },
+        {
+          "authorId": "6357998",
+          "name": "N. Themelis"
+        },
+        {
+          "authorId": "91403811",
+          "name": "F. Toma"
+        },
+        {
+          "authorId": "31260917",
+          "name": "J. Trelles"
+        },
+        {
+          "authorId": "16080614",
+          "name": "R. Va\u00dfen"
+        },
+        {
+          "authorId": "92248068",
+          "name": "P. Vuoristo"
+        }
+      ]
+    },
+    {
+      "paperId": "7bac926ca6ea16d55d73882c9821f69c38a517cf",
+      "title": "The 2016 Thermal Spray Roadmap",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "88351824",
+          "name": "A. Vardelle"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "2016299",
+          "name": "J. Akedo"
+        },
+        {
+          "authorId": "2299636459",
+          "name": "Hossein Ashrafizadeh"
+        },
+        {
+          "authorId": "144448733",
+          "name": "C. Berndt"
+        },
+        {
+          "authorId": "92789152",
+          "name": "J. O. Berghaus"
+        },
+        {
+          "authorId": "90798158",
+          "name": "M. Boulos"
+        },
+        {
+          "authorId": "2064698837",
+          "name": "J. Brogan"
+        },
+        {
+          "authorId": "2269233472",
+          "name": "Athanasios C. Bourtsalas"
+        },
+        {
+          "authorId": "7587031",
+          "name": "A. Dolatabadi"
+        },
+        {
+          "authorId": "92933730",
+          "name": "M. Dorfman"
+        },
+        {
+          "authorId": "47056279",
+          "name": "T. Eden"
+        },
+        {
+          "authorId": "12586982",
+          "name": "P. Fauchais"
+        },
+        {
+          "authorId": "2113895134",
+          "name": "G. Fisher"
+        },
+        {
+          "authorId": "94102465",
+          "name": "F. Gaertner"
+        },
+        {
+          "authorId": "91820956",
+          "name": "M. Gindrat"
+        },
+        {
+          "authorId": "88503248",
+          "name": "R. Henne"
+        },
+        {
+          "authorId": "50497974",
+          "name": "M. Hyland"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "144773362",
+          "name": "E. Jordan"
+        },
+        {
+          "authorId": "143890037",
+          "name": "K. Khor"
+        },
+        {
+          "authorId": "48710508",
+          "name": "A. Killinger"
+        },
+        {
+          "authorId": "145401021",
+          "name": "Y. Lau"
+        },
+        {
+          "authorId": "2145413831",
+          "name": "Chang-Jiu Li"
+        },
+        {
+          "authorId": "2156062873",
+          "name": "Li Li"
+        },
+        {
+          "authorId": "3085412",
+          "name": "J. Longtin"
+        },
+        {
+          "authorId": "4171474",
+          "name": "N. Markocsan"
+        },
+        {
+          "authorId": "2670184",
+          "name": "P. Masset"
+        },
+        {
+          "authorId": "12610965",
+          "name": "J. Mat\u011bj\u00ed\u010dek"
+        },
+        {
+          "authorId": "144992807",
+          "name": "G. Mauer"
+        },
+        {
+          "authorId": "49500860",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "48817530",
+          "name": "J. Mostaghimi"
+        },
+        {
+          "authorId": "152396200",
+          "name": "S. Sampath"
+        },
+        {
+          "authorId": "93995871",
+          "name": "G. Schiller"
+        },
+        {
+          "authorId": "32256046",
+          "name": "K. Shinoda"
+        },
+        {
+          "authorId": "2118904757",
+          "name": "Mark F. Smith"
+        },
+        {
+          "authorId": "101021291",
+          "name": "A. A. Syed"
+        },
+        {
+          "authorId": "6357998",
+          "name": "N. Themelis"
+        },
+        {
+          "authorId": "91403811",
+          "name": "F. Toma"
+        },
+        {
+          "authorId": "31260917",
+          "name": "J. Trelles"
+        },
+        {
+          "authorId": "16080614",
+          "name": "R. Va\u00dfen"
+        },
+        {
+          "authorId": "92248068",
+          "name": "P. Vuoristo"
+        }
+      ]
+    },
+    {
+      "paperId": "058372483710447816e1f4d253e18f57c212dfb7",
+      "title": "Cold sprayed Cu\u2013Ni\u2013Fe anode for Al production",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "91409100",
+          "name": "G. Goupil"
+        },
+        {
+          "authorId": "116341668",
+          "name": "Sylvain Jucken"
+        },
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "153354892",
+          "name": "B. Davis"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        }
+      ]
+    },
+    {
+      "paperId": "6f8c85a65740a0532b2ca1df3022e93d309c9e5d",
+      "title": "The influence of Al2O3 particle morphology on the coating formation and dry sliding wear behavior of cold sprayed Al\u2013Al2O3 composites",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "11312008",
+          "name": "S. Descartes"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        }
+      ]
+    },
+    {
+      "paperId": "7a802a404ad133c9f4ff11612d5e4b3cd4efa0c9",
+      "title": "Investigation on Plasma Sprayed CoNiCrAlY-BN-Polyester Abradable Coating Consistency using In-flight Particle Diagnostics",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "7da21dfda5ee5fb70603d87a661c3ec2bc53e87e",
+      "title": "Cold-spray processing of titanium and titanium alloys",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "cbc200a48c031c3422c266e877a52808af735e53",
+      "title": "Review on Cold Spray Process and Technology US Patents",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "cfe559c78735e5f6911848e9a8918cdac0aee627",
+      "title": "Double-layer metal coating a light metal substrate",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "40129362",
+          "name": "D. Gallant"
+        }
+      ]
+    },
+    {
+      "paperId": "d0bc4330a606917d58c6335767f0a10561203f45",
+      "title": "Cold Spray Processing",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "192a64e06ed6e17099e1727eb635ed24a010d6e4",
+      "title": "Third Body Behavior During Dry Sliding of Cold-Sprayed Al-Al2O3 Composites: In Situ Tribometry and Microanalysis",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "11312008",
+          "name": "S. Descartes"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        }
+      ]
+    },
+    {
+      "paperId": "2ddb0c34783a0a32825e29b2cb60bb9771ecece3",
+      "title": "Different Cold Spray Deposition Strategies: Single- and Multi-layers to Repair Aluminium Alloy Components",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "152784943",
+          "name": "S. Rech"
+        },
+        {
+          "authorId": "47618004",
+          "name": "A. Trentin"
+        },
+        {
+          "authorId": "11334097",
+          "name": "S. Vezz\u00f9"
+        },
+        {
+          "authorId": "93687957",
+          "name": "Enrico Vedelago"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "676dc433eca8685112e34cdfc4ad312acdc859bc",
+      "title": "Third Body Behavior During Dry Sliding of Cold-Sprayed Al-Al 2 O 3 Composites : In Situ Tribometry and Microanalysis",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "11312008",
+          "name": "S. Descartes"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        }
+      ]
+    },
+    {
+      "paperId": "acbc2f119d67e5f9b2ca963cde7560f5876dce91",
+      "title": "Effect of Heat Treatment on the Microstructure and Mechanical Properties of Stainless Steel 316L Coatings Produced by Cold Spray for Biomedical Applications",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2079834050",
+          "name": "Bandar AL-Mangour"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "145449478",
+          "name": "R. Mongrain"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "c5fa1c803fd16aa030749cb63423bf83751dd75e",
+      "title": "Thanks to Our Guest Editors and Reviewers for Their Critical Contributions in 2013",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "38041666",
+          "name": "A. Agarwal"
+        },
+        {
+          "authorId": "50497974",
+          "name": "M. Hyland"
+        },
+        {
+          "authorId": "15740745",
+          "name": "H. Katanoda"
+        },
+        {
+          "authorId": "143890037",
+          "name": "K. Khor"
+        },
+        {
+          "authorId": "145222976",
+          "name": "S. Kuroda"
+        },
+        {
+          "authorId": "145401021",
+          "name": "Y. Lau"
+        },
+        {
+          "authorId": "2257993499",
+          "name": "Changhee Lee"
+        },
+        {
+          "authorId": "2145413831",
+          "name": "Chang-Jiu Li"
+        },
+        {
+          "authorId": "144563745",
+          "name": "R. Lima"
+        },
+        {
+          "authorId": "38228889",
+          "name": "B. Marple"
+        },
+        {
+          "authorId": "49500860",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "144920789",
+          "name": "K. Ogawa"
+        },
+        {
+          "authorId": "31899990",
+          "name": "G. Sundararajan"
+        },
+        {
+          "authorId": "91403811",
+          "name": "F. Toma"
+        },
+        {
+          "authorId": "88351824",
+          "name": "A. Vardelle"
+        },
+        {
+          "authorId": "16080614",
+          "name": "R. Va\u00dfen"
+        },
+        {
+          "authorId": "46558736",
+          "name": "R. Ahmed"
+        },
+        {
+          "authorId": "2309323239",
+          "name": "Leonardo Ajdelsztajn"
+        },
+        {
+          "authorId": "2016299",
+          "name": "J. Akedo"
+        },
+        {
+          "authorId": "35162254",
+          "name": "Y. Ando"
+        },
+        {
+          "authorId": "1520071703",
+          "name": "R. Antunesa"
+        },
+        {
+          "authorId": "2054031701",
+          "name": "Johannes Arnold"
+        },
+        {
+          "authorId": "92648729",
+          "name": "R. Arrabal"
+        },
+        {
+          "authorId": "46283292",
+          "name": "H. Assadi"
+        },
+        {
+          "authorId": "4572348",
+          "name": "F. Azarmi"
+        },
+        {
+          "authorId": "144012220",
+          "name": "G. Bae"
+        },
+        {
+          "authorId": "12005321",
+          "name": "S. Bagherifard"
+        },
+        {
+          "authorId": "93570323",
+          "name": "K. Baik"
+        },
+        {
+          "authorId": "152430447",
+          "name": "N. Bala"
+        },
+        {
+          "authorId": "48797326",
+          "name": "K. Balani"
+        },
+        {
+          "authorId": "143841543",
+          "name": "P. Bandyopadhyay"
+        },
+        {
+          "authorId": "46940548",
+          "name": "C. Bartuli"
+        },
+        {
+          "authorId": "144448733",
+          "name": "C. Berndt"
+        },
+        {
+          "authorId": "71731475",
+          "name": "G. Bertrand"
+        },
+        {
+          "authorId": "2511291",
+          "name": "K. Bobzin"
+        },
+        {
+          "authorId": "4848112",
+          "name": "G. Bolelli"
+        },
+        {
+          "authorId": "73100761",
+          "name": "R. Bolot"
+        },
+        {
+          "authorId": "93989463",
+          "name": "H. Bonnefoy"
+        },
+        {
+          "authorId": "2097334011",
+          "name": "R. Bonora"
+        },
+        {
+          "authorId": "1520066344",
+          "name": "C. Borchers"
+        },
+        {
+          "authorId": "1484224232",
+          "name": "R. Braun"
+        },
+        {
+          "authorId": "40195930",
+          "name": "F. Brueckner"
+        },
+        {
+          "authorId": "93108306",
+          "name": "E. Calla"
+        },
+        {
+          "authorId": "144027106",
+          "name": "N. Caron"
+        },
+        {
+          "authorId": "4013131",
+          "name": "V. Champagne"
+        },
+        {
+          "authorId": "12903054",
+          "name": "S. Chandra"
+        },
+        {
+          "authorId": "95976401",
+          "name": "S. S. Chatha"
+        },
+        {
+          "authorId": "152547425",
+          "name": "V. Chawla"
+        },
+        {
+          "authorId": "113184584",
+          "name": "P. Cheang"
+        },
+        {
+          "authorId": "30909400",
+          "name": "C. Chen"
+        },
+        {
+          "authorId": "92681573",
+          "name": "Dianying Chen"
+        },
+        {
+          "authorId": "2108946711",
+          "name": "Weixing Chen"
+        },
+        {
+          "authorId": "2118360295",
+          "name": "Yao Chen"
+        },
+        {
+          "authorId": "2109183272",
+          "name": "Yikai Chen"
+        },
+        {
+          "authorId": "15177852",
+          "name": "Jiangbo Cheng"
+        },
+        {
+          "authorId": "50785617",
+          "name": "D. Chicot"
+        },
+        {
+          "authorId": "9683563",
+          "name": "Sooseok Choi"
+        },
+        {
+          "authorId": "49190726",
+          "name": "T. Chr\u00e1ska"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "2072702813",
+          "name": "C. Chu"
+        },
+        {
+          "authorId": "2523706",
+          "name": "J. \u010c\u00ed\u017eek"
+        },
+        {
+          "authorId": "97197342",
+          "name": "B. Clyne"
+        },
+        {
+          "authorId": "23167358",
+          "name": "C. Cojocaru"
+        },
+        {
+          "authorId": "1411529101",
+          "name": "A. Conde-Gallardo"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "4292931",
+          "name": "S. Coulombe"
+        },
+        {
+          "authorId": "51134837",
+          "name": "P. Ctibor"
+        },
+        {
+          "authorId": "92027502",
+          "name": "M. Cuglietta"
+        },
+        {
+          "authorId": "92234059",
+          "name": "K. Dahm"
+        },
+        {
+          "authorId": "46551592",
+          "name": "D. Damiani"
+        },
+        {
+          "authorId": "66986689",
+          "name": "V. Debout"
+        },
+        {
+          "authorId": "89273465",
+          "name": "L. S. Dhaliwal"
+        },
+        {
+          "authorId": "31865756",
+          "name": "B. Dikici"
+        },
+        {
+          "authorId": "3016624",
+          "name": "A. Dinia"
+        },
+        {
+          "authorId": "7587031",
+          "name": "A. Dolatabadi"
+        },
+        {
+          "authorId": "92933730",
+          "name": "M. Dorfman"
+        },
+        {
+          "authorId": "38837109",
+          "name": "Julie M. Drexler"
+        },
+        {
+          "authorId": "91718276",
+          "name": "K. Dring"
+        },
+        {
+          "authorId": "91305012",
+          "name": "S. Dru"
+        },
+        {
+          "authorId": "30774240",
+          "name": "G. Dwivedi"
+        },
+        {
+          "authorId": "15331783",
+          "name": "G. Eckel"
+        },
+        {
+          "authorId": "12586982",
+          "name": "P. Fauchais"
+        },
+        {
+          "authorId": "48503700",
+          "name": "T. Fischer"
+        },
+        {
+          "authorId": "2113895134",
+          "name": "G. Fisher"
+        },
+        {
+          "authorId": "47865177",
+          "name": "F. Frandsen"
+        },
+        {
+          "authorId": "3433433",
+          "name": "R. Gadow"
+        },
+        {
+          "authorId": "94102465",
+          "name": "F. Gaertner"
+        },
+        {
+          "authorId": "14394905",
+          "name": "M. Galetz"
+        },
+        {
+          "authorId": "145103982",
+          "name": "P. Gao"
+        },
+        {
+          "authorId": "2111307087",
+          "name": "E. Garc\u00eda"
+        },
+        {
+          "authorId": "50000953",
+          "name": "M. Gardon"
+        },
+        {
+          "authorId": "49239432",
+          "name": "M. Gell"
+        },
+        {
+          "authorId": "46525312",
+          "name": "M. Gentleman"
+        },
+        {
+          "authorId": "5899037",
+          "name": "A. Gerlich"
+        },
+        {
+          "authorId": "101345804",
+          "name": "A. Ghabchi"
+        },
+        {
+          "authorId": "92486247",
+          "name": "F. Ghasripoor"
+        },
+        {
+          "authorId": "91820956",
+          "name": "M. Gindrat"
+        },
+        {
+          "authorId": "30915611",
+          "name": "M. Girtan"
+        },
+        {
+          "authorId": "93941128",
+          "name": "Zlatko Glogovi\u0107"
+        },
+        {
+          "authorId": "1403074124",
+          "name": "T. Gn\u00e4upel-Herold"
+        },
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "34998707",
+          "name": "I. Golosnoy"
+        },
+        {
+          "authorId": "2219663387",
+          "name": "Jean-Jacques Gonzalez"
+        },
+        {
+          "authorId": "4250382",
+          "name": "S. Goutier"
+        },
+        {
+          "authorId": "145756089",
+          "name": "R. Goyal"
+        },
+        {
+          "authorId": "144650811",
+          "name": "M. Grujicic"
+        },
+        {
+          "authorId": "3120572",
+          "name": "Thomas U. Grund"
+        },
+        {
+          "authorId": "15781170",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "11862825",
+          "name": "M. Guagliano"
+        },
+        {
+          "authorId": "9672237",
+          "name": "R. Guduru"
+        },
+        {
+          "authorId": "47354721",
+          "name": "J. Guilemany"
+        },
+        {
+          "authorId": "48843155",
+          "name": "Hongbo Guo"
+        },
+        {
+          "authorId": "2109875111",
+          "name": "Mohit Gupta"
+        },
+        {
+          "authorId": "46332411",
+          "name": "A. Hall"
+        },
+        {
+          "authorId": "108033940",
+          "name": "K. Hamashima"
+        },
+        {
+          "authorId": "4690364",
+          "name": "S. Hannula"
+        },
+        {
+          "authorId": "50250175",
+          "name": "C. Hardwicke"
+        },
+        {
+          "authorId": "14931474",
+          "name": "S. Harimkar"
+        },
+        {
+          "authorId": "2153098530",
+          "name": "Jianhong He"
+        },
+        {
+          "authorId": "6953059",
+          "name": "D. Helfritch"
+        },
+        {
+          "authorId": "88503248",
+          "name": "R. Henne"
+        },
+        {
+          "authorId": "50791149",
+          "name": "P. Hollingsworth"
+        },
+        {
+          "authorId": "11595383",
+          "name": "\u0160. Houdkov\u00e1"
+        },
+        {
+          "authorId": "2280936272",
+          "name": "Milan Hrabovsk\u00fd"
+        },
+        {
+          "authorId": "30898711",
+          "name": "Heji Huang"
+        },
+        {
+          "authorId": "2154937581",
+          "name": "Jianjun Huang"
+        },
+        {
+          "authorId": "2154937581",
+          "name": "Jianjun Huang"
+        },
+        {
+          "authorId": "47306228",
+          "name": "T. Hussain"
+        },
+        {
+          "authorId": "2062792789",
+          "name": "M. J. Ib\u00e1\u00f1ez"
+        },
+        {
+          "authorId": "2082402511",
+          "name": "Ahmed Ibrahim"
+        },
+        {
+          "authorId": "3112165",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "2859048",
+          "name": "J. Ilavsky"
+        },
+        {
+          "authorId": "69430325",
+          "name": "F. Ilinca"
+        },
+        {
+          "authorId": "2057821441",
+          "name": "M. Ionescu"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "29401025",
+          "name": "K. Ito"
+        },
+        {
+          "authorId": "2070239240",
+          "name": "Takeshi Izumi"
+        },
+        {
+          "authorId": "80609364",
+          "name": "H. Jamali"
+        },
+        {
+          "authorId": "95334298",
+          "name": "B. Jodoin"
+        },
+        {
+          "authorId": "26045741",
+          "name": "Lynsey Jones"
+        },
+        {
+          "authorId": "2111036971",
+          "name": "Mark Jones"
+        },
+        {
+          "authorId": "144773362",
+          "name": "E. Jordan"
+        },
+        {
+          "authorId": "47000985",
+          "name": "S. Joshi"
+        },
+        {
+          "authorId": "91522669",
+          "name": "L. Kabacoff"
+        },
+        {
+          "authorId": "2393004444",
+          "name": "C. Kang"
+        },
+        {
+          "authorId": "97998765",
+          "name": "M. Karimi"
+        },
+        {
+          "authorId": "50234232",
+          "name": "J. Karthikeyan"
+        },
+        {
+          "authorId": "116425598",
+          "name": "R. Kaufold"
+        }
+      ]
+    },
+    {
+      "paperId": "2d9d8011cba1b66dfa43bbaa8f36666348c74eba",
+      "title": "Strength and Wear Properties of Stainless Steel Coatings Produced by Cold Spray with Various Powder Sizes",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "116018378",
+          "name": "S. Kudapa"
+        },
+        {
+          "authorId": "152903604",
+          "name": "M. Nestler"
+        }
+      ]
+    },
+    {
+      "paperId": "3b2568de398e18fb566018a5a8bed9068bc91748",
+      "title": "Cold Spray Deposition of Mechanically Alloyed Cu\u2013Ni\u2013Fe Material for Application as Inert Anodes for Aluminum Production",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "91409100",
+          "name": "G. Goupil"
+        },
+        {
+          "authorId": "40654103",
+          "name": "S. Helle"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        }
+      ]
+    },
+    {
+      "paperId": "57dc53b455593bc6f5dfeff41ce18639294ae69e",
+      "title": "Effect of Particle Morphology and Size Distribution on Cold-Sprayed Pure Titanium Coatings",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2093341353",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "5cdf5066ee8161baaa4dde253f4bb061cebd31a5",
+      "title": "Tribological Characterization of Plasma-Sprayed CoNiCrAlY-BN Abradable Coatings",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "23546707",
+          "name": "A. Dadouche"
+        },
+        {
+          "authorId": "2241259552",
+          "name": "R. Lima"
+        }
+      ]
+    },
+    {
+      "paperId": "839e15aa1f236ecf7c725387f051e65bf97e57d6",
+      "title": "Improving the strength and corrosion resistance of 316L stainless steel for biomedical applications using cold spray",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "93330661",
+          "name": "B. AlMangour"
+        },
+        {
+          "authorId": "145449478",
+          "name": "R. Mongrain"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "840dadcfcdf35ea66b8e6c761f792aad68a51684",
+      "title": "Gas-Substrate Heat Exchange During Cold-Gas Dynamic Spraying",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2245531942",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "879755b6e00174f87cef434833e0eb807571feae",
+      "title": "Mechanical and Microstructural Characterization of Cold-Sprayed Ti-6Al-4V After Heat Treatment",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2241895280",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "892b09fa2bef0b8d3df78b318266fac2a3008f78",
+      "title": "In situ tribometry of cold-sprayed Al-Al2O3 composite coatings",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "2068249092",
+          "name": "H. Strauss"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "12776392",
+          "name": "N. Brodusch"
+        },
+        {
+          "authorId": "35196286",
+          "name": "R. Gauvin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "231020c81e67afd73f57a9bdcbe27ed145ef2aaa",
+      "title": "Effect of Pulsed Laser Ablation and Continuous Laser Heating on the Adhesion and Cohesion of Cold Sprayed Ti-6Al-4V Coatings",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2330029060",
+          "name": "Mathieu Perton"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "2241902831",
+          "name": "Wilson Wong"
+        },
+        {
+          "authorId": "2241902831",
+          "name": "Wilson Wong"
+        },
+        {
+          "authorId": "2312939622",
+          "name": "Dominique Poirier"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2239556732",
+          "name": "Alain Blouin"
+        },
+        {
+          "authorId": "2241895280",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "3c8ae5962f55bf2678d93c2ef40a2338a4c9fd57",
+      "title": "Simulation of gas-substrate heat exchange during cold-gas dynamic spraying",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2259224237",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2245531942",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "6248136498addc74a217a6025437af9e861d6096",
+      "title": "Cold Spray Forming of Inconel 718",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "13182878",
+          "name": "M. Sone"
+        },
+        {
+          "authorId": "115413625",
+          "name": "F. Bernier"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "92673233",
+          "name": "H. Fukanuma"
+        },
+        {
+          "authorId": "2241895280",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "76a93a3d0b0445b7db467caff7dc36f161fdc15b",
+      "title": "Gas Substrate Heat Exchange during Cold-Gas Dynamic Spraying",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "2245531942",
+          "name": "A. McDonald"
+        },
+        {
+          "authorId": "2259224237",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "76e8dad97e43c4445cf0a7a6fa9f5a62a96b1934",
+      "title": "Powder Processing and Coating Heat Treatment on Cold Sprayed Ti-6Al-4V Alloy",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "50573668",
+          "name": "P. Vo"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "82fe9c245a7e97799f8348e104b81f1dd00c48bf",
+      "title": "Laser-Assisted Cold Spray (LACS)",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "47529064",
+          "name": "W. Knapp"
+        }
+      ]
+    },
+    {
+      "paperId": "99b04864afffe4d13d82cb3a8b0c121712cb98d6",
+      "title": "The Effect of Deposition Conditions on Adhesion Strength of Ti and Ti6Al4V Cold Spray Splats",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "22253216",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "175ffb3841de2041c30701f9be6c882bd30cab7c",
+      "title": "Mechanical behavior of Ti cold spray coatings determined by a multi-scale indentation method",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "98558402",
+          "name": "J. Ajaja"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "3e2821a1454fb937519a36e9f60e0f37d990d73d",
+      "title": "Mechanical Property Mapping of Cold Sprayed Ti Splats and Coatings",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "408ecb3f3df47910930672d05200035b368664e1",
+      "title": "Investigation on the Effect of Helium-to-Nitrogen Ratio as Propellant Gas Mixture on the Processing of Titanium Coating using Cold Gas Dynamic Spray",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "69430325",
+          "name": "F. Ilinca"
+        },
+        {
+          "authorId": "2093341353",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "72778c9636534f8c54a36cb690e7a9df3c1a32d4",
+      "title": "Microstructural Changes During Heat Treatment of Cold Sprayed Pure Titanium Coatings",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "2093341182",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "80cfbb2b94dd73c905e007367e7e9ec4431872ac",
+      "title": "Influence of Pre-Heated Al 6061 Substrate Temperature on the Residual Stresses of Multipass Al Coatings Deposited by Cold Spray",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "152784943",
+          "name": "S. Rech"
+        },
+        {
+          "authorId": "47618004",
+          "name": "A. Trentin"
+        },
+        {
+          "authorId": "11334097",
+          "name": "S. Vezz\u00f9"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "11862825",
+          "name": "M. Guagliano"
+        }
+      ]
+    },
+    {
+      "paperId": "a2502a2b4bcf729d81f19b0bd39c55e28ea41900",
+      "title": "Effects of Combined Laser Pre-Treatments with Cold Spraying of Ti and Ti-6Al-4V",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "48526674",
+          "name": "D. Poirier"
+        },
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "101987456",
+          "name": "M. Perton"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "35653097",
+          "name": "A. Blouin"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "40894721",
+          "name": "C. Coddet"
+        }
+      ]
+    },
+    {
+      "paperId": "f6f647122dcb3c58b5718f89633bc9c115aec5d6",
+      "title": "Mechanical Property of Multi-Pass Cold Sprayed Aluminium Alloy Coatings for Repair Application",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "152784943",
+          "name": "S. Rech"
+        },
+        {
+          "authorId": "47618004",
+          "name": "A. Trentin"
+        },
+        {
+          "authorId": "11334097",
+          "name": "S. Vezz\u00f9"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        }
+      ]
+    },
+    {
+      "paperId": "048ea5faa11b09dcb26695af7823bc2993d4a765",
+      "title": "Study of the Influence of Pre-Heated Al6061 Substrate Temperature on Al Coatings Deposited by Cold Spray",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "152784943",
+          "name": "S. Rech"
+        },
+        {
+          "authorId": "47618004",
+          "name": "A. Trentin"
+        },
+        {
+          "authorId": "116854060",
+          "name": "S.Vezz\u00f9 J.-G. Legoux Svezz\u00f9"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "11862825",
+          "name": "M. Guagliano"
+        }
+      ]
+    },
+    {
+      "paperId": "068f9f6626e0896bc4fe1be564e9618a2ebd867e",
+      "title": "A Preliminary Study of the Oxidation Behavior of TBC with Cold Spray CoNiCrAlY Bond Coat",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "2241760874",
+          "name": "W.R. Chen"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2145414288",
+          "name": "X. Wu"
+        },
+        {
+          "authorId": "38228889",
+          "name": "B. Marple"
+        }
+      ]
+    },
+    {
+      "paperId": "0b99cb5516ee4c8441bd1a8ae9422d36757f556b",
+      "title": "Characterization and Performance Evaluation of a Helium Recovery System Designed for Cold Spraying",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "118151290",
+          "name": "Sylvain Desaulniers"
+        },
+        {
+          "authorId": "2241964051",
+          "name": "James E. Bobyn"
+        },
+        {
+          "authorId": "2241911301",
+          "name": "Bernard Harvey"
+        },
+        {
+          "authorId": "2241902831",
+          "name": "Wilson Wong"
+        },
+        {
+          "authorId": "2252538514",
+          "name": "Eric Gagnon"
+        },
+        {
+          "authorId": "2241895280",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "3679172f844059f167c356d7467a71f128b825a4",
+      "title": "Effect of Size on the Electrochemical Stability of Pt Nanoparticles Deposited on Gold Substrate",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "49922331",
+          "name": "S. Garbarino"
+        },
+        {
+          "authorId": "2107599834",
+          "name": "A. P\u00e9reira"
+        },
+        {
+          "authorId": "92194460",
+          "name": "C. Hamel"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "5c6dd4c162c8f4411e38809df0dbade3620f642b",
+      "title": "Lasers and Thermal Spray",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "108795145",
+          "name": "F. Borit"
+        },
+        {
+          "authorId": "29155584",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "95934427",
+          "name": "S. Guetta"
+        },
+        {
+          "authorId": "103889709",
+          "name": "G. Rolland"
+        },
+        {
+          "authorId": "14000410",
+          "name": "V. Guipont"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "49139384",
+          "name": "M. Nivard"
+        },
+        {
+          "authorId": "144789785",
+          "name": "L. Berthe"
+        },
+        {
+          "authorId": "14351369",
+          "name": "M. Boustie"
+        },
+        {
+          "authorId": "93446569",
+          "name": "W. Ludwig"
+        },
+        {
+          "authorId": "32562962",
+          "name": "K. Sakaguchi"
+        },
+        {
+          "authorId": "3112165",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "144920789",
+          "name": "K. Ogawa"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        }
+      ]
+    },
+    {
+      "paperId": "66733a959635be737117ac2a2103ff69cb62bdd5",
+      "title": "Influence of pressure on the Pt nanoparticle growth modes during pulsed laser ablation",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "11636876",
+          "name": "D. Riabinina"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "46515779",
+          "name": "B. L. Drogoff"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "7e15af45a3df29e2f41891e3c4eec0ef0c5ba54e",
+      "title": "Cold Spray Characteristics of Commercially Pure Ti and Ti-6Al-4V",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "22253216",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "860f6ed2f3da29341c8ce951835e9b5b86d8a261",
+      "title": "The PROTAL Process Applied on Cold Spraying to Improve Interface Adherence and Coating Cohesion\u2014Case of Titanium and Nickel Based Alloys",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "115452073",
+          "name": "Y. Danlos"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "2093341182",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "40894721",
+          "name": "C. Coddet"
+        }
+      ]
+    },
+    {
+      "paperId": "942ae7ae3f0b20d470f3f941d25b0e024ada0ed8",
+      "title": "Influence of Helium and Nitrogen Gases on the Properties of Cold Gas Dynamic Sprayed Pure Titanium Coatings",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "145864440",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "96ae05c8229e52a3869b40a44da9bb0637fe56a2",
+      "title": "Modified ball bond shear test for determination of adhesion strength of cold spray splats",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "33553594",
+          "name": "D. Goldbaum"
+        },
+        {
+          "authorId": "26620714",
+          "name": "J. Shockley"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "39892812",
+          "name": "N. Randall"
+        }
+      ]
+    },
+    {
+      "paperId": "a20b51fbd168c3b8962052d1f0cbdf7c7c2469e3",
+      "title": "Cold-Spraying Coupled to Nano-Pulsed Nd-YaG Laser Surface Pre-treatment",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "95934427",
+          "name": "S. Guetta"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "14000410",
+          "name": "V. Guipont"
+        },
+        {
+          "authorId": "29155584",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "14351369",
+          "name": "M. Boustie"
+        },
+        {
+          "authorId": "3112165",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "144920789",
+          "name": "K. Ogawa"
+        }
+      ]
+    },
+    {
+      "paperId": "ae917b1af7af30d99e51e4240bdf47cff1858e91",
+      "title": "Structural and Electrochemical Properties of Nanocrystalline PtRu Alloys Prepared by Crossed-Beam Pulsed Laser Deposition",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "92194460",
+          "name": "C. Hamel"
+        },
+        {
+          "authorId": "49922331",
+          "name": "S. Garbarino"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "82669058",
+          "name": "M. Bichat"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "dd7cfaaca45bedd9af3efa2b10ede9c2fb89cf93",
+      "title": "Structural and Electrochemical Characterization of Metastable PtAu Bulk and Surface Alloys Prepared by Crossed-Beam Pulsed Laser Deposition",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "46343813",
+          "name": "F. Laplante"
+        },
+        {
+          "authorId": "49922331",
+          "name": "S. Garbarino"
+        },
+        {
+          "authorId": "50005022",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "dea74f0c1d583e6c08a1ce2699e9e6ea88e72dfb",
+      "title": "Influence of the velocity of Pt ablated species on the structural and electrocatalytic properties of Pt thin films",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "92194460",
+          "name": "C. Hamel"
+        },
+        {
+          "authorId": "49922331",
+          "name": "S. Garbarino"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "46343813",
+          "name": "F. Laplante"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "e3c2b1a146778654b721ef0a5cd28d9fc7440faa",
+      "title": "A Socratic approach to surface modification: The example of Thermal Spray",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "108795145",
+          "name": "F. Borit"
+        },
+        {
+          "authorId": "29155584",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "95934427",
+          "name": "S. Guetta"
+        },
+        {
+          "authorId": "17818243",
+          "name": "G. Rolland"
+        },
+        {
+          "authorId": "14000410",
+          "name": "V. Guipont"
+        },
+        {
+          "authorId": "108571312",
+          "name": "F. N'guyen"
+        },
+        {
+          "authorId": "2663238",
+          "name": "D. Jeulin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "49139384",
+          "name": "M. Nivard"
+        },
+        {
+          "authorId": "144789785",
+          "name": "L. Berthe"
+        },
+        {
+          "authorId": "14351369",
+          "name": "M. Boustie"
+        },
+        {
+          "authorId": "93446569",
+          "name": "W. Ludwig"
+        },
+        {
+          "authorId": "92097217",
+          "name": "K. Sakaguchi"
+        },
+        {
+          "authorId": "3112165",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "144920789",
+          "name": "K. Ogawa"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        }
+      ]
+    },
+    {
+      "paperId": "48d54119c493689a6747232a85aeac2828683643",
+      "title": "Cold Spraying Combined with Laser Surface Pre-Treatment Using Protal",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "95934427",
+          "name": "S. Guetta"
+        },
+        {
+          "authorId": "14000410",
+          "name": "V. Guipont"
+        },
+        {
+          "authorId": "29155584",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "14351369",
+          "name": "M. Boustie"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "2055994615",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "153176989",
+          "name": "K. Ogawa"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "153749064",
+          "name": "C. Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "6a9b2d7e8964e5e23f21a07b06b75a9355daa205",
+      "title": "Cold spraying combined to laser surface pre-treated using PROTAL",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "117392944",
+          "name": "D. Christoulis"
+        },
+        {
+          "authorId": "95934427",
+          "name": "S. Guetta"
+        },
+        {
+          "authorId": "14000410",
+          "name": "V. Guipont"
+        },
+        {
+          "authorId": "29155584",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "13377322",
+          "name": "M. Jeandin"
+        },
+        {
+          "authorId": "14351369",
+          "name": "M. Boustie"
+        },
+        {
+          "authorId": "92191068",
+          "name": "S. Costil"
+        },
+        {
+          "authorId": "3112165",
+          "name": "Y. Ichikawa"
+        },
+        {
+          "authorId": "144920789",
+          "name": "K. Ogawa"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "8fe9d10675b07912091870b89ac2989c5919467a",
+      "title": "Effects of Gas Temperature, Gas Pressure, and Particle Characteristics on Cold Sprayed Pure Titanium Coatings",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "2093341353",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "79800675",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "2036457192",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "9bd5c219f7640e9552b00c59cb75157a6b66b644",
+      "title": "Dynamic recrystallization in the particle/particle interfacial region of cold-sprayed nickel coating: Electron backscatter diffraction characterization",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "1406165552",
+          "name": "Y. Zou"
+        },
+        {
+          "authorId": "3365783",
+          "name": "W. Qin"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "31795242",
+          "name": "J. Szpunar"
+        }
+      ]
+    },
+    {
+      "paperId": "a3e0c5022c14109d1110b28edae913840ddd764b",
+      "title": "Characterization of Residual Stresses in Al and Al-Al2O3 Cold Sprayed Coatings",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "152784943",
+          "name": "S. Rech"
+        },
+        {
+          "authorId": "47618004",
+          "name": "A. Trentin"
+        },
+        {
+          "authorId": "11334097",
+          "name": "S. Vezz\u00f9"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "98752233",
+          "name": "B. Arsenault"
+        },
+        {
+          "authorId": "114986939",
+          "name": "M. Lamontagne"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "11862825",
+          "name": "M. Guagliano"
+        }
+      ]
+    },
+    {
+      "paperId": "748f03301a15e96e756bb6543ebe3c66d8526fbe",
+      "title": "Structural Transformation and Mechanical Properties of Cold Sprayed Nickel Coatings after Annealing",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "1406165552",
+          "name": "Y. Zou"
+        },
+        {
+          "authorId": "22253216",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "31795242",
+          "name": "J. Szpunar"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "90340057",
+          "name": "S. Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "7b7a6a578a02d47b22197defa9733993f40aea21",
+      "title": "Characterization of Cold-Sprayed Nickel, Titanium, and Copper Coatings for Process and Property Optimization",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "79800675",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "13619852",
+          "name": "R. Chromik"
+        },
+        {
+          "authorId": "51501898",
+          "name": "S. Yue"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        }
+      ]
+    },
+    {
+      "paperId": "c8e723d6df18d47bfa8e733c4031cc834bd1ad4d",
+      "title": "How Cold is Cold Spray? An Experimental Study of the Heat Transfer to the Substrate in Cold Gas Dynamic Spraying",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        }
+      ]
+    },
+    {
+      "paperId": "efb1113fe089bf2850f97ad07491f673c8806aa1",
+      "title": "Review on Cold Spray Process and Technology: Part I\u2014Intellectual Property",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        },
+        {
+          "authorId": "95334298",
+          "name": "B. Jodoin"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "088d3eec1dfbc8b5392f76016987e3d73d6f8bfb",
+      "title": "Effect of Substrate Temperature on the Formation Mechanism of Cold-Sprayed Aluminum, Zinc and Tin Coatings",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2240298843",
+          "name": "Christian Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "75d32cd4075004b16b614d247d16accba11f870e",
+      "title": "Oxygen Reduction on Mixed Pt-Au Nanoparticles and Pt Overlayer on Au Substrate",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "46343813",
+          "name": "F. Laplante"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "153206090",
+          "name": "Hamid Chaker"
+        }
+      ]
+    },
+    {
+      "paperId": "ee19b0ba91072f838928ddad0db3f7c75ef9c62e",
+      "title": "Investigation of Al-Al2O3 Cold Spray Coating Formation and Properties",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "98752233",
+          "name": "B. Arsenault"
+        },
+        {
+          "authorId": "97810774",
+          "name": "C. Moreau"
+        }
+      ]
+    },
+    {
+      "paperId": "f49b946f0837bc2bf2973b6067e5f3d66f7e0aff",
+      "title": "Corrosion Study of Cold Sprayed Aluminum Coatings onto Al 7075 Alloy",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "98752233",
+          "name": "B. Arsenault"
+        }
+      ]
+    },
+    {
+      "paperId": "74650c8158682a438c94abbbd55ee974e2fa3963",
+      "title": "Reduction of strain and dislocation defects in GaN layers grown on Si substrate by MOCVD using a substrate defect engineering technique",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "30591225",
+          "name": "M. Jamil"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "34965583",
+          "name": "J. Grandusky"
+        },
+        {
+          "authorId": "92201559",
+          "name": "V. Jindal"
+        },
+        {
+          "authorId": "1404032791",
+          "name": "F. Shahedipour-Sandvik"
+        }
+      ]
+    },
+    {
+      "paperId": "79c38c0918ab8cab25df1207bf359cedfb053431",
+      "title": "Influence of an inert background gas on bimetallic cross-beam pulsed laser deposition",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "49753555",
+          "name": "F. Vidal"
+        },
+        {
+          "authorId": "38892864",
+          "name": "T. Johnston"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "96798430",
+          "name": "A. Ryabinin"
+        }
+      ]
+    },
+    {
+      "paperId": "991b9bb101780edba3ef6d65d104574e66345c06",
+      "title": "Electrocatalytic Properties of Metastable Pt-Au Alloy Nanoparticles",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "46343813",
+          "name": "F. Laplante"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2097970017",
+          "name": "M. Chaker"
+        }
+      ]
+    },
+    {
+      "paperId": "bbaaab941e6436c1cced43b1dbf06cfd51d3ca1c",
+      "title": "Development of pit\u2010defect free smooth a\u2010plane GaN surfaces on r\u2010plane sapphire using metalorganic chemical vapor deposition: A growth mechanism study",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "92201559",
+          "name": "V. Jindal"
+        },
+        {
+          "authorId": "34965583",
+          "name": "J. Grandusky"
+        },
+        {
+          "authorId": "30591225",
+          "name": "M. Jamil"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "92106895",
+          "name": "Fatemeh Shahedipour Sandvik"
+        },
+        {
+          "authorId": "46626167",
+          "name": "K. Matocha"
+        },
+        {
+          "authorId": "38664690",
+          "name": "V. Tilak"
+        }
+      ]
+    },
+    {
+      "paperId": "005ebca66826d0196f5cdc8d412043035dc5be9b",
+      "title": "Gold oxide thin film grown by pulsed laser deposition in an O2 atmosphere",
+      "year": 2005,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2059809852",
+          "name": "Marie Denis"
+        },
+        {
+          "authorId": "50005022",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "63349a3a6e1021632b61f003a2dd34b62269d57f",
+      "title": "Growth dynamics of pulsed laser deposited Pt nanoparticles on highly oriented pyrolitic graphite substrates",
+      "year": 2004,
+      "authors": [
+        {
+          "authorId": "8454749",
+          "name": "R. Dolbec"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "4474402",
+          "name": "F. Rosei"
+        },
+        {
+          "authorId": "4988398",
+          "name": "M. Khakani"
+        }
+      ]
+    },
+    {
+      "paperId": "fd2e6ba51f5efa27bfcaad18c5c23bdafd71f708",
+      "title": "Nanostructured Gold Thin Films Prepared by Pulsed Laser Deposition",
+      "year": 2004,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "8826131",
+          "name": "B. Le Drogoff"
+        },
+        {
+          "authorId": "50005022",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "145399389",
+          "name": "M. Trudeau"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "32eaf2035908d002658b25c14dd3cf351858006b",
+      "title": "Platinum nanoparticles growth by means of pulsed laser ablation",
+      "year": 2003,
+      "authors": [
+        {
+          "authorId": "8454749",
+          "name": "R. Dolbec"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "4474402",
+          "name": "F. Rosei"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "4988398",
+          "name": "M. Khakani"
+        }
+      ]
+    },
+    {
+      "paperId": "7b94351c2bd37480571845ffab2e55d3bba0c00c",
+      "title": "Influence of the expansion dynamics of laser-produced gold plasmas on thin film structure grown in various atmospheres",
+      "year": 2003,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "46515779",
+          "name": "B. L. Drogoff"
+        },
+        {
+          "authorId": "50005022",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "a16254179d95722c6713224649d72a4c1ed4d02c",
+      "title": "PEMFC Anode with Very Low Pt Loadings Using Pulsed Laser Deposition",
+      "year": 2003,
+      "authors": [
+        {
+          "authorId": "93046178",
+          "name": "N. Cunningham"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "116728449",
+          "name": "M. Lef\u00e8vre"
+        },
+        {
+          "authorId": "145273758",
+          "name": "M. Denis"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "93533203",
+          "name": "J. Dodelet"
+        }
+      ]
+    },
+    {
+      "paperId": "1f165f01451df5a7bbb73d4e08445bc4a34d9734",
+      "title": "P nanocrystalline Ti-Ru-Fe-O coatings for the electrocatalysis of hydrogen evolution reaction",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "91676597",
+          "name": "M. Blouin"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        },
+        {
+          "authorId": "145049004",
+          "name": "J. Huot"
+        },
+        {
+          "authorId": "143730084",
+          "name": "R. Schulz"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "3391a9777ecf3c766d752b932ac3f660caa5edac",
+      "title": "Correlation between plasma expansion dynamics and gold-thin film structure during pulsed-laser deposition",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "46515779",
+          "name": "B. L. Drogoff"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "d93f5486fc6b42869bb86d8b613059ee89170a63",
+      "title": "Plasma-sprayed nanocrystalline Ti\u2013Ru\u2013Fe\u2013O coatings for the electrocatalysis of hydrogen evolution reaction",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "91676597",
+          "name": "M. Blouin"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        },
+        {
+          "authorId": "145049004",
+          "name": "J. Huot"
+        },
+        {
+          "authorId": "143730084",
+          "name": "R. Schulz"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "dbcabb16f88459b4af24db35ff910560d9bd8e44",
+      "title": "Hydrogen Absorption in Thermally Prepared RuO2 Electrode",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "82427278",
+          "name": "C. Chabanier"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "49976571",
+          "name": "J. Pelletier"
+        },
+        {
+          "authorId": "116673022",
+          "name": "M. Sutton"
+        },
+        {
+          "authorId": "3648365",
+          "name": "L. Lurio"
+        }
+      ]
+    },
+    {
+      "paperId": "5a7ce0f12dd225cf0a0df5a1bff3af28c6c0f92d",
+      "title": "Electrochemical Activity of Nanocrystalline Coating of Ti-Ru-Fe-O",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "91676597",
+          "name": "M. Blouin"
+        },
+        {
+          "authorId": "143730084",
+          "name": "R. Schulz"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "7f8f718864fe9f2812494fd6183a54f2dc97f7b4",
+      "title": "Influence of the dynamic expansion of laser-produced gold plasmas on nanostructured thin films grown in various atmospheres",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "46515779",
+          "name": "B. L. Drogoff"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2871073",
+          "name": "M. Chaker"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "145399389",
+          "name": "M. Trudeau"
+        }
+      ]
+    },
+    {
+      "paperId": "cb906489d62d181f22796fb926d1f0c725254f3e",
+      "title": "Electrochemical Activity of Nanocrystalline Coating of Ti-Ru-Fe-O",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "91676597",
+          "name": "M. Blouin"
+        },
+        {
+          "authorId": "143730084",
+          "name": "R. Schulz"
+        },
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        }
+      ]
+    },
+    {
+      "paperId": "bdc27299d3eec50278e7650d9bbb16c9481c7c86",
+      "title": "Comparative study of nanocrystalline Ti2RuFe and Ti2RuFeO2 electrocatalysts for hydrogen evolution in long-term chlorate electrolysis conditions",
+      "year": 1999,
+      "authors": [
+        {
+          "authorId": "12399070",
+          "name": "L. Rou\u00e9"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "93049594",
+          "name": "A. Bercier"
+        },
+        {
+          "authorId": "91138369",
+          "name": "S. Bouaricha"
+        },
+        {
+          "authorId": "91676597",
+          "name": "M. Blouin"
+        },
+        {
+          "authorId": "143993454",
+          "name": "D. Guay"
+        },
+        {
+          "authorId": "143708927",
+          "name": "S. Boily"
+        },
+        {
+          "authorId": "145049004",
+          "name": "J. Huot"
+        },
+        {
+          "authorId": "143730084",
+          "name": "R. Schulz"
+        }
+      ]
+    },
+    {
+      "paperId": "638ddd775b1e223a164f0aec2108da6d009e45cd",
+      "title": "NRC Publications Archive Archives des publications du CNRC",
+      "year": null,
+      "authors": [
+        {
+          "authorId": "48994066",
+          "name": "W. R. Chen"
+        },
+        {
+          "authorId": "2271174824",
+          "name": "OttawaCDN"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2271176677",
+          "name": "Boucherville J.-G. Legoux"
+        },
+        {
+          "authorId": "2145414794",
+          "name": "X. Wu"
+        },
+        {
+          "authorId": "38228889",
+          "name": "B. Marple"
+        },
+        {
+          "authorId": "2271175338",
+          "name": "BouchervilleCDN"
+        }
+      ]
+    },
+    {
+      "paperId": "94da879dfe71dde4039a3adc3432ac4092486269",
+      "title": "NRC Publications Archive Archives des publications du CNRC",
+      "year": null,
+      "authors": [
+        {
+          "authorId": "2113959275",
+          "name": "Yu Zou"
+        },
+        {
+          "authorId": "2133733437",
+          "name": "A. Rezaeian"
+        },
+        {
+          "authorId": "31795242",
+          "name": "J. Szpunar"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2055660226",
+          "name": "Stephen Yue"
+        }
+      ]
+    },
+    {
+      "paperId": "ccaf27890357bd9eacd27857bbf32b31a0f8301f",
+      "title": "NRC Publications Archive Archives des publications du CNRC",
+      "year": null,
+      "authors": [
+        {
+          "authorId": "2077178263",
+          "name": "Dominique Poirier"
+        },
+        {
+          "authorId": "40508382",
+          "name": "J. Legoux"
+        },
+        {
+          "authorId": "91092146",
+          "name": "E. Irissou"
+        },
+        {
+          "authorId": "2058489376",
+          "name": "D. Gallant"
+        },
+        {
+          "authorId": "2158000913",
+          "name": "Jimmy Jiang"
+        }
+      ]
+    }
+  ]
+}

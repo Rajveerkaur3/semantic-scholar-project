@@ -1,0 +1,58 @@
+{
+  "authorId": "2325652525",
+  "url": "https://www.semanticscholar.org/author/2325652525",
+  "name": "Victor Vidyapin",
+  "affiliations": [],
+  "paperCount": 1,
+  "citationCount": 10,
+  "hIndex": 1,
+  "papers": [
+    {
+      "paperId": "729fb97c3baf89552fc8ee2500adaac6c8c2b1c3",
+      "title": "Printing of low-viscosity materials using tomographic additive manufacturing",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "2074266007",
+          "name": "Dan Webber"
+        },
+        {
+          "authorId": "2279754288",
+          "name": "Antony Orth"
+        },
+        {
+          "authorId": "2325652525",
+          "name": "Victor Vidyapin"
+        },
+        {
+          "authorId": "2145064725",
+          "name": "Yujie Zhang"
+        },
+        {
+          "authorId": "2285403447",
+          "name": "Michel Picard"
+        },
+        {
+          "authorId": "2325738711",
+          "name": "David Liu"
+        },
+        {
+          "authorId": "2091876348",
+          "name": "Kathleen L. Sampson"
+        },
+        {
+          "authorId": "16276224",
+          "name": "T. Lacelle"
+        },
+        {
+          "authorId": "2247539062",
+          "name": "C. Paquet"
+        },
+        {
+          "authorId": "2279753241",
+          "name": "Jonathan Boisvert"
+        }
+      ]
+    }
+  ]
+}

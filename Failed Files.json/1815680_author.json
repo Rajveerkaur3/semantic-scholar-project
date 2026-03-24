@@ -1,0 +1,996 @@
+{
+  "authorId": "1815680",
+  "url": "https://www.semanticscholar.org/author/1815680",
+  "name": "F. Billet",
+  "affiliations": [],
+  "paperCount": 23,
+  "citationCount": 542,
+  "hIndex": 10,
+  "papers": [
+    {
+      "paperId": "70f4039c50fd30c09045c1592b929fce06947d1f",
+      "title": "Personalization of Electromechanical Models of the Cardiac Ventricular Function by Heterogeneous Clinical Data Assimilation",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2865228",
+          "name": "S. Marchesseau"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "14961328b2339fa9a9af0009746ec2f8b0249a28",
+      "title": "NAVIGATED INTRA-ARTICULAR US PROBE FOR 3D ARTHROSCOPIC KNEE CARTILAGE EVALUATION: IN-VITRO THICKNESS MEASUREMENT AND CADAVERIC FEASIBILITY",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2078326543",
+          "name": "A. Billaud"
+        },
+        {
+          "authorId": "1389996693",
+          "name": "A. Moreau-Gaudry"
+        },
+        {
+          "authorId": "1405006324",
+          "name": "D. Girardeau-Montaut"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "3337996",
+          "name": "D. Saragaglia"
+        },
+        {
+          "authorId": "2447709",
+          "name": "P. Cinquin"
+        }
+      ]
+    },
+    {
+      "paperId": "1eebe66e898e61d0661d9e126997c6cf23db47d0",
+      "title": "Personalization of Cardiac Motion and Contractility From Images Using Variational Data Assimilation",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "32117189",
+          "name": "Ken C. L. Wong"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "143942774",
+          "name": "K. Rhode"
+        },
+        {
+          "authorId": "2173237",
+          "name": "M. Ginks"
+        },
+        {
+          "authorId": "2550617",
+          "name": "C. Rinaldi"
+        },
+        {
+          "authorId": "145987167",
+          "name": "R. Razavi"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "d7d69291e929d2e223026a85ff40dd6734134f5e",
+      "title": "Patient-specific electromechanical models of the heart for the prediction of pacing acute effects in CRT: A preliminary clinical validation",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "2409731",
+          "name": "R. Chabiniok"
+        },
+        {
+          "authorId": "2147044",
+          "name": "Phani Chinchapatnam"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "2441840",
+          "name": "P. Moireau"
+        },
+        {
+          "authorId": "10175804",
+          "name": "J. Peyrat"
+        },
+        {
+          "authorId": "2107345066",
+          "name": "K. Wong"
+        },
+        {
+          "authorId": "1766033",
+          "name": "J. Relan"
+        },
+        {
+          "authorId": "143942774",
+          "name": "K. Rhode"
+        },
+        {
+          "authorId": "2173237",
+          "name": "M. Ginks"
+        },
+        {
+          "authorId": "1839509",
+          "name": "P. Lambiase"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "2002438",
+          "name": "M. Sorine"
+        },
+        {
+          "authorId": "2550617",
+          "name": "C. Rinaldi"
+        },
+        {
+          "authorId": "143762910",
+          "name": "D. Chapelle"
+        },
+        {
+          "authorId": "145987167",
+          "name": "R. Razavi"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "13f79d57b3b42d664a06c86be584c218ec5ed138",
+      "title": "Cardiac Motion Estimation Using a ProActive Deformable Model: Evaluation and Sensitivity Analysis",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "32117189",
+          "name": "Ken C. L. Wong"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "2409731",
+          "name": "R. Chabiniok"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "7dfc4a0a86ef7968c5c9afbadbe91fe623af5b1e",
+      "title": "Biophysical Modelling To Predict Acute Hemodynamic Response To Cardiac Resynchronization Therapy In Human",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "38911911",
+          "name": "A. Rinaldi"
+        },
+        {
+          "authorId": "1839509",
+          "name": "P. Lambiase"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "2147044",
+          "name": "Phani Chinchapatnam"
+        },
+        {
+          "authorId": "143942774",
+          "name": "K. Rhode"
+        },
+        {
+          "authorId": "1992965",
+          "name": "S. Duckett"
+        },
+        {
+          "authorId": "35575434",
+          "name": "A. Shetty"
+        },
+        {
+          "authorId": "2409731",
+          "name": "R. Chabiniok"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "10175804",
+          "name": "J. Peyrat"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "2441840",
+          "name": "P. Moireau"
+        },
+        {
+          "authorId": "2002438",
+          "name": "M. Sorine"
+        },
+        {
+          "authorId": "143762910",
+          "name": "D. Chapelle"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        },
+        {
+          "authorId": "2173237",
+          "name": "M. Ginks"
+        },
+        {
+          "authorId": "145987167",
+          "name": "R. Razavi"
+        }
+      ]
+    },
+    {
+      "paperId": "ea3ca156c2322f023bf6fec85af74875d39602f0",
+      "title": "Contracts and Grants with Industry - euHeart",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "2301327987",
+          "name": "A. Prakosa"
+        },
+        {
+          "authorId": "32117189",
+          "name": "Ken C. L. Wong"
+        },
+        {
+          "authorId": "1766033",
+          "name": "J. Relan"
+        },
+        {
+          "authorId": "2865228",
+          "name": "S. Marchesseau"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        }
+      ]
+    },
+    {
+      "paperId": "14d3bed451f2f5d79f6858ca94efd4d0982e075f",
+      "title": "Adaptive Tetrahedral Meshing for Personalized Cardiac Simulations",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "1801161",
+          "name": "H. Lamecker"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "1766033",
+          "name": "J. Relan"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        }
+      ]
+    },
+    {
+      "paperId": "31e17dba46363171551a15d353670280f4074735",
+      "title": "Cardiac Motion Recovery and Boundary Conditions Estimation by Coupling an Electromechanical Model and Cine-MRI Data",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "9433a94c082a72cc3f0ab6bb3d6b2f8d3f935b8f",
+      "title": "Personalised Electromechanical Model of the Heart for the Prediction of the Acute Effects of Cardiac Resynchronisation Therapy",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "2409731",
+          "name": "R. Chabiniok"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "2147044",
+          "name": "Phani Chinchapatnam"
+        },
+        {
+          "authorId": "2441840",
+          "name": "P. Moireau"
+        },
+        {
+          "authorId": "10175804",
+          "name": "J. Peyrat"
+        },
+        {
+          "authorId": "143942774",
+          "name": "K. Rhode"
+        },
+        {
+          "authorId": "2173237",
+          "name": "M. Ginks"
+        },
+        {
+          "authorId": "1839509",
+          "name": "P. Lambiase"
+        },
+        {
+          "authorId": "1693952",
+          "name": "S. Arridge"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "2002438",
+          "name": "M. Sorine"
+        },
+        {
+          "authorId": "2550617",
+          "name": "C. Rinaldi"
+        },
+        {
+          "authorId": "143762910",
+          "name": "D. Chapelle"
+        },
+        {
+          "authorId": "145987167",
+          "name": "R. Razavi"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "00dbb53089333c883dadbff5a09bf65750ab9157",
+      "title": "Cardiac Motion Recovery by Coupling an Electromechanical Model and Cine-MRI Data: First Steps",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "88952d11b269af2d5d5f442f97b9835f18a1fda4",
+      "title": "Toward patient-specific myocardial models of the heart.",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "10175804",
+          "name": "J. Peyrat"
+        },
+        {
+          "authorId": "2147044",
+          "name": "Phani Chinchapatnam"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "2219355",
+          "name": "Tommaso Mansi"
+        },
+        {
+          "authorId": "143942774",
+          "name": "K. Rhode"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "145987167",
+          "name": "R. Razavi"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        }
+      ]
+    },
+    {
+      "paperId": "3496ef78c9bdfd70be7879f036e6ad7bbf80db2d",
+      "title": "The HuMAnS toolbox, a homogenous framework for motion capture, analysis and simulation",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "2287041",
+          "name": "P. Wieber"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "1696171",
+          "name": "Laurence Boissieux"
+        },
+        {
+          "authorId": "1402989104",
+          "name": "R. Pissard-Gibollet"
+        }
+      ]
+    },
+    {
+      "paperId": "ceba4d2184c103b790eb2b5de35a9982d874b435",
+      "title": "Analysis and Simulation of Biomedical Images",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        },
+        {
+          "authorId": "1798335",
+          "name": "G. Malandain"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "1715990",
+          "name": "X. Pennec"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1772142",
+          "name": "J. Gallier"
+        },
+        {
+          "authorId": "134119262",
+          "name": "Isabelle Strobant"
+        },
+        {
+          "authorId": "1763209",
+          "name": "J. Debayle"
+        },
+        {
+          "authorId": "143676616",
+          "name": "F. Poyer"
+        },
+        {
+          "authorId": "36877035",
+          "name": "N. Toussaint"
+        },
+        {
+          "authorId": "2396816",
+          "name": "Vincent Arsigny"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "144608597",
+          "name": "Jonathan Boisvert"
+        },
+        {
+          "authorId": "1806283",
+          "name": "O. Clatz"
+        },
+        {
+          "authorId": "1789800",
+          "name": "O. Commowick"
+        },
+        {
+          "authorId": "50820218",
+          "name": "Jimena Costa"
+        },
+        {
+          "authorId": "1403813014",
+          "name": "Guillaume Dugas-Phocion"
+        },
+        {
+          "authorId": "2689496",
+          "name": "S. Durrleman"
+        },
+        {
+          "authorId": "2572331",
+          "name": "P. Fillard"
+        },
+        {
+          "authorId": "1975196",
+          "name": "T. Glatard"
+        },
+        {
+          "authorId": "34722666",
+          "name": "H. Hufnagel"
+        },
+        {
+          "authorId": "1796918",
+          "name": "E. Konukoglu"
+        },
+        {
+          "authorId": "2611968",
+          "name": "Damien Lepiller"
+        },
+        {
+          "authorId": "10175804",
+          "name": "J. Peyrat"
+        },
+        {
+          "authorId": "2810073",
+          "name": "J. Souplet"
+        },
+        {
+          "authorId": "2014232",
+          "name": "Tom Kamiel Magda Vercauteren"
+        },
+        {
+          "authorId": "2984258",
+          "name": "\u00c9. Bardinet"
+        },
+        {
+          "authorId": "3221214",
+          "name": "P. Bondiau"
+        },
+        {
+          "authorId": "6417673",
+          "name": "J. Brandel"
+        },
+        {
+          "authorId": "1983149",
+          "name": "J. Darcourt"
+        },
+        {
+          "authorId": "46638272",
+          "name": "D. Dormont"
+        },
+        {
+          "authorId": "1398643687",
+          "name": "C. Lebrun-Fr\u00e9nay"
+        },
+        {
+          "authorId": "144159315",
+          "name": "D. Hill"
+        },
+        {
+          "authorId": "1727081",
+          "name": "J. Montagnat"
+        },
+        {
+          "authorId": "145272842",
+          "name": "L. Soler"
+        },
+        {
+          "authorId": "2412795623",
+          "name": "P. Thompson"
+        },
+        {
+          "authorId": "3095634",
+          "name": "J. Yelnik"
+        }
+      ]
+    },
+    {
+      "paperId": "f051a1d867b464ebdfba8a93c159a96ac3d5190f",
+      "title": "New Results - Computational Physiology",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "1766033",
+          "name": "J. Relan"
+        },
+        {
+          "authorId": "1770888",
+          "name": "Maxime Sermesant"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        },
+        {
+          "authorId": "144827643",
+          "name": "N. Ayache"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "2301327987",
+          "name": "A. Prakosa"
+        },
+        {
+          "authorId": "1787671",
+          "name": "E. Saloux"
+        },
+        {
+          "authorId": "37443352",
+          "name": "P. Allain"
+        },
+        {
+          "authorId": "1752302",
+          "name": "P. Cathier"
+        },
+        {
+          "authorId": "1790358",
+          "name": "P. Etyngier"
+        },
+        {
+          "authorId": null,
+          "name": "Nicolas Francois Villain"
+        },
+        {
+          "authorId": "2433053",
+          "name": "E. Stretton"
+        },
+        {
+          "authorId": "1806283",
+          "name": "O. Clatz"
+        },
+        {
+          "authorId": "20512625",
+          "name": "Ezequiel Geremia"
+        },
+        {
+          "authorId": "3243720",
+          "name": "I. Rekik"
+        },
+        {
+          "authorId": "3316868",
+          "name": "S. Allassonni\u00e8re"
+        },
+        {
+          "authorId": "2865228",
+          "name": "S. Marchesseau"
+        },
+        {
+          "authorId": "32117189",
+          "name": "Ken C. L. Wong"
+        },
+        {
+          "authorId": "3156019",
+          "name": "E. Pernod"
+        },
+        {
+          "authorId": "35110222",
+          "name": "Hugo Talbot"
+        }
+      ]
+    },
+    {
+      "paperId": "ba336ac3306914e4932d0fd5f5eee8e901e22d18",
+      "title": "Computed tomography in traumatology with special regard to the advances of three-dimensional display",
+      "year": 2004,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "6836040",
+          "name": "W. Schmitt"
+        },
+        {
+          "authorId": "32189775",
+          "name": "B. Gay"
+        }
+      ]
+    },
+    {
+      "paperId": "f52441a74846a01c16247a48e2f00ef7caa6f834",
+      "title": "Coronary flow reserve measurement by guide wire based thermodilution : comparison to the Doppler wire",
+      "year": 2000,
+      "authors": [
+        {
+          "authorId": "66184584",
+          "name": "Nhj Nico Pijls"
+        },
+        {
+          "authorId": "94115553",
+          "name": "De Bruyne"
+        },
+        {
+          "authorId": "50715558",
+          "name": "G. Bech"
+        },
+        {
+          "authorId": "153571782",
+          "name": "Van de Vosse"
+        },
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "88272721",
+          "name": "H. Kusters"
+        },
+        {
+          "authorId": "82232942",
+          "name": "Van Gelder"
+        },
+        {
+          "authorId": "10096537",
+          "name": "Olivier Nelis"
+        },
+        {
+          "authorId": "9154642",
+          "name": "J. Bartunek"
+        },
+        {
+          "authorId": "2074778068",
+          "name": "J. Bonnier"
+        },
+        {
+          "authorId": "4266500",
+          "name": "J. Koolen"
+        }
+      ]
+    },
+    {
+      "paperId": "3820577cc36704347c236aeb5c082447fc32979b",
+      "title": "[Bony bridges of the lumbar transverse processes].",
+      "year": 1991,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "6836040",
+          "name": "W. Schmitt"
+        },
+        {
+          "authorId": "49282783",
+          "name": "E. B\u00f6hmer"
+        }
+      ]
+    },
+    {
+      "paperId": "3f2967fff83413a2f4cc41de10bafffbe68e67dd",
+      "title": "Conventional CT and 3D of the Normal and Fractured Os Calcis: An Investigation Procedure and a Classification of 21 Calcaneal Fractures",
+      "year": 1990,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "6836040",
+          "name": "W. Schmitt"
+        },
+        {
+          "authorId": "50188181",
+          "name": "J. Lang"
+        }
+      ]
+    },
+    {
+      "paperId": "bb040a39c037c9e383f81b51547add23ce1f1ab0",
+      "title": "[3D-reconstruction in computed tomography as a diagnostic plus in traumatology?].",
+      "year": 1990,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "6836040",
+          "name": "W. Schmitt"
+        },
+        {
+          "authorId": "32189775",
+          "name": "B. Gay"
+        },
+        {
+          "authorId": "2060289421",
+          "name": "M. Hofmann"
+        },
+        {
+          "authorId": "2111745897",
+          "name": "M. Huber"
+        }
+      ]
+    },
+    {
+      "paperId": "278eaed6983ce02f0a610e5decb27d2e01b5a1ce",
+      "title": "Unilateral paresis of the abdominal wall: a radicular syndrome caused by herniation of the L1-2 disc?",
+      "year": 1989,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "66989230",
+          "name": "H. Ponssen"
+        },
+        {
+          "authorId": "83311459",
+          "name": "D. Veenhuizen"
+        }
+      ]
+    },
+    {
+      "paperId": "8f43fe627dbe66d08265193054359b37e7fc73bc",
+      "title": "[Specific detection of various stages of Osler's disease of the brain using high field magnetic resonance tomography (1.5 Tesla)].",
+      "year": 1988,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        },
+        {
+          "authorId": "6014635",
+          "name": "R. Bluemm"
+        },
+        {
+          "authorId": "145043885",
+          "name": "H. Beyer"
+        }
+      ]
+    },
+    {
+      "paperId": "4c961c342bd22f6944e050a59f5a7e02bd48e7f8",
+      "title": "An Apparatus for the Caloric Stimulation of the Vestibular System by a Flow of Air",
+      "year": 1961,
+      "authors": [
+        {
+          "authorId": "1815680",
+          "name": "F. Billet"
+        }
+      ]
+    }
+  ]
+}

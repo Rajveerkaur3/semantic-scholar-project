@@ -1,0 +1,2838 @@
+{
+  "total": 8,
+  "offset": 0,
+  "data": [
+    {
+      "authorId": "48426429",
+      "url": "https://www.semanticscholar.org/author/48426429",
+      "name": "J. Boisvert",
+      "paperCount": 7,
+      "citationCount": 26,
+      "hIndex": 2,
+      "papers": [
+        {
+          "paperId": "c50a69d2cde2cb8915bf024cbe25918c5421d09f",
+          "title": "Mod\u00e8les de la variabilit\u00e9 g\u00e9om\u00e9trique du rachis scoliotique",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "ba2a3f0264a196ea1b2d1b948ca6cf786ab54eff",
+          "title": "Estimation r\u00e9gionale de l\u2019humidit\u00e9 du sol par t\u00e9l\u00e9d\u00e9tection",
+          "year": 1996,
+          "authors": [
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "116148172",
+              "name": "Y. Crevier"
+            },
+            {
+              "authorId": "2073660766",
+              "name": "T. J. Pultz"
+            }
+          ]
+        },
+        {
+          "paperId": "587ed2f5dfbf4274d6bf2569c212425d047346da",
+          "title": "Comparaison de techniques statistiques utilis\u00e9es dans l'\u00e9laboration de mod\u00e9les pr\u00e9visionnels ph\u00e9noclimatiques",
+          "year": 1984,
+          "authors": [
+            {
+              "authorId": "2055387064",
+              "name": "Y. Castonguay"
+            },
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "120259131",
+              "name": "P. Dub\u00e9"
+            }
+          ]
+        },
+        {
+          "paperId": "a98f880e33588116781aa5059564a80c9ad66c8d",
+          "title": "M\u00e9thodologie analytique pour d\u00e9terminer la sp\u00e9ciation de l'aluminium dans les eaux lacustres en voie d'acidification.",
+          "year": 1982,
+          "authors": [
+            {
+              "authorId": "2057313031",
+              "name": "P. G. Campbell"
+            },
+            {
+              "authorId": "2060628400",
+              "name": "M. Bisson"
+            },
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "118819092",
+              "name": "R. Bougie"
+            },
+            {
+              "authorId": "2060690610",
+              "name": "Andr\u00e9 Tessier"
+            },
+            {
+              "authorId": "120901238",
+              "name": "J. Villeneuve"
+            }
+          ]
+        },
+        {
+          "paperId": "1f152c16f976fba65941d5ac6b35ff112e8f08f4",
+          "title": "Comparaison de m\u00e9thodes de simulation de la loi Pearson 3.",
+          "year": 1981,
+          "authors": [
+            {
+              "authorId": "71294784",
+              "name": "P. Boucher"
+            },
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "120901238",
+              "name": "J. Villeneuve"
+            },
+            {
+              "authorId": "1945841",
+              "name": "B. Bob\u00e9e"
+            }
+          ]
+        },
+        {
+          "paperId": "4ca3ecca6ae28b97f224719d399ae4d93654a3cb",
+          "title": "\u00c9tude des meilleurs ajustements du mod\u00e8le de Michaelis-Menten: Application a la biod\u00e9gradation du ph\u00e9nol.",
+          "year": 1981,
+          "authors": [
+            {
+              "authorId": "120901238",
+              "name": "J. Villeneuve"
+            },
+            {
+              "authorId": "2060690610",
+              "name": "Andr\u00e9 Tessier"
+            },
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "a73f01cdce2a5d4df32ca7d80b884c8de60a6a26",
+          "title": "Neurofibromatose: hypertension r\u00e9novasculaire, st\u00e9nose de l'aorte abdominale, de l'art\u00e8re h\u00e9patique et de l'art\u00e8re m\u00e9sent\u00e9rique sup\u0115rieure",
+          "year": 1974,
+          "authors": [
+            {
+              "authorId": "16563062",
+              "name": "F. Muboyayi"
+            },
+            {
+              "authorId": "146871894",
+              "name": "H. Blanchard"
+            },
+            {
+              "authorId": "2065962792",
+              "name": "R. Gu\u00e9rin"
+            },
+            {
+              "authorId": "48426429",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "2058753222",
+              "name": "A. Royer"
+            },
+            {
+              "authorId": "82584154",
+              "name": "Collin Pp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2237141740",
+      "url": "https://www.semanticscholar.org/author/2237141740",
+      "name": "J. Boisvert",
+      "paperCount": 9,
+      "citationCount": 66,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "3424ae1868cf2f13add2984e61748008ee964d56",
+          "title": "Clustering and Profiling Student Study Behaviors and Interactions with an AI Coding Assistant",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2291620440",
+              "name": "Eric Poitras"
+            },
+            {
+              "authorId": "2413126289",
+              "name": "Jeffry Paul Suresh Durai"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "2413127608",
+              "name": "Keaton Doucette"
+            },
+            {
+              "authorId": "2365270602",
+              "name": "M. Lin"
+            },
+            {
+              "authorId": "2413110333",
+              "name": "Marta Kryven"
+            },
+            {
+              "authorId": "2765458",
+              "name": "Raghav V. Sampangi"
+            }
+          ]
+        },
+        {
+          "paperId": "5c0d98278373937929702d853e9070f96eeb8ebc",
+          "title": "Individual tree detection and classification from RGB satellite imagery with applications to wildfire fuel mapping and exposure assessments",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2160987995",
+              "name": "L. Bennett"
+            },
+            {
+              "authorId": "2157992732",
+              "name": "Z. Yu"
+            },
+            {
+              "authorId": "2312451974",
+              "name": "R. Wasowski"
+            },
+            {
+              "authorId": "2137451599",
+              "name": "S. Selland"
+            },
+            {
+              "authorId": "2312437602",
+              "name": "S. Otway"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "437b1b9f22a68a97004defa81312be459d5a595c",
+          "title": "Three-dimensional human shape inference from silhouettes: reconstruction and validation",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "2264412801",
+              "name": "Chang Shu"
+            },
+            {
+              "authorId": "1792200",
+              "name": "Stefanie Wuhrer"
+            },
+            {
+              "authorId": "3111197",
+              "name": "Pengcheng Xi"
+            }
+          ]
+        },
+        {
+          "paperId": "f4632002cbdce866ac5d5b4264675c2760bfcc77",
+          "title": "du CNRC ( NPArC ) Fast 3 D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "2237302185",
+              "name": "Daniel C. Moura"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "49166577",
+              "name": "Jorge G. Barbosa"
+            },
+            {
+              "authorId": "2237349317",
+              "name": "Jo\u00e3o Tavares"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "107614588",
+              "name": "J. Manuel"
+            },
+            {
+              "authorId": "2237291504",
+              "name": "R. S. Tavares"
+            }
+          ]
+        },
+        {
+          "paperId": "cefdd81ac2120b034101eb03d10b870f1567d56c",
+          "title": "Fast 3D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model",
+          "year": 2009,
+          "authors": [
+            {
+              "authorId": "2237302185",
+              "name": "Daniel C. Moura"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "49166577",
+              "name": "Jorge G. Barbosa"
+            },
+            {
+              "authorId": "2237349317",
+              "name": "Jo\u00e3o Tavares"
+            }
+          ]
+        },
+        {
+          "paperId": "8090faaba022250f0ba5cbce2837c40240ea7aec",
+          "title": "NRC Publications Archive Archives des publications du CNRC",
+          "year": null,
+          "authors": [
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "133845799",
+              "name": "D. C. Moura"
+            }
+          ]
+        },
+        {
+          "paperId": "9138abb890f915a3753e38bca553d09aaadf9542",
+          "title": "NRC Publications Archive Archives des publications du CNRC",
+          "year": null,
+          "authors": [
+            {
+              "authorId": "2237302185",
+              "name": "Daniel C. Moura"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "49166577",
+              "name": "Jorge G. Barbosa"
+            },
+            {
+              "authorId": "152619844",
+              "name": "Joo Manuel"
+            },
+            {
+              "authorId": "1576032444",
+              "name": "R. S. Tavares"
+            }
+          ]
+        },
+        {
+          "paperId": "fce537c0f736e786f906127d95c36354e742c420",
+          "title": "ScholarWorks@UMass Amherst ScholarWorks@UMass Amherst",
+          "year": null,
+          "authors": [
+            {
+              "authorId": "2411641007",
+              "name": "Neal Woodard"
+            },
+            {
+              "authorId": "2110644834",
+              "name": "Amanda L. Brown"
+            },
+            {
+              "authorId": "2411658990",
+              "name": "Tim Andematten"
+            },
+            {
+              "authorId": "2411654646",
+              "name": "Wes Autio"
+            },
+            {
+              "authorId": "2298766786",
+              "name": "S. Hatch"
+            },
+            {
+              "authorId": "2318311195",
+              "name": "A. O'Reilly"
+            },
+            {
+              "authorId": "2237141740",
+              "name": "J. Boisvert"
+            },
+            {
+              "authorId": "2411646871",
+              "name": "Wally Czjakowski"
+            },
+            {
+              "authorId": "2388512119",
+              "name": "Edwin Matuszko"
+            },
+            {
+              "authorId": "90584599",
+              "name": "B. Mckinstry"
+            },
+            {
+              "authorId": "2411654651",
+              "name": "Ray Rex"
+            },
+            {
+              "authorId": "2058280709",
+              "name": "K. Santos"
+            },
+            {
+              "authorId": "2411639135",
+              "name": "Len Shuzdak"
+            },
+            {
+              "authorId": "2250406528",
+              "name": "J. Ward"
+            },
+            {
+              "authorId": "2271962964",
+              "name": "T. Wheeler"
+            },
+            {
+              "authorId": "2411641064",
+              "name": "Jamie Bagdon"
+            },
+            {
+              "authorId": "2411641035",
+              "name": "Jeff Bober"
+            },
+            {
+              "authorId": "2411646890",
+              "name": "Tom Calabrese"
+            },
+            {
+              "authorId": "2411658791",
+              "name": "Joe Czjakowski"
+            },
+            {
+              "authorId": "2268167663",
+              "name": "G. Gardner"
+            },
+            {
+              "authorId": "2411639765",
+              "name": "Kevin Jekanowski"
+            },
+            {
+              "authorId": "48055385",
+              "name": "M. Kosinski"
+            },
+            {
+              "authorId": "2388512256",
+              "name": "Skip Peppin"
+            },
+            {
+              "authorId": "2411654689",
+              "name": "Al Sandersen"
+            },
+            {
+              "authorId": "2411647315",
+              "name": "Mike Wisserman"
+            },
+            {
+              "authorId": "2411639757",
+              "name": "Jodi Zgrodnick"
+            },
+            {
+              "authorId": "48928938",
+              "name": "A. Cavanagh"
+            },
+            {
+              "authorId": "2238519442",
+              "name": "Lynn S. Adler"
+            },
+            {
+              "authorId": "4493960",
+              "name": "R. Hazzard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "144608597",
+      "url": "https://www.semanticscholar.org/author/144608597",
+      "name": "Jonathan Boisvert",
+      "paperCount": 55,
+      "citationCount": 883,
+      "hIndex": 16,
+      "papers": [
+        {
+          "paperId": "4a54089322be6806e6895ddab476969c3a0d0f8d",
+          "title": "Enhanced tomographic printing via 3D ray-tracing dose optimization",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "70c36d8ee28b70c72cfe9154e901420d4901a659",
+          "title": "Controlling light dose in tomographic volumetric additive manufacturing",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2214532542",
+              "name": "Rene Lam"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "8979e5f938c0512cc4012e14f080088783e6d95b",
+          "title": "Deconvolution volumetric additive manufacturing",
+          "year": 2023,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "3131112",
+              "name": "H. D. de Haan"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "2214532542",
+              "name": "Rene Lam"
+            },
+            {
+              "authorId": "2064629631",
+              "name": "D. Solis"
+            },
+            {
+              "authorId": "98516294",
+              "name": "S. Dayanandan"
+            },
+            {
+              "authorId": "2222162506",
+              "name": "Taylor Waddell"
+            },
+            {
+              "authorId": "101269569",
+              "name": "Tasha L. Lewis"
+            },
+            {
+              "authorId": "145301359",
+              "name": "H. Taylor"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "768f39b90016ac36e0c4ca50da7f1dbc38a97846",
+          "title": "Ray-based distortion correction in tomographic additive manufacturing",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "2047270979",
+              "name": "Kayley Ting"
+            },
+            {
+              "authorId": "2141287809",
+              "name": "Derek Aranguren van Egmond"
+            },
+            {
+              "authorId": "2158433486",
+              "name": "Kurtis Laqua"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "7020751",
+              "name": "D. Fatehi"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "a21d07d6801f5eb81858134b878cb06b0fc59df8",
+          "title": "On-the-fly 3D metrology of volumetric additive manufacturing",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2047270979",
+              "name": "Kayley Ting"
+            },
+            {
+              "authorId": "2131863767",
+              "name": "Derek Aranguren van Egmond"
+            },
+            {
+              "authorId": "33596936",
+              "name": "K. Laqua"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "47429129",
+              "name": "D. Webber"
+            },
+            {
+              "authorId": "2192316865",
+              "name": "D. Fathi"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "b8a445e92a7d720ed31969a9e376b77439ea446a",
+          "title": "Optical Scattering Tomography for Volumetric Additive Manufacturing",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2047270979",
+              "name": "Kayley Ting"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2184945786",
+              "name": "D. V. van Egmond"
+            },
+            {
+              "authorId": "2158433486",
+              "name": "Kurtis Laqua"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "7020751",
+              "name": "D. Fatehi"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "f73e0bb87c128f060d0e4103a5d65e8e0abf5dc3",
+          "title": "Frequency Shift Method: A Technique for 3-D Shape Acquisition in the Presence of Strong Interreflections",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "3412981",
+              "name": "F. B. D. Dizeu"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "32115368",
+              "name": "M. Rivard"
+            },
+            {
+              "authorId": "1981087",
+              "name": "G. Lamouche"
+            }
+          ]
+        },
+        {
+          "paperId": "fb259697abc78cedce881701b5be08adbd2263b7",
+          "title": "Versatile volumetric additive manufacturing with 3D ray tracing.",
+          "year": 2022,
+          "authors": [
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            },
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            }
+          ]
+        },
+        {
+          "paperId": "812e0b59076dfa73fec1cc198013ed0c74b9aa22",
+          "title": "Correcting ray distortion in tomographic additive manufacturing.",
+          "year": 2021,
+          "authors": [
+            {
+              "authorId": "47044436",
+              "name": "A. Orth"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "2047270979",
+              "name": "Kayley Ting"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "47dfe5c02ef01ab233a0490e94ccb2127d4218cd",
+          "title": "Augmented reality, 3D measurement, and thermal imagery for computer-assisted manufacturing",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            }
+          ]
+        },
+        {
+          "paperId": "4c239f810fc42a9a94fc9c23a6ff6ca0f96db888",
+          "title": "Dimensional Analysis and Laser-Ultrasonic Inspection of Cold Spray Additive Manufacturing Components",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "23167358",
+              "name": "C. Cojocaru"
+            },
+            {
+              "authorId": "50573668",
+              "name": "P. Vo"
+            },
+            {
+              "authorId": "49659406",
+              "name": "D. L\u00e9vesque"
+            },
+            {
+              "authorId": "13085091",
+              "name": "C. Bescond"
+            },
+            {
+              "authorId": "32115368",
+              "name": "M. Rivard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1981087",
+              "name": "G. Lamouche"
+            },
+            {
+              "authorId": "2218688762",
+              "name": "M. Martin"
+            },
+            {
+              "authorId": "91092146",
+              "name": "E. Irissou"
+            }
+          ]
+        },
+        {
+          "paperId": "7e9d1561713412e2023d3e4ccc79b2c8341e6ba8",
+          "title": "Structured-light systems using a programmable quasi-analogue projection subsystem",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "46183691",
+              "name": "L. Dicaire"
+            }
+          ]
+        },
+        {
+          "paperId": "94b5cd35f09e88c599a58a34fc0b8f96c7611d0d",
+          "title": "Projector-based augmented reality with simultaneous 3D inspection using a single DMD",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "46183691",
+              "name": "L. Dicaire"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            }
+          ]
+        },
+        {
+          "paperId": "d58f113569e2fee186b566515ea406b017c588bc",
+          "title": "Modeling and Simulation Framework for Airborne Camera Systems",
+          "year": 2020,
+          "authors": [
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "40389116",
+              "name": "J. Fournier"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2342478",
+              "name": "L. Borgeat"
+            }
+          ]
+        },
+        {
+          "paperId": "7d2850514cc260a2cd798389628dd52779ac421b",
+          "title": "Frequency Shift Triangulation: A Robust Fringe Projection Technique for 3D Shape Acquisition in the Presence of Strong Interreflections",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "3412981",
+              "name": "F. B. D. Dizeu"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "32115368",
+              "name": "M. Rivard"
+            },
+            {
+              "authorId": "1981087",
+              "name": "G. Lamouche"
+            }
+          ]
+        },
+        {
+          "paperId": "83096508c88344f43004161d39094174cf6a77fb",
+          "title": "Comparison of laser triangulation, phase shift triangulation and swept source optical coherence Tomography for nondestructive inspection of objects with micrometric accuracy",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "3412981",
+              "name": "F. B. D. Dizeu"
+            },
+            {
+              "authorId": "32115368",
+              "name": "M. Rivard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1981087",
+              "name": "G. Lamouche"
+            }
+          ]
+        },
+        {
+          "paperId": "9cc30b699ac5c0057ce278b497d64a9f9877a474",
+          "title": "Training a CNN to robustly segment the human body parts in range image sequences",
+          "year": 2019,
+          "authors": [
+            {
+              "authorId": "3214485",
+              "name": "Lama S\u00e9oud"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            }
+          ]
+        },
+        {
+          "paperId": "78fe9bebeee37ef61f8385436e345b2bd7e4fa8b",
+          "title": "Increasing the Robustness of CNN-Based Human Body Segmentation in Range Images by Modeling Sensor-Specific Artifacts",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "3214485",
+              "name": "Lama S\u00e9oud"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            }
+          ]
+        },
+        {
+          "paperId": "984cc389d3b3f87713b36a866dc6718b770c068c",
+          "title": "Real-Time Large-Scale Fusion of High Resolution 3D Scans with Details Preservation",
+          "year": 2018,
+          "authors": [
+            {
+              "authorId": "1689957",
+              "name": "H. Sekkati"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "2342478",
+              "name": "L. Borgeat"
+            }
+          ]
+        },
+        {
+          "paperId": "174d1c799d69b0fe0d6839b4b3b8f5d0d0f185da",
+          "title": "Motion Compensation for Phase-Shift Structured-Light Systems Based on a Total-Variation Framework",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "46183691",
+              "name": "L. Dicaire"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            }
+          ]
+        },
+        {
+          "paperId": "90a8945aa214a37518eebd591bcb5f7b927f10b4",
+          "title": "Characterizing the impact of optically induced blurring of a high-resolution phase-shift 3D scanner",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "144136150",
+              "name": "F. Blais"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2484924",
+              "name": "J. Beraldin"
+            }
+          ]
+        },
+        {
+          "paperId": "f627bc42d7bef74e3baa240265d39477e9249d5f",
+          "title": "Characterizing the impact of optically induced blurring of a high-resolution phase-shift 3D scanner",
+          "year": 2017,
+          "authors": [
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "144136150",
+              "name": "F. Blais"
+            },
+            {
+              "authorId": "30249925",
+              "name": "M. Picard"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2484924",
+              "name": "J. Beraldin"
+            }
+          ]
+        },
+        {
+          "paperId": "f69885248d17bac47cc3469715fbb93aa7a4aabe",
+          "title": "Predicting task from eye movements: On the importance of spatial distribution, dynamics, and image features",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2866780",
+              "name": "Neil D. B. Bruce"
+            }
+          ]
+        },
+        {
+          "paperId": "099fbf0ff9dafe6be7d99dc67b4456cf47c09cd6",
+          "title": "High-speed transition patterns for video projection, 3D reconstruction, and copyright protection",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "1687510",
+              "name": "Pierre-Marc Jodoin"
+            }
+          ]
+        },
+        {
+          "paperId": "8767849b3d87af5722fce8c4358b1175aca44c40",
+          "title": "The eyes as a window to the mind: inferring cognitive state from gaze patterns",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "a029157057b8528c27ed99c033efde51388e7deb",
+          "title": "Articulated Statistical Shape Models of the Spine",
+          "year": 2015,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "34adb0bc64181e11811baac8079fac99487e0eff",
+          "title": "Real-Time Blood Circulation and Bleeding Model for Surgical Training",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "46489351",
+              "name": "Guillaume Poirier"
+            },
+            {
+              "authorId": "2342478",
+              "name": "L. Borgeat"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            }
+          ]
+        },
+        {
+          "paperId": "f3ec6426db907809f8f12851ef43b79625c129c2",
+          "title": "Three-Dimensional Spine Model Reconstruction Using One-Class SVM Regularization",
+          "year": 2013,
+          "authors": [
+            {
+              "authorId": "2663823",
+              "name": "Fabian Lecron"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "144711671",
+              "name": "S. Mahmoudi"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "9585186",
+              "name": "M. Benjelloun"
+            }
+          ]
+        },
+        {
+          "paperId": "01130ff65bb8f7636c52e71da0aa941241fc6c8e",
+          "title": "Fast 3D Spine Reconstruction of Postoperative Patients Using a Multilevel Statistical Model",
+          "year": 2012,
+          "authors": [
+            {
+              "authorId": "2663823",
+              "name": "Fabian Lecron"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "144711671",
+              "name": "S. Mahmoudi"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "9585186",
+              "name": "M. Benjelloun"
+            }
+          ]
+        },
+        {
+          "paperId": "716389183827656d2b1e9f9e7ffd9b335cb5e605",
+          "title": "Multilevel statistical shape models: A new framework for modeling hierarchical structures",
+          "year": 2012,
+          "authors": [
+            {
+              "authorId": "2663823",
+              "name": "Fabian Lecron"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "9585186",
+              "name": "M. Benjelloun"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "144711671",
+              "name": "S. Mahmoudi"
+            }
+          ]
+        },
+        {
+          "paperId": "df93f8a6976e7dfb4b9a853a28abf041a740ea45",
+          "title": "Biomechanically constrained groupwise ultrasound to CT registration of the lumbar spine",
+          "year": 2012,
+          "authors": [
+            {
+              "authorId": "39115523",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "2427371",
+              "name": "P. Abolmaesumi"
+            },
+            {
+              "authorId": "1983720",
+              "name": "G. Fichtinger"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2322636",
+              "name": "D. Pichora"
+            },
+            {
+              "authorId": "1973955",
+              "name": "D. Borschneck"
+            },
+            {
+              "authorId": "9398553",
+              "name": "P. Mousavi"
+            }
+          ]
+        },
+        {
+          "paperId": "2d76d1276cbae4cfbae4861294993c9bea18db43",
+          "title": "Interactive 3D reconstruction of the spine from radiographs using a statistical shape model and second-order cone programming",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "34675779",
+              "name": "D. C. Moura"
+            }
+          ]
+        },
+        {
+          "paperId": "3e26d9a780442727df71def6d7003b8e3167ca09",
+          "title": "Fast 3D reconstruction of the spine from biplanar radiographs using a deformable articulated model.",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "34675779",
+              "name": "D. C. Moura"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "49166577",
+              "name": "Jorge G. Barbosa"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "144168728",
+              "name": "J. Tavares"
+            }
+          ]
+        },
+        {
+          "paperId": "e50a4fef20e93f3181e7bb33373aa77dcb4c378e",
+          "title": "GPU accelerated registration of a statistical shape model of the lumbar spine to 3D ultrasound images",
+          "year": 2011,
+          "authors": [
+            {
+              "authorId": "1916824",
+              "name": "Siavash Khallaghi"
+            },
+            {
+              "authorId": "2427371",
+              "name": "P. Abolmaesumi"
+            },
+            {
+              "authorId": "6540670",
+              "name": "R. Gong"
+            },
+            {
+              "authorId": "2325133",
+              "name": "E. Chen"
+            },
+            {
+              "authorId": "39115523",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2322636",
+              "name": "D. Pichora"
+            },
+            {
+              "authorId": "1973955",
+              "name": "D. Borschneck"
+            },
+            {
+              "authorId": "1983720",
+              "name": "G. Fichtinger"
+            },
+            {
+              "authorId": "9398553",
+              "name": "P. Mousavi"
+            }
+          ]
+        },
+        {
+          "paperId": "9cb2dca5d3c1f7beb0322556258c4fe89428d55b",
+          "title": "Fast 3D reconstruction of the spine by non-expert users using a statistical articulated model",
+          "year": 2010,
+          "authors": [
+            {
+              "authorId": "34675779",
+              "name": "D. C. Moura"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "49166577",
+              "name": "Jorge G. Barbosa"
+            },
+            {
+              "authorId": "144168728",
+              "name": "J. Tavares"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            }
+          ]
+        },
+        {
+          "paperId": "d989a46d5edeb3d18e80c199bb53735abf3edc1c",
+          "title": "Registration of a Statistical Shape Model of the Lumbar Spine to 3D Ultrasound Images",
+          "year": 2010,
+          "authors": [
+            {
+              "authorId": "1916824",
+              "name": "Siavash Khallaghi"
+            },
+            {
+              "authorId": "9398553",
+              "name": "P. Mousavi"
+            },
+            {
+              "authorId": "6540670",
+              "name": "R. Gong"
+            },
+            {
+              "authorId": "39115523",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1983720",
+              "name": "G. Fichtinger"
+            },
+            {
+              "authorId": "2322636",
+              "name": "D. Pichora"
+            },
+            {
+              "authorId": "1973955",
+              "name": "D. Borschneck"
+            },
+            {
+              "authorId": "2427371",
+              "name": "P. Abolmaesumi"
+            }
+          ]
+        },
+        {
+          "paperId": "31022cdda5bbdf31bfcd8db714e068051a945cc6",
+          "title": "Biomechanically Constrained Groupwise US to CT Registration of the Lumbar Spine",
+          "year": 2009,
+          "authors": [
+            {
+              "authorId": "39115523",
+              "name": "S. Gill"
+            },
+            {
+              "authorId": "9398553",
+              "name": "P. Mousavi"
+            },
+            {
+              "authorId": "1983720",
+              "name": "G. Fichtinger"
+            },
+            {
+              "authorId": "2325133",
+              "name": "E. Chen"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2322636",
+              "name": "D. Pichora"
+            },
+            {
+              "authorId": "2427371",
+              "name": "P. Abolmaesumi"
+            }
+          ]
+        },
+        {
+          "paperId": "a092e05be91994bc161aad7b56775990ea048724",
+          "title": "3D reconstruction of the human spine from radiograph(s) using a multi-body statistical model",
+          "year": 2009,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            }
+          ]
+        },
+        {
+          "paperId": "a2aca398dc1da74d0b60f19a0f45e444ccc91f13",
+          "title": "An open-source real-time ultrasound reconstruction system for four-dimensional imaging of moving organs",
+          "year": 2009,
+          "authors": [
+            {
+              "authorId": "2871467",
+              "name": "Danielle Frances Pace"
+            },
+            {
+              "authorId": "37767500",
+              "name": "D. Gobbi"
+            },
+            {
+              "authorId": "2795447",
+              "name": "C. Wedlake"
+            },
+            {
+              "authorId": "36474105",
+              "name": "J. Gumprecht"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "3181696",
+              "name": "J. Tokuda"
+            },
+            {
+              "authorId": "145879517",
+              "name": "N. Hata"
+            },
+            {
+              "authorId": "1698185",
+              "name": "T. Peters"
+            }
+          ]
+        },
+        {
+          "paperId": "f36569b3eece025e2c499baf4f11c86059212006",
+          "title": "Bending invariant meshes and application to groupwise correspondences",
+          "year": 2009,
+          "authors": [
+            {
+              "authorId": "1792200",
+              "name": "Stefanie Wuhrer"
+            },
+            {
+              "authorId": "47707932",
+              "name": "Chang Shu"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1739945",
+              "name": "G. Godin"
+            },
+            {
+              "authorId": "3111197",
+              "name": "Pengcheng Xi"
+            }
+          ]
+        },
+        {
+          "paperId": "460a1604632854ee2f30077eeb1902d5e18ce581",
+          "title": "An Open-Source Solution for Interactive Acquisition, Processing and Transfer of Interventional Ultrasound Images",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "37767500",
+              "name": "D. Gobbi"
+            },
+            {
+              "authorId": "2358021",
+              "name": "S. Vikal"
+            },
+            {
+              "authorId": "2066272",
+              "name": "R. Rohling"
+            },
+            {
+              "authorId": "1983720",
+              "name": "G. Fichtinger"
+            },
+            {
+              "authorId": "2427371",
+              "name": "P. Abolmaesumi"
+            }
+          ]
+        },
+        {
+          "paperId": "4be93b5523cabe757dae7fd825c9f5ebfd7459d7",
+          "title": "Geometric Variability of the Scoliotic Spine Using Statistics on Articulated Shape Models",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            }
+          ]
+        },
+        {
+          "paperId": "8bda4668d6c4c0b154da9d6878ed02f582b97efc",
+          "title": "Articulated Spine Models for 3-D Reconstruction From Partial Radiographic Data",
+          "year": 2008,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            }
+          ]
+        },
+        {
+          "paperId": "80ef041f4691c3b4d869b26afbb284dfade6690c",
+          "title": "Estimation of the pressing force in blade forming application",
+          "year": 2007,
+          "authors": [
+            {
+              "authorId": "75000606",
+              "name": "T. Bellizzi"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2950165",
+              "name": "H. Champliaud"
+            },
+            {
+              "authorId": "1962314",
+              "name": "T. Dao"
+            }
+          ]
+        },
+        {
+          "paperId": "dcc26cf4a1ea54a671a40cf2b43b4a4aeded2cd1",
+          "title": "Detection and correction of specular reflections for automatic surgical tool segmentation in thoracoscopic images",
+          "year": 2007,
+          "authors": [
+            {
+              "authorId": "1406437942",
+              "name": "C. Saint-Pierre"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2647050",
+              "name": "G. Grimard"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            }
+          ]
+        },
+        {
+          "paperId": "1baa9681ac5ac72f2bc3554a6c8c97f014605246",
+          "title": "Simulation and optimisation of a reconfigurable discrete die for the hot forming of thick steel plates in hydro power industry",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2950165",
+              "name": "H. Champliaud"
+            },
+            {
+              "authorId": "75000606",
+              "name": "T. Bellizzi"
+            },
+            {
+              "authorId": "47724362",
+              "name": "P. Seers"
+            }
+          ]
+        },
+        {
+          "paperId": "20b5196b0af691fe04e4207800a65b79c18783b4",
+          "title": "Assessment of brace local action on vertebrae relative poses.",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            }
+          ]
+        },
+        {
+          "paperId": "3da065574d270635a4b24cc69171200d4d95a1ba",
+          "title": "3D anatomical variability assessment of the scoliotic spine using statistics on Lie groups",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            }
+          ]
+        },
+        {
+          "paperId": "942770062d50f677c9d589da6cc1d1835b220133",
+          "title": "New Results - Computational Anatomy",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "2396816",
+              "name": "Vincent Arsigny"
+            },
+            {
+              "authorId": "2572331",
+              "name": "P. Fillard"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            },
+            {
+              "authorId": "10175804",
+              "name": "J. Peyrat"
+            },
+            {
+              "authorId": "1770888",
+              "name": "Maxime Sermesant"
+            },
+            {
+              "authorId": "1781157",
+              "name": "H. Delingette"
+            },
+            {
+              "authorId": null,
+              "name": "Chenyang Xu"
+            },
+            {
+              "authorId": "10024192",
+              "name": "E. McVeigh"
+            },
+            {
+              "authorId": "2412795623",
+              "name": "P. Thompson"
+            },
+            {
+              "authorId": "2689496",
+              "name": "S. Durrleman"
+            },
+            {
+              "authorId": "1699505",
+              "name": "A. Trouv\u00e9"
+            },
+            {
+              "authorId": "1789800",
+              "name": "O. Commowick"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "34722666",
+              "name": "H. Hufnagel"
+            }
+          ]
+        },
+        {
+          "paperId": "ad5cef2c1b05a2b72e50ac666dc89b6dc4a06bf6",
+          "title": "Print depth prediction in hot forming process with a reconfigurable die",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "75000606",
+              "name": "T. Bellizzi"
+            },
+            {
+              "authorId": "2950165",
+              "name": "H. Champliaud"
+            },
+            {
+              "authorId": "47724362",
+              "name": "P. Seers"
+            }
+          ]
+        },
+        {
+          "paperId": "ce3074e2aff24ee536e19de78b660be145fcd32b",
+          "title": "A novel framework for the 3D analysis of spine deformation modes.",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            }
+          ]
+        },
+        {
+          "paperId": "ceba4d2184c103b790eb2b5de35a9982d874b435",
+          "title": "Analysis and Simulation of Biomedical Images",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            },
+            {
+              "authorId": "1798335",
+              "name": "G. Malandain"
+            },
+            {
+              "authorId": "1781157",
+              "name": "H. Delingette"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "1770888",
+              "name": "Maxime Sermesant"
+            },
+            {
+              "authorId": "1772142",
+              "name": "J. Gallier"
+            },
+            {
+              "authorId": "134119262",
+              "name": "Isabelle Strobant"
+            },
+            {
+              "authorId": "1763209",
+              "name": "J. Debayle"
+            },
+            {
+              "authorId": "143676616",
+              "name": "F. Poyer"
+            },
+            {
+              "authorId": "36877035",
+              "name": "N. Toussaint"
+            },
+            {
+              "authorId": "2396816",
+              "name": "Vincent Arsigny"
+            },
+            {
+              "authorId": "1815680",
+              "name": "F. Billet"
+            },
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1806283",
+              "name": "O. Clatz"
+            },
+            {
+              "authorId": "1789800",
+              "name": "O. Commowick"
+            },
+            {
+              "authorId": "50820218",
+              "name": "Jimena Costa"
+            },
+            {
+              "authorId": "1403813014",
+              "name": "Guillaume Dugas-Phocion"
+            },
+            {
+              "authorId": "2689496",
+              "name": "S. Durrleman"
+            },
+            {
+              "authorId": "2572331",
+              "name": "P. Fillard"
+            },
+            {
+              "authorId": "1975196",
+              "name": "T. Glatard"
+            },
+            {
+              "authorId": "34722666",
+              "name": "H. Hufnagel"
+            },
+            {
+              "authorId": "1796918",
+              "name": "E. Konukoglu"
+            },
+            {
+              "authorId": "2611968",
+              "name": "Damien Lepiller"
+            },
+            {
+              "authorId": "10175804",
+              "name": "J. Peyrat"
+            },
+            {
+              "authorId": "2810073",
+              "name": "J. Souplet"
+            },
+            {
+              "authorId": "2014232",
+              "name": "Tom Kamiel Magda Vercauteren"
+            },
+            {
+              "authorId": "2984258",
+              "name": "\u00c9. Bardinet"
+            },
+            {
+              "authorId": "3221214",
+              "name": "P. Bondiau"
+            },
+            {
+              "authorId": "6417673",
+              "name": "J. Brandel"
+            },
+            {
+              "authorId": "1983149",
+              "name": "J. Darcourt"
+            },
+            {
+              "authorId": "46638272",
+              "name": "D. Dormont"
+            },
+            {
+              "authorId": "1398643687",
+              "name": "C. Lebrun-Fr\u00e9nay"
+            },
+            {
+              "authorId": "144159315",
+              "name": "D. Hill"
+            },
+            {
+              "authorId": "1727081",
+              "name": "J. Montagnat"
+            },
+            {
+              "authorId": "145272842",
+              "name": "L. Soler"
+            },
+            {
+              "authorId": "2412795623",
+              "name": "P. Thompson"
+            },
+            {
+              "authorId": "3095634",
+              "name": "J. Yelnik"
+            }
+          ]
+        },
+        {
+          "paperId": "efc46d72ce73fb84283dbb07480a87f90b333cf5",
+          "title": "Principal Spine Shape Deformation Modes Using Riemannian Geometry and Articulated Models",
+          "year": 2006,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1715990",
+              "name": "X. Pennec"
+            },
+            {
+              "authorId": "143934782",
+              "name": "H. Labelle"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "144827643",
+              "name": "N. Ayache"
+            }
+          ]
+        },
+        {
+          "paperId": "aafff5bc57026518cd79a32652e92d03c0b68f6f",
+          "title": "Segmentation of Laparoscopic Images for Computer Assisted Surgery",
+          "year": 2003,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1716898",
+              "name": "F. Cheriet"
+            },
+            {
+              "authorId": "2647050",
+              "name": "G. Grimard"
+            }
+          ]
+        },
+        {
+          "paperId": "1d5470c71f4d5934af610911fbb3362093c42c8f",
+          "title": "3 , 726 on State Clerk List ; 500 Jobs Now Being Filled",
+          "year": null,
+          "authors": [
+            {
+              "authorId": "144608597",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2111937604",
+              "name": "L. Anderson"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "146717821",
+      "url": "https://www.semanticscholar.org/author/146717821",
+      "name": "F. Jonathan",
+      "paperCount": 2,
+      "citationCount": 0,
+      "hIndex": 0,
+      "papers": [
+        {
+          "paperId": "3ed309dbb6180841dc5b5e31ee83277f4af2c585",
+          "title": "\u773c\u7403\u904b\u52d5\u304b\u3089\u306e\u4f5c\u696d\u306e\u4e88\u6e2c:\u7a7a\u9593\u5206\u5e03,\u52d5\u529b\u5b66\u3068\u753b\u50cf\u7279\u5fb4\u306e\u91cd\u8981\u6027\u306b\u3064\u3044\u3066\u3010Powered by NICT\u3011",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "146717821",
+              "name": "F. Jonathan"
+            },
+            {
+              "authorId": "2061438836",
+              "name": "D. Neil"
+            }
+          ]
+        },
+        {
+          "paperId": "9cce03eb07c2cdc5db711109a6ce0003671ab168",
+          "title": "\u30a6\u30a7\u30a2\u30e9\u30d6\u30eb\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30af\u30b9\u306e\u3092\u53ef\u80fd\u306b\u3059\u308b\u30b9\u30b1\u30fc\u30e9\u30d6\u30eb3D\u88fd\u9020\u3078\u306e\u5c0e\u96fb\u6027\u30de\u30a4\u30af\u30ed\u6d41\u4f53\u76f8\u4e92\u63a5\u7d9a\u3010Powered by NICT\u3011",
+          "year": 2016,
+          "authors": [
+            {
+              "authorId": "146717821",
+              "name": "F. Jonathan"
+            },
+            {
+              "authorId": "2075134876",
+              "name": "Liu Changqing"
+            },
+            {
+              "authorId": "147596348",
+              "name": "M. Sean"
+            },
+            {
+              "authorId": "146866715",
+              "name": "Harland Andy"
+            },
+            {
+              "authorId": "146593312",
+              "name": "E. Dale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2326656480",
+      "url": "https://www.semanticscholar.org/author/2326656480",
+      "name": "Jonathan Boisvert",
+      "paperCount": 2,
+      "citationCount": 2,
+      "hIndex": 1,
+      "papers": [
+        {
+          "paperId": "78281b3d4f71ed0ee3105ee7d5d068ffb5b2ee44",
+          "title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "3163125",
+              "name": "Isar Nejadgholi"
+            },
+            {
+              "authorId": "2373415264",
+              "name": "Mona Omidyeganeh"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "2326656480",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        },
+        {
+          "paperId": "739d5214a78ec40d6de40e7d31d0af86ea8969c2",
+          "title": "Multi-Frequency Nonlinear Methods for 3D Shape Measurement of Semi-Transparent Surfaces Using Projector-Camera Systems",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "3412981",
+              "name": "F. B. D. Dizeu"
+            },
+            {
+              "authorId": "2285403447",
+              "name": "Michel Picard"
+            },
+            {
+              "authorId": "2573886",
+              "name": "M. Drouin"
+            },
+            {
+              "authorId": "2326656480",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2279753241",
+      "url": "https://www.semanticscholar.org/author/2279753241",
+      "name": "Jonathan Boisvert",
+      "paperCount": 4,
+      "citationCount": 25,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "dcd576408fedbfb871f11eaebd53675b0f675af3",
+          "title": "Automatic Exposure Volumetric Additive Manufacturing",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "2279754288",
+              "name": "Antony Orth"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2339941968",
+              "name": "Katherine Houlahan"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2340514086",
+              "name": "Hao Li"
+            },
+            {
+              "authorId": "2340391571",
+              "name": "Nicolas Milliken"
+            },
+            {
+              "authorId": "2120785585",
+              "name": "Joshua J. Latimer"
+            },
+            {
+              "authorId": "2131863767",
+              "name": "Derek Aranguren van Egmond"
+            },
+            {
+              "authorId": "36005264",
+              "name": "Bosco Yu"
+            },
+            {
+              "authorId": "2279753241",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2247539062",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "3aaf0bcb7580073f39f1aea88a942e98a48e14e9",
+          "title": "Progress in volumetric additive manufacturing at the National Research Council of Canada",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2279754288",
+              "name": "Antony Orth"
+            },
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2144225024",
+              "name": "X. Liu"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "2279753241",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2247539062",
+              "name": "C. Paquet"
+            }
+          ]
+        },
+        {
+          "paperId": "5a30bc2dc67dfbbcdfa99950b5901ba89a29baa4",
+          "title": "Micro-optics fabrication using blurred tomography",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "38981692",
+              "name": "C. Paquet"
+            },
+            {
+              "authorId": "2279753241",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2279754288",
+              "name": "Antony Orth"
+            }
+          ]
+        },
+        {
+          "paperId": "729fb97c3baf89552fc8ee2500adaac6c8c2b1c3",
+          "title": "Printing of low-viscosity materials using tomographic additive manufacturing",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2074266007",
+              "name": "Dan Webber"
+            },
+            {
+              "authorId": "2279754288",
+              "name": "Antony Orth"
+            },
+            {
+              "authorId": "2325652525",
+              "name": "Victor Vidyapin"
+            },
+            {
+              "authorId": "2145064725",
+              "name": "Yujie Zhang"
+            },
+            {
+              "authorId": "2285403447",
+              "name": "Michel Picard"
+            },
+            {
+              "authorId": "2325738711",
+              "name": "David Liu"
+            },
+            {
+              "authorId": "2091876348",
+              "name": "Kathleen L. Sampson"
+            },
+            {
+              "authorId": "16276224",
+              "name": "T. Lacelle"
+            },
+            {
+              "authorId": "2247539062",
+              "name": "C. Paquet"
+            },
+            {
+              "authorId": "2279753241",
+              "name": "Jonathan Boisvert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2351185141",
+      "url": "https://www.semanticscholar.org/author/2351185141",
+      "name": "Jonathan Boisvert",
+      "paperCount": 2,
+      "citationCount": 0,
+      "hIndex": 0,
+      "papers": [
+        {
+          "paperId": "1a5ff334e97d7fe1e3ca6bba615ce6c6a02813d5",
+          "title": "Lock-in amplitude-phase correlations in coherent Raman microscopy: application to lithium ores",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "144787010",
+              "name": "Alexander N. Harper"
+            },
+            {
+              "authorId": "2351185141",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "1395779445",
+              "name": "S. Shivkumar"
+            },
+            {
+              "authorId": "2317230550",
+              "name": "Leah Frackleton"
+            },
+            {
+              "authorId": "2317235601",
+              "name": "Malcolm Latorre"
+            },
+            {
+              "authorId": "91546223",
+              "name": "T. Grammatikopoulos"
+            },
+            {
+              "authorId": "3486551",
+              "name": "A. Pegoraro"
+            },
+            {
+              "authorId": "2252178959",
+              "name": "A. Stolow"
+            }
+          ]
+        },
+        {
+          "paperId": "b96b2f42c5c0d0d50929ab6b191508eae1ce7bc4",
+          "title": "Lock-in amplitude-phase correlations for enhanced imaging and segmentation in stimulated Raman scattering microscopy.",
+          "year": 2025,
+          "authors": [
+            {
+              "authorId": "144787010",
+              "name": "Alexander N. Harper"
+            },
+            {
+              "authorId": "2351185141",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "91546223",
+              "name": "T. Grammatikopoulos"
+            },
+            {
+              "authorId": "2252178959",
+              "name": "A. Stolow"
+            },
+            {
+              "authorId": "3486551",
+              "name": "A. Pegoraro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "authorId": "2274943414",
+      "url": "https://www.semanticscholar.org/author/2274943414",
+      "name": "Jonathan Boisvert",
+      "paperCount": 4,
+      "citationCount": 38,
+      "hIndex": 3,
+      "papers": [
+        {
+          "paperId": "8b0697cddce7f10a680e0bc948f573f815beb2bb",
+          "title": "Most azole resistance mutations in the Candida albicans drug target confer cross-resistance without intrinsic fitness cost",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2185364605",
+              "name": "Camille B\u00e9dard"
+            },
+            {
+              "authorId": "1401599067",
+              "name": "Isabelle Gagnon-Arsenault"
+            },
+            {
+              "authorId": "2274943414",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "39478178",
+              "name": "Samuel Plante"
+            },
+            {
+              "authorId": "4055834",
+              "name": "A. K. Dub\u00e9"
+            },
+            {
+              "authorId": "2086982169",
+              "name": "Alicia Pageau"
+            },
+            {
+              "authorId": "6866916",
+              "name": "A. Fijarczyk"
+            },
+            {
+              "authorId": "80824040",
+              "name": "Jehoshua Sharma"
+            },
+            {
+              "authorId": "1395581750",
+              "name": "Laetitia Maroc"
+            },
+            {
+              "authorId": "40225867",
+              "name": "Rebecca S. Shapiro"
+            },
+            {
+              "authorId": "2112373",
+              "name": "C. Landry"
+            }
+          ]
+        },
+        {
+          "paperId": "8fb33d6f2533f4e59a412dd13e19420718a10637",
+          "title": "The putative error prone polymerase REV1 mediates DNA damage and drug resistance in Candida albicans",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2138705546",
+              "name": "Michelle R Agyare-Tabbi"
+            },
+            {
+              "authorId": "52143264",
+              "name": "Deeva Uthayakumar"
+            },
+            {
+              "authorId": "2308113320",
+              "name": "Desiree Francis"
+            },
+            {
+              "authorId": "1395581750",
+              "name": "Laetitia Maroc"
+            },
+            {
+              "authorId": "2313504762",
+              "name": "Chris Grant"
+            },
+            {
+              "authorId": "2308110162",
+              "name": "Peter McQueen"
+            },
+            {
+              "authorId": "2308109362",
+              "name": "Garret Westmacott"
+            },
+            {
+              "authorId": "2273207037",
+              "name": "Hajer Shaker"
+            },
+            {
+              "authorId": "2308111780",
+              "name": "Iwona Skulska"
+            },
+            {
+              "authorId": "1401599067",
+              "name": "Isabelle Gagnon-Arsenault"
+            },
+            {
+              "authorId": "2274943414",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2333141893",
+              "name": "Christian R. Landry"
+            },
+            {
+              "authorId": "40225867",
+              "name": "Rebecca S. Shapiro"
+            }
+          ]
+        },
+        {
+          "paperId": "982f42bb904cf75cd58d13ca4c05caf350f86243",
+          "title": "A role for the putative error-prone polymerase REV1 in DNA damage and antifungal drug resistance in Candida albicans",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2138705546",
+              "name": "Michelle R Agyare-Tabbi"
+            },
+            {
+              "authorId": "52143264",
+              "name": "Deeva Uthayakumar"
+            },
+            {
+              "authorId": "2308113320",
+              "name": "Desiree Francis"
+            },
+            {
+              "authorId": "1395581750",
+              "name": "Laetitia Maroc"
+            },
+            {
+              "authorId": "2313504762",
+              "name": "Chris Grant"
+            },
+            {
+              "authorId": "2308110162",
+              "name": "Peter McQueen"
+            },
+            {
+              "authorId": "2308109362",
+              "name": "Garret Westmacott"
+            },
+            {
+              "authorId": "2273207037",
+              "name": "Hajer Shaker"
+            },
+            {
+              "authorId": "2308111780",
+              "name": "Iwona Skulska"
+            },
+            {
+              "authorId": "1401599067",
+              "name": "Isabelle Gagnon-Arsenault"
+            },
+            {
+              "authorId": "2274943414",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "2112373",
+              "name": "C. Landry"
+            },
+            {
+              "authorId": "40225867",
+              "name": "Rebecca S. Shapiro"
+            }
+          ]
+        },
+        {
+          "paperId": "f3cbd1bc44b2ac414ca94e24c7cedf3a37a9515d",
+          "title": "Most azole antifungal resistance mutations in the drug target provide cross-resistance and carry no intrinsic fitness cost",
+          "year": 2024,
+          "authors": [
+            {
+              "authorId": "2185364605",
+              "name": "Camille B\u00e9dard"
+            },
+            {
+              "authorId": "1401599067",
+              "name": "Isabelle Gagnon-Arsenault"
+            },
+            {
+              "authorId": "2274943414",
+              "name": "Jonathan Boisvert"
+            },
+            {
+              "authorId": "39478178",
+              "name": "Samuel Plante"
+            },
+            {
+              "authorId": "4055834",
+              "name": "A. K. Dub\u00e9"
+            },
+            {
+              "authorId": "2086982169",
+              "name": "Alicia Pageau"
+            },
+            {
+              "authorId": "6866916",
+              "name": "A. Fijarczyk"
+            },
+            {
+              "authorId": "80824040",
+              "name": "Jehoshua Sharma"
+            },
+            {
+              "authorId": "1395581750",
+              "name": "Laetitia Maroc"
+            },
+            {
+              "authorId": "40225867",
+              "name": "Rebecca S. Shapiro"
+            },
+            {
+              "authorId": "2112373",
+              "name": "C. Landry"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
